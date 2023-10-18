@@ -4,6 +4,23 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib.lines import Line2D
 
+# Dark Theme for Matplotlib
+#plt.style.use('dark_background')
+
+background_color = '#0E1117'
+params = {
+    "axes.labelcolor": "white",
+    "axes.edgecolor": "white",
+    "axes.facecolor": background_color,
+    "xtick.color": "white",
+    "ytick.color": "white",
+    "text.color": "white",
+    "figure.facecolor": background_color,
+    "grid.color": "gray",
+    "grid.linestyle": "--",
+}
+plt.rcParams.update(params)
+
 # Function to load data
 @st.cache_data
 def load_data():
