@@ -7,7 +7,7 @@ from matplotlib.lines import Line2D
 # Function to load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("../bets/bets.csv")
+    df = pd.read_csv("bets/bets.csv")
     return df
 
 def process_data(df):
