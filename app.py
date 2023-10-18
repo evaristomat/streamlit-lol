@@ -166,6 +166,45 @@ def scatter_plot(df):
     plt.legend(handles=legend_elements)
     st.pyplot(ax.get_figure())
 
+import streamlit as st
+import numpy as np
+
+def display_summary(df, roi_value):
+    """
+    Display a summary of the dataframe for the selected ROI value.
+    
+    Parameters:
+    - df: The dataframe to extract summary from.
+    - roi_value: The selected ROI value.
+    """
+
+    # Filter the dataframe
+    filtered_df = df[df['ROI'] >= roi_value]
+
+    # Calculate profit or loss for each bet and sum it
+    filtered_df['profit'] = np.where(filtered_df['status'] == 'win', 
+                                     (filtered_df['odds'] - 1), 
+                                     -1)
+    total_profit = filtered_df['profit'].sum()
+
+    # Calculate the other summary statistics
+    total_bets = len(filtered_df)
+    wins = filtered_df[filtered_df['status'] == 'win'].shape[0]
+    losses = total_bets - wins
+    win_rate = wins / total_bets if total_bets != 0 else 0  # avoid division by zero
+    avg_odd = filtered_df['odds'].mean()
+
+    # Display the summary in columns
+    col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
+    col1.metric(label="ROI Chosen", value=f"{roi_value}%")
+    col2.metric(label="Total Bets", value=f"{total_bets}")
+    col3.metric(label="Wins", value=f"{wins}")
+    col4.metric(label="Losses", value=f"{losses}")
+    col5.metric(label="Win Rate", value=f"{win_rate*100:.0f}%")  # Display full win rate
+    col6.metric(label="Average Odd", value=f"{avg_odd:.2f}")
+    col7.metric(label="Total Profit", value=f"{total_profit:.2f}U")
+
+
 def main():
     df = load_data()
 
@@ -180,6 +219,9 @@ def main():
 
     # Filter data based on the chosen ROI
     processed_df = process_data(df, chosen_roi, max_available_roi)
+
+    # Display the summary below the ROI slider
+    display_summary(processed_df, chosen_roi)
 
     # Check if the dataframe is empty
     if processed_df.empty:
