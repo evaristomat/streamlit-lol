@@ -25,24 +25,35 @@ plt.rcParams.update(params)
 @st.cache_data
 def load_data():
     df = pd.read_csv("bets/bets.csv")
+    df = df[df['status'].isin(['win', 'loss'])]
     return df
 
-def process_data(df):
+def process_data(df, min_roi, max_roi):
     df = df.copy()  # Create a copy of the dataframe
     df['ROI'] = df['ROI'].str.rstrip('%').astype('float')
-    df = df[df['status'].isin(['win', 'loss'])]
-    df = df[df['ROI'] >= 10]
-    df['profit'] = df.apply(lambda row: row['odds'] - 1 if row['status'] == 'win' else -1, axis=1)
+    df = df[(df['ROI'] >= min_roi) & (df['ROI'] <= max_roi)]  # Filter ROI based on user input
+    df['profit'] = df.apply(lambda row: row['odds'] - 1
+    if row['status'] == 'win' else -1, axis=1)
     df['cumulative_profit'] = df['profit'].cumsum()
     df['bet_group'] = df['bet_line'].str.split().str[0]
     return df
 
 def bankroll_plot(df):
     window_size = 10
-    df['moving_average'] = df['cumulative_profit'].rolling(window=window_size).mean()
+    
+    # Check if there's enough data to compute the moving average
+    if len(df) < window_size:
+        st.warning(f"Not enough data to compute a {window_size}-bet moving average. Plotting original data without moving average.")
+    else:
+        df['moving_average'] = df['cumulative_profit'].rolling(window=window_size).mean()
+
     plt.figure(figsize=(12, 7))
     ax = sns.lineplot(data=df, x=df.index, y='cumulative_profit', marker="o", label='Cumulative Profit')
-    sns.lineplot(data=df, x=df.index, y='moving_average', color='red', label=f'{window_size}-bet Moving Average')
+    
+    # Plot the moving average only if it's available
+    if 'moving_average' in df.columns:
+        sns.lineplot(data=df, x=df.index, y='moving_average', color='red', label=f'{window_size}-bet Moving Average')
+
     plt.title('Evolution of Bankroll Over Bets with Moving Average')
     plt.ylabel('Cumulative Profit')
     plt.xlabel('Bet Sequence')
@@ -56,11 +67,19 @@ def odds_plot(df):
     bins = [1.4, 1.6, 1.8, 2, 2.2, 2.4, 2.6, 2.8, 3]
     df['odds_bin'] = pd.cut(df['odds'], bins)
     grouped = df.groupby(['odds_bin', 'status']).size().unstack().fillna(0)
+    
+    # Handle potentially missing columns
+    if 'win' not in grouped:
+        grouped['win'] = 0
+    if 'loss' not in grouped:
+        grouped['loss'] = 0
+    
     mid_points = [(b + bins[i+1]) / 2 for i, b in enumerate(bins[:-1])]
     theoretical_probs = [1 / point for point in mid_points]
     grouped['total'] = grouped['win'] + grouped['loss']
     grouped['win_ratio'] = grouped['win'] / grouped['total']
     grouped['edge'] = grouped['win_ratio'] - theoretical_probs
+    
     plt.figure(figsize=(10, 7))
     ax = sns.barplot(x=grouped.index, y=grouped['edge'], palette="coolwarm", errorbar=None)
     ax.axhline(0, color='black', linestyle='--')
@@ -73,8 +92,16 @@ def odds_plot(df):
     plt.tight_layout()
     st.pyplot(ax.get_figure())
 
+
 def bet_groups_plot(df):
     grouped = df.groupby(['bet_group', 'status']).size().unstack().fillna(0)
+    
+    # Handle potentially missing columns
+    if 'win' not in grouped:
+        grouped['win'] = 0
+    if 'loss' not in grouped:
+        grouped['loss'] = 0
+    
     grouped['total'] = grouped['win'] + grouped['loss']
     grouped['win_ratio'] = grouped['win'] / grouped['total']
     grouped['loss_ratio'] = grouped['loss'] / grouped['total']
@@ -109,6 +136,7 @@ def bet_groups_plot(df):
     plt.tight_layout()
     st.pyplot(ax.get_figure())
 
+
 def profit_plot(df):
     profit_by_group = df.groupby('bet_group')['profit'].sum()
     plt.figure(figsize=(10, 7))
@@ -138,19 +166,32 @@ def scatter_plot(df):
     plt.legend(handles=legend_elements)
     st.pyplot(ax.get_figure())
 
-# Main execution
 def main():
     df = load_data()
-    processed_df = process_data(df)
-    
-    st.title('Betting Statistics Dashboard - ROI 10%')
-    
-    if st.button('Show Analysis'):
-        bankroll_plot(processed_df)
-        odds_plot(processed_df)
-        bet_groups_plot(processed_df)
-        profit_plot(processed_df)
-        scatter_plot(processed_df)
+
+    st.title('Betting Statistics Dashboard')
+
+    # Extract the minimum and maximum ROI from the dataframe
+    min_available_roi = df['ROI'].str.rstrip('%').astype('float').min()
+    max_available_roi = df['ROI'].str.rstrip('%').astype('float').max()
+
+    # Set a slider for selecting a minimum ROI
+    chosen_roi = st.slider('Choose Minimum ROI (%)', int(min_available_roi), int(max_available_roi), int(min_available_roi))
+
+    # Filter data based on the chosen ROI
+    processed_df = process_data(df, chosen_roi, max_available_roi)
+
+    # Check if the dataframe is empty
+    if processed_df.empty:
+        st.write(f"No data available for the chosen ROI of {chosen_roi}% or higher.")
+        return  # Exit the function
+
+    # Display plots
+    bankroll_plot(processed_df)
+    odds_plot(processed_df)
+    bet_groups_plot(processed_df)
+    profit_plot(processed_df)
+    scatter_plot(processed_df)
 
 # Call the main execution
 if __name__ == "__main__":
