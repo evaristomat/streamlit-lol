@@ -1,0 +1,138 @@
+date,league,t1,t2,bet_type,bet_line,ROI,fair_odds,odds,House,url,status
+2023-10-09,LOL - Worlds Qualifying Series,Team BDS,Golden Guardians,under,total_dragons 4.5,35.00%,1.67,2.25,Bet365,,win
+2023-10-09,LOL - Worlds Qualifying Series,Team BDS,Golden Guardians,under,total_towers 12.5,14.38%,1.6,1.83,Bet365,,win
+2023-10-09,LOL - Worlds Qualifying Series,Team BDS,Golden Guardians,under,total_kills 27.5,14.00%,1.67,1.9,Bet365,,win
+2023-10-09,LOL - Worlds Qualifying Series,Team BDS,Golden Guardians,under,total_inhibitors 1.5,0.00%,2.5,2.5,Bet365,,win
+2023-10-10,LOL - World Champs Play-In,PSG Talon,Movistar R7,under,total_towers 11.5,0.22%,1.9,1.9,Bet365,,loss
+2023-10-10,LOL - World Champs Play-In,PSG Talon,Movistar R7,over,total_kills 26.5,0.47%,1.82,1.83,Bet365,,loss
+2023-10-10,LOL - World Champs Play-In,PSG Talon,Movistar R7,under,total_inhibitors 1.5,0.96%,1.88,1.9,Bet365,,loss
+2023-10-10,LOL - World Champs Play-In,GAM Esports,LOUD,under,total_dragons 4.5,25.21%,1.37,1.72,Bet365,,win
+2023-10-10,LOL - World Champs Play-In,GAM Esports,LOUD,over,total_towers 12.5,3.57%,2.17,2.25,Bet365,,win
+2023-10-10,LOL - World Champs Play-In,GAM Esports,LOUD,under,total_kills 29.5,4.96%,1.74,1.83,Bet365,,win
+2023-10-10,LOL - World Champs Play-In,GAM Esports,LOUD,under,total_inhibitors 1.5,34.93%,1.85,2.5,Bet365,,loss
+2023-10-11,LOL - World Champs Play-In,CTBC Flying Oyster,DetonatioN FocusMe,over,total_dragons 4.5,3.85%,2.12,2.2,Bet365,,win
+2023-10-11,LOL - World Champs Play-In,CTBC Flying Oyster,DetonatioN FocusMe,under,total_towers 11.5,40.51%,1.49,2.1,Bet365,,win
+2023-10-11,LOL - World Champs Play-In,CTBC Flying Oyster,DetonatioN FocusMe,under,total_inhibitors 1.5,15.01%,2.06,2.37,Bet365,,win
+2023-10-08,Coupe de France,Vitality.Bee,Team du Sud,FD,first_dragon Vitality.Bee,18.58%,1.43,1.694,Dafabet,,win
+2023-10-10,LOL - World Champs Play-In,PSG Talon,Movistar R7,over,total_kills 24.5,11.95%,1.63,1.83,Bet365,,win
+2023-10-10,LOL - World Champs Play-In,PSG Talon,Movistar R7,over,game_duration 29.5,43.06%,1.33,1.9,Bet365,,loss
+2023-10-10,LOL - World Champs Play-In,GAM Esports,LOUD,under,total_kills 28.5,4.96%,1.74,1.83,Bet365,,win
+2023-10-10,LOL - World Champs Play-In,GAM Esports,LOUD,under,game_duration 30.5,12.49%,1.63,1.83,Bet365,,win
+2023-10-11,LOL - World Champs Play-In,CTBC Flying Oyster,DetonatioN FocusMe,under,game_duration 31.5,1.19%,1.81,1.83,Bet365,,loss
+2023-10-11,LOL - World Champs Play-In,Team BDS,Team Whales,over,total_dragons 4.5,12.50%,2.67,3.0,Bet365,,loss
+2023-10-11,LOL - World Champs Play-In,Team BDS,Team Whales,over,total_towers 11.5,21.00%,1.82,2.2,Bet365,,loss
+2023-10-11,LOL - World Champs Play-In,Team BDS,Team Whales,under,total_kills 23.5,5.22%,1.74,1.83,Bet365,,win
+2023-10-11,LOL - World Champs Play-In,Team BDS,Team Whales,over,game_duration 27.5,14.38%,1.6,1.83,Bet365,,loss
+2023-10-11,LOL - World Champs Play-In,Team BDS,Team Whales,under,total_inhibitors 1.5,65.90%,1.43,2.37,Bet365,,win
+2023-10-12,LOL - World Champs Play-In,LOUD,PSG Talon,under,total_dragons 4.5,37.25%,1.46,2.0,Bet365,,win
+2023-10-12,LOL - World Champs Play-In,LOUD,PSG Talon,under,total_towers 12.5,3.34%,1.77,1.83,Bet365,,win
+2023-10-12,LOL - World Champs Play-In,LOUD,PSG Talon,under,total_kills 26.5,4.06%,1.76,1.83,Bet365,,loss
+2023-10-12,LOL - World Champs Play-In,LOUD,PSG Talon,under,game_duration 33.5,37.07%,1.34,1.83,Bet365,,win
+2023-10-12,LOL - World Champs Play-In,LOUD,PSG Talon,under,total_inhibitors 1.5,39.22%,1.88,2.62,Bet365,,win
+2023-10-13,LOL - World Champs Play-In,GAM Esports,Movistar R7,under,total_dragons 4.5,0.37%,1.49,1.5,Bet365,,win
+2023-10-13,LOL - World Champs Play-In,GAM Esports,Movistar R7,over,total_kills 25.5,34.83%,1.36,1.83,Bet365,,loss
+2023-10-13,LOL - World Champs Play-In,GAM Esports,Movistar R7,over,game_duration 29.5,10.34%,1.66,1.83,Bet365,,loss
+2023-10-11,2023 World Championship Play-In,CTBC Flying Oyster,DetonatioN FocusMe,FD,first_dragon DetonatioN FocusMe,19.00%,1.7,2.023,Dafabet,,loss
+2023-10-11,2023 World Championship Play-In,CTBC Flying Oyster,DetonatioN FocusMe,over,game_duration 30.0,9.32%,1.72,1.882,Dafabet,,win
+2023-10-31,Coupe de France,Team GO,Team du Sud,over,total_kills 31.5,5.34%,1.74,1.832,Dafabet,,pending
+2023-10-31,Coupe de France,Team GO,Team du Sud,FD,first_dragon Team du Sud,4.83%,1.82,1.906,Dafabet,,pending
+2023-10-31,Coupe de France,Team GO,Team du Sud,under,game_duration 31.0,22.14%,1.54,1.879,Dafabet,,pending
+2023-10-12,LOL - World Champs Play-In,PSG Talon,LOUD,under,game_duration 31.5,3.34%,1.77,1.83,Bet365,,loss
+2023-10-12,LOL - World Champs Play-In,Team Whales,CTBC Flying Oyster,under,total_towers 12.5,29.52%,1.21,1.57,Bet365,,win
+2023-10-12,LOL - World Champs Play-In,Team Whales,CTBC Flying Oyster,under,total_kills 25.5,4.50%,1.82,1.9,Bet365,,win
+2023-10-12,LOL - World Champs Play-In,Team Whales,CTBC Flying Oyster,under,total_inhibitors 1.5,57.50%,1.43,2.25,Bet365,,win
+2023-10-13,LOL - World Champs Play-In,Team BDS,DetonatioN FocusMe,under,total_kills 24.5,18.68%,1.54,1.83,Bet365,,win
+2023-10-13,LOL - World Champs Play-In,Team BDS,DetonatioN FocusMe,over,game_duration 27.5,17.53%,1.53,1.8,Bet365,,loss
+2023-10-13,LOL - World Champs Play-In,Team BDS,DetonatioN FocusMe,under,total_inhibitors 1.5,9.19%,2.06,2.25,Bet365,,win
+2023-11-01,Coupe de France,Team GO,Team du Sud,over,total_kills 31.5,5.34%,1.74,1.832,Dafabet,,pending
+2023-11-01,Coupe de France,Team GO,Team du Sud,FD,first_dragon Team du Sud,4.83%,1.82,1.906,Dafabet,,pending
+2023-11-01,Coupe de France,Team GO,Team du Sud,under,game_duration 31.0,22.14%,1.54,1.879,Dafabet,,pending
+2023-10-12,LOL - World Champs Play-In,PSG Talon,LOUD,under,total_barons 1.5,1.71%,1.87,1.9,Bet365,,loss
+2023-10-13,LOL - World Champs Play-In,Team BDS,DetonatioN FocusMe,under,total_barons 1.5,0.58%,1.52,1.53,Bet365,,loss
+2023-11-01,Coupe de France,Team GO,Team du Sud,over,total_barons 1.5,1.80%,2.5,2.545,Dafabet,,pending
+2023-10-13,LOL - World Champs Play-In,Movistar R7,GAM Esports,over,total_kills 26.5,29.45%,1.41,1.83,Bet365,,loss
+2023-10-13,LOL - World Champs Play-In,Team BDS,DetonatioN FocusMe,over,total_dragons 4.5,2.32%,2.69,2.75,Bet365,,loss
+2023-10-13,LOL - World Champs Play-In,Team BDS,DetonatioN FocusMe,over,game_duration 28.5,8.72%,1.68,1.83,Bet365,,loss
+2023-10-14,LOL - World Champs Play-In,LOUD,GAM Esports,under,total_dragons 4.5,19.04%,1.44,1.72,Bet365,,win
+2023-10-14,LOL - World Champs Play-In,LOUD,GAM Esports,under,total_kills 28.5,6.34%,1.69,1.8,Bet365,,loss
+2023-10-14,LOL - World Champs Play-In,LOUD,GAM Esports,under,game_duration 32.5,35.81%,1.35,1.83,Bet365,,loss
+2023-10-14,LOL - World Champs Play-In,LOUD,GAM Esports,under,total_inhibitors 1.5,9.84%,2.05,2.25,Bet365,,loss
+2023-10-14,2023 World Championship Play-In,LOUD,GAM Esports,over,total_kills 26.5,11.23%,1.7,1.887,Dafabet,,win
+2023-10-14,2023 World Championship Play-In,LOUD,GAM Esports,under,game_duration 31.0,7.59%,1.78,1.915,Dafabet,,loss
+2023-10-14,2023 World Championship Play-In,LOUD,GAM Esports,under,total_barons 1.5,3.70%,1.71,1.771,Dafabet,,loss
+2023-10-17,Iberian Cup,Movistar Riders,ZETA,FD,first_dragon ZETA,126.70%,1.0,2.267,Dafabet,,pending
+2023-10-14,LOL - World Champs Play-In,CTBC Flying Oyster,Team BDS,over,total_dragons 4.5,31.25%,1.9,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20909288/D19/E18093190/F19/,win
+2023-10-14,LOL - World Champs Play-In,CTBC Flying Oyster,Team BDS,under,total_towers 11.5,14.00%,1.67,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20909288/D19/E18093190/F19/,loss
+2023-10-14,LOL - World Champs Play-In,CTBC Flying Oyster,Team BDS,over,game_duration 29.5,21.50%,1.48,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20909288/D19/E18093190/F19/,win
+2023-10-14,LOL - World Champs Play-In,CTBC Flying Oyster,Team BDS,under,total_inhibitors 1.5,18.13%,1.9,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20909288/D19/E18093190/F19/,loss
+2023-10-14,LOL - World Champs Play-In,CTBC Flying Oyster,Team BDS,over,total_barons 1.5,16.88%,2.35,2.75,Bet365,https://www.bet365.com/#/AC/B151/C20909288/D19/E18093190/F19/,loss
+2023-10-15,LOL - World Champs Play-In,Team Whales,GAM Esports,under,total_dragons 4.5,18.95%,1.54,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20909288/D19/E18100196/F19/,win
+2023-10-15,LOL - World Champs Play-In,Team Whales,GAM Esports,under,total_towers 12.5,9.90%,1.43,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20909288/D19/E18100196/F19/,loss
+2023-10-15,LOL - World Champs Play-In,Team Whales,GAM Esports,under,total_kills 27.5,5.22%,1.74,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20909288/D19/E18100196/F19/,win
+2023-10-15,LOL - World Champs Play-In,Team Whales,GAM Esports,under,game_duration 32.5,28.10%,1.43,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20909288/D19/E18100196/F19/,win
+2023-10-15,LOL - World Champs Play-In,Team Whales,GAM Esports,under,total_inhibitors 1.5,35.00%,1.67,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20909288/D19/E18100196/F19/,win
+2023-10-15,LOL - World Champs Play-In,PSG Talon,Team BDS,under,total_dragons 4.5,18.47%,1.6,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20909288/D19/E18101209/F19/,loss
+2023-10-15,LOL - World Champs Play-In,PSG Talon,Team BDS,under,total_kills 25.5,3.34%,1.77,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20909288/D19/E18101209/F19/,win
+2023-10-15,LOL - World Champs Play-In,PSG Talon,Team BDS,under,game_duration 32.5,8.72%,1.68,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20909288/D19/E18101209/F19/,loss
+2023-10-15,LOL - World Champs Play-In,PSG Talon,Team BDS,under,total_inhibitors 1.5,15.81%,1.94,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20909288/D19/E18101209/F19/,loss
+2023-10-15,2023 World Championship Play-In,GAM Esports,Team Whales,under,total_kills 27.5,6.95%,1.74,1.86,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231013200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,win
+2023-10-15,2023 World Championship Play-In,GAM Esports,Team Whales,under,game_duration 31.0,4.69%,1.9,1.994,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231013200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,win
+2023-10-15,2023 World Championship Play-In,GAM Esports,Team Whales,under,total_barons 1.5,10.22%,1.67,1.837,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231013200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,loss
+2023-10-19,LOL - World Champs,Gen.G,GAM Esports,over,total_dragons 3.5,92.50%,1.14,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108568/F19/,pending
+2023-10-19,LOL - World Champs,Gen.G,GAM Esports,over,total_towers 10.5,76.00%,1.25,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108568/F19/,pending
+2023-10-19,LOL - World Champs,Gen.G,GAM Esports,over,total_kills 22.5,8.75%,1.38,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108568/F19/,pending
+2023-10-19,LOL - World Champs,Gen.G,GAM Esports,over,game_duration 26.5,60.13%,1.14,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108568/F19/,pending
+2023-10-19,LOL - World Champs,Gen.G,GAM Esports,under,total_inhibitors 1.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108568/F19/,pending
+2023-10-19,LOL - World Champs,Gen.G,GAM Esports,over,total_barons 1.5,102.50%,2.22,4.5,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108568/F19/,pending
+2023-10-19,LOL - World Champs,NRG,Weibo Gaming,over,total_dragons 3.5,8.68%,1.48,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108569/F19/,pending
+2023-10-19,LOL - World Champs,NRG,Weibo Gaming,over,total_towers 11.5,57.50%,1.43,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108569/F19/,pending
+2023-10-19,LOL - World Champs,NRG,Weibo Gaming,over,total_kills 23.5,23.53%,1.48,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108569/F19/,pending
+2023-10-19,LOL - World Champs,NRG,Weibo Gaming,over,game_duration 26.5,28.10%,1.43,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108569/F19/,pending
+2023-10-19,LOL - World Champs,NRG,Weibo Gaming,over,total_inhibitors 1.5,18.95%,1.54,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108569/F19/,pending
+2023-10-19,LOL - World Champs,NRG,Weibo Gaming,over,total_barons 1.5,130.00%,1.74,4.0,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108569/F19/,pending
+2023-10-19,LOL - World Champs,G2 Esports,Dplus KIA,over,total_towers 11.5,8.68%,1.48,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108570/F19/,pending
+2023-10-19,LOL - World Champs,G2 Esports,Dplus KIA,over,game_duration 30.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108570/F19/,pending
+2023-10-19,LOL - World Champs,G2 Esports,Dplus KIA,under,total_inhibitors 1.5,6.25%,2.35,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108570/F19/,pending
+2023-10-19,LOL - World Champs,JD Gaming,Team BDS,over,total_dragons 3.5,80.00%,1.25,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108571/F19/,pending
+2023-10-19,LOL - World Champs,JD Gaming,Team BDS,over,total_towers 10.5,74.37%,1.29,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108571/F19/,pending
+2023-10-19,LOL - World Champs,JD Gaming,Team BDS,over,game_duration 26.5,46.40%,1.25,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108571/F19/,pending
+2023-10-19,LOL - World Champs,JD Gaming,Team BDS,over,total_barons 1.5,40.00%,2.86,4.0,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108571/F19/,pending
+2023-10-19,LOL - World Champs,T1,Team Liquid,over,total_dragons 3.5,46.40%,1.25,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108572/F19/,pending
+2023-10-19,LOL - World Champs,T1,Team Liquid,over,total_towers 10.5,70.50%,1.29,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108572/F19/,pending
+2023-10-19,LOL - World Champs,T1,Team Liquid,over,total_kills 22.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108572/F19/,pending
+2023-10-19,LOL - World Champs,T1,Team Liquid,over,game_duration 26.5,46.40%,1.25,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108572/F19/,pending
+2023-10-19,LOL - World Champs,T1,Team Liquid,under,total_inhibitors 1.5,5.00%,1.9,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108572/F19/,pending
+2023-10-19,LOL - World Champs,T1,Team Liquid,over,total_barons 1.5,94.85%,2.22,4.33,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108572/F19/,pending
+2023-10-19,LOL - World Champs,Cloud9,MAD Lions,under,total_dragons 4.5,35.00%,1.67,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108573/F19/,pending
+2023-10-19,LOL - World Champs,Cloud9,MAD Lions,under,total_towers 12.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108573/F19/,pending
+2023-10-19,LOL - World Champs,Cloud9,MAD Lions,over,total_kills 26.5,5.22%,1.74,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108573/F19/,pending
+2023-10-19,LOL - World Champs,Cloud9,MAD Lions,under,game_duration 31.5,5.22%,1.74,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108573/F19/,pending
+2023-10-19,LOL - World Champs,Cloud9,MAD Lions,under,total_inhibitors 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108573/F19/,pending
+2023-10-19,LOL - World Champs,Cloud9,MAD Lions,under,total_barons 1.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108573/F19/,pending
+2023-10-19,LOL - World Champs,Bilibili Gaming,KT Rolster,under,total_dragons 4.5,26.00%,1.67,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108574/F19/,pending
+2023-10-19,LOL - World Champs,Bilibili Gaming,KT Rolster,under,total_towers 12.5,7.90%,1.54,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108574/F19/,pending
+2023-10-19,LOL - World Champs,Bilibili Gaming,KT Rolster,over,total_kills 26.5,5.22%,1.74,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108574/F19/,pending
+2023-10-19,LOL - World Champs,Bilibili Gaming,KT Rolster,over,game_duration 30.5,5.22%,1.74,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108574/F19/,pending
+2023-10-19,LOL - World Champs,Bilibili Gaming,KT Rolster,under,total_inhibitors 1.5,42.20%,1.67,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108574/F19/,pending
+2023-10-19,LOL - World Champs,Bilibili Gaming,KT Rolster,under,total_barons 1.5,14.00%,1.67,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108574/F19/,pending
+2023-10-19,LOL - World Champs,Fnatic,LNG Esports,over,total_dragons 3.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108575/F19/,pending
+2023-10-19,LOL - World Champs,Fnatic,LNG Esports,over,total_towers 11.5,6.87%,2.11,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108575/F19/,pending
+2023-10-19,LOL - World Champs,Fnatic,LNG Esports,over,game_duration 28.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108575/F19/,pending
+2023-10-19,LOL - World Champs,Fnatic,LNG Esports,under,total_inhibitors 1.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108575/F19/,pending
+2023-10-19,LOL - World Champs,Fnatic,LNG Esports,over,total_barons 1.5,12.50%,3.33,3.75,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18108575/F19/,pending
+2023-10-15,Greek Legends League,Zerolag Esports,Action Per Minute,FD,first_dragon Zerolag Esports,8.72%,1.64,1.779,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231014200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-19,2023 World Championship,T1,Team Liquid,FD,first_dragon Team Liquid,88.02%,1.43,2.686,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231015200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-19,2023 World Championship,T1,Team Liquid,over,game_duration 27.0,45.44%,1.25,1.818,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231015200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-19,2023 World Championship,T1,Team Liquid,over,total_barons 1.5,31.17%,2.22,2.915,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231015200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-19,2023 World Championship,JD Gaming,Team BDS,FD,first_dragon Team BDS,52.02%,1.82,2.764,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231016200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-19,2023 World Championship,JD Gaming,Team BDS,over,game_duration 27.0,46.74%,1.38,2.024,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231016200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-19,2023 World Championship,JD Gaming,Team BDS,over,total_barons 1.5,19.35%,2.86,3.41,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231016200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-19,2023 World Championship,Dplus KIA,G2 Esports,over,game_duration 30.0,17.31%,1.6,1.877,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231016200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-19,2023 World Championship,Dplus KIA,G2 Esports,over,total_barons 1.5,12.15%,2.0,2.243,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231016200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-19,2023 World Championship,LNG Esports,Fnatic,FD,first_dragon Fnatic,6.15%,2.0,2.123,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231016200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-19,2023 World Championship,LNG Esports,Fnatic,over,game_duration 29.0,7.70%,1.67,1.795,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231016200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-19,2023 World Championship,KT Rolster,Bilibili Gaming,over,total_kills 25.5,22.12%,1.6,1.954,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231016200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-19,2023 World Championship,KT Rolster,Bilibili Gaming,under,game_duration 31.0,14.88%,1.74,1.998,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231016200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-24,Iberian Cup,Finetwork KOI,BWE Esports,FD,first_dragon Finetwork KOI,10.39%,1.43,1.577,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231016200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-25,Iberian Cup,Rebels Gaming,White Dragons,FD,first_dragon White Dragons,38.51%,1.54,2.131,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231016200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2023-10-18,Iberian Cup,Barça eSports,Case Esports,FD,first_dragon Case Esports,99.40%,1.00,1.994,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231016200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
