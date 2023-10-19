@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib.lines import Line2D
-
+import numpy as np
 # Dark Theme for Matplotlib
 #plt.style.use('dark_background')
 
@@ -24,9 +24,14 @@ plt.rcParams.update(params)
 # Function to load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("bets/bets.csv")
-    df = df[df['status'].isin(['win', 'loss'])]
-    return df
+    try:
+        df = pd.read_csv("bets/bets.csv")
+        df = df[df['status'].isin(['win', 'loss'])]
+        data = map_league_names(df, 'league')
+        return data
+    except Exception as e:
+        st.error(f"An error occurred while loading the data: {e}")
+        return pd.DataFrame()
 
 def process_data(df, min_roi, max_roi):
     df = df.copy()  # Create a copy of the dataframe
@@ -36,6 +41,19 @@ def process_data(df, min_roi, max_roi):
     if row['status'] == 'win' else -1, axis=1)
     df['cumulative_profit'] = df['profit'].cumsum()
     df['bet_group'] = df['bet_line'].str.split().str[0]
+    return df
+
+def map_league_names(df: pd.DataFrame, league_column: str) -> pd.DataFrame:
+    league_name_mapping = {
+        "LOL - World Champs Play-In": "Worlds",
+        "LOL - Worlds Qualifying Series": "Worlds",
+        "2023 World Championship Play-In": "Worlds",
+        "2023 World Championship": "Worlds",
+        "LOL - World Champs": "Worlds",
+        "World Championship": "Worlds"  # This one remains unchanged
+    }
+
+    df['league'] = df[league_column].map(lambda x: league_name_mapping.get(x, x))
     return df
 
 def bankroll_plot(df):
@@ -166,8 +184,6 @@ def scatter_plot(df):
     plt.legend(handles=legend_elements)
     st.pyplot(ax.get_figure())
 
-import streamlit as st
-import numpy as np
 
 def display_summary(df, roi_value):
     """
@@ -206,35 +222,58 @@ def display_summary(df, roi_value):
 
 
 def main():
-    df = load_data()
+    try:
+        df = load_data()
 
-    st.title('Betting Statistics Dashboard')
+        st.title('Betting Statistics Dashboard')
 
-    # Extract the minimum and maximum ROI from the dataframe
-    min_available_roi = df['ROI'].str.rstrip('%').astype('float').min()
-    max_available_roi = df['ROI'].str.rstrip('%').astype('float').max()
+        # Extract unique leagues and sort them
+        available_leagues = sorted(df['league'].unique())
 
-    # Set a slider for selecting a minimum ROI
-    chosen_roi = st.slider('Choose Minimum ROI (%)', int(min_available_roi), int(max_available_roi), int(min_available_roi))
+        # Streamlit dropdown for selecting a league
+        selected_league = st.selectbox('Select a league:', ['All Leagues'] + available_leagues)
 
-    # Filter data based on the chosen ROI
-    processed_df = process_data(df, chosen_roi, max_available_roi)
+        # Filter the dataframe based on the selected league
+        if selected_league != 'All Leagues':
+            df = df[df['league'] == selected_league]
 
-    # Display the summary below the ROI slider
-    display_summary(processed_df, chosen_roi)
+        # Extract the minimum and maximum ROI from the dataframe
+        min_available_roi = df['ROI'].str.rstrip('%').astype('float').min()
+        max_available_roi = df['ROI'].str.rstrip('%').astype('float').max()
 
-    # Check if the dataframe is empty
-    if processed_df.empty:
-        st.write(f"No data available for the chosen ROI of {chosen_roi}% or higher.")
-        return  # Exit the function
+        # Check if min and max ROI are the same
+        if min_available_roi == max_available_roi:
+            st.write(f"There's only one game in the {selected_league} league with an ROI of {min_available_roi}%. Adjust your filters or select another league.")
+            return  # Exit the function
 
-    # Display plots
-    bankroll_plot(processed_df)
-    odds_plot(processed_df)
-    bet_groups_plot(processed_df)
-    profit_plot(processed_df)
-    scatter_plot(processed_df)
+        # Extract the minimum and maximum ROI from the dataframe
+        min_available_roi = df['ROI'].str.rstrip('%').astype('float').min()
+        max_available_roi = df['ROI'].str.rstrip('%').astype('float').max()
 
+        # Set a slider for selecting a minimum ROI
+        chosen_roi = st.slider('Choose Minimum ROI (%)', int(min_available_roi), int(max_available_roi), int(min_available_roi))
+
+        # Filter data based on the chosen ROI
+        processed_df = process_data(df, chosen_roi, max_available_roi)
+
+        # Display the summary below the ROI slider
+        display_summary(processed_df, chosen_roi)
+
+        # Check if the dataframe is empty
+        if processed_df.empty:
+            st.write(f"No data available for the chosen ROI of {chosen_roi}% or higher.")
+            return  # Exit the function
+
+        # Display plots
+        bankroll_plot(processed_df)
+        odds_plot(processed_df)
+        bet_groups_plot(processed_df)
+        profit_plot(processed_df)
+        scatter_plot(processed_df)
+
+    except Exception as e:
+        st.error(f"An unexpected error occurred: {e}")
+        
 # Call the main execution
 if __name__ == "__main__":
     main()
