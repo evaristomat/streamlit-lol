@@ -39,7 +39,7 @@ def process_data(df, min_roi, max_roi):
     df = df[(df['ROI'] >= min_roi) & (df['ROI'] <= max_roi)]  # Filter ROI based on user input
     df['profit'] = df.apply(lambda row: row['odds'] - 1
     if row['status'] == 'win' else -1, axis=1)
-    df['cumulative_profit'] = df['profit'].cumsum()
+    df['cumulative_profit'] = df['profit'].expanding().sum()
     df['bet_group'] = df['bet_line'].str.split().str[0]
     return df
 
@@ -84,7 +84,7 @@ def bankroll_plot(df):
 def odds_plot(df):
     bins = [1.4, 1.6, 1.8, 2, 2.2, 2.4, 2.6, 2.8, 3]
     df['odds_bin'] = pd.cut(df['odds'], bins)
-    grouped = df.groupby(['odds_bin', 'status']).size().unstack().fillna(0)
+    grouped = df.groupby(['odds_bin', 'status'], observed=False).size().unstack().fillna(0)
     
     # Handle potentially missing columns
     if 'win' not in grouped:
@@ -156,17 +156,29 @@ def bet_groups_plot(df):
 
 
 def profit_plot(df):
-    profit_by_group = df.groupby('bet_group')['profit'].sum()
     plt.figure(figsize=(10, 7))
-    profit_plot = sns.barplot(x=profit_by_group.index, y=profit_by_group.values, palette="viridis")
-    for i, value in enumerate(profit_by_group.values):
-        profit_plot.text(i, value if value > 0 else 0, f'{value:.2f}',
-                         ha='center', va='bottom' if value > 0 else 'top', fontsize=10)
+    
+    # Filter out the 'FD' bet_type when the bet_group is not 'first_dragon'
+    df_filtered = df[~((df['bet_group'] != 'first_dragon') & (df['bet_type'] == 'FD'))]
+
+    # Create a barplot with hue for bet_type
+    profit_plot = sns.barplot(x='bet_group', y='profit', hue='bet_type', data=df_filtered, estimator=sum, palette="viridis", errorbar=None)
+
+    # Annotate each bar with the profit value
+    for p in profit_plot.patches:
+        profit_plot.annotate(f'{p.get_height():.2f}', 
+                             (p.get_x() + p.get_width() / 2., p.get_height()),
+                             ha='center', va='center', 
+                             xytext=(0, 10),
+                             textcoords='offset points',
+                             fontsize=10)
+
     plt.title('Profit by Bet Group')
     plt.ylabel('Total Profit')
     plt.xlabel('Bet Group')
     plt.xticks(rotation=45)
     plt.tight_layout()
+    plt.legend(title='Bet Type', loc='upper left')
     st.pyplot(profit_plot.get_figure())
 
 def scatter_plot(df):
@@ -273,7 +285,7 @@ def main():
 
     except Exception as e:
         st.error(f"An unexpected error occurred: {e}")
-        
+
 # Call the main execution
 if __name__ == "__main__":
     main()
