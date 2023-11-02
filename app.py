@@ -4,24 +4,23 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib.lines import Line2D
 import numpy as np
-# Dark Theme for Matplotlib
-#plt.style.use('dark_background')
 
-background_color = '#0E1117'
-params = {
+# ----------------- CONFIGURATION ----------------- #
+BACKGROUND_COLOR = '#0E1117'
+PARAMS = {
     "axes.labelcolor": "white",
     "axes.edgecolor": "white",
-    "axes.facecolor": background_color,
+    "axes.facecolor": BACKGROUND_COLOR,
     "xtick.color": "white",
     "ytick.color": "white",
     "text.color": "white",
-    "figure.facecolor": background_color,
+    "figure.facecolor": BACKGROUND_COLOR,
     "grid.color": "gray",
     "grid.linestyle": "--",
 }
-plt.rcParams.update(params)
+plt.rcParams.update(PARAMS)
 
-# Function to load data
+# ----------------- DATA LOADING & PROCESSING FUNCTIONS ----------------- #
 @st.cache_data
 def load_data():
     try:
@@ -32,16 +31,6 @@ def load_data():
     except Exception as e:
         st.error(f"An error occurred while loading the data: {e}")
         return pd.DataFrame()
-
-def process_data(df, min_roi, max_roi):
-    df = df.copy()  # Create a copy of the dataframe
-    df['ROI'] = df['ROI'].str.rstrip('%').astype('float')
-    df = df[(df['ROI'] >= min_roi) & (df['ROI'] <= max_roi)]  # Filter ROI based on user input
-    df['profit'] = df.apply(lambda row: row['odds'] - 1
-    if row['status'] == 'win' else -1, axis=1)
-    df['cumulative_profit'] = df['profit'].expanding().sum()
-    df['bet_group'] = df['bet_line'].str.split().str[0]
-    return df
 
 def map_league_names(df: pd.DataFrame, league_column: str) -> pd.DataFrame:
     league_name_mapping = {
@@ -55,6 +44,18 @@ def map_league_names(df: pd.DataFrame, league_column: str) -> pd.DataFrame:
 
     df['league'] = df[league_column].map(lambda x: league_name_mapping.get(x, x))
     return df
+
+def process_data(df, min_roi, max_roi):
+    df = df.copy()  # Create a copy of the dataframe
+    df['ROI'] = df['ROI'].str.rstrip('%').astype('float')
+    df = df[(df['ROI'] >= min_roi) & (df['ROI'] <= max_roi)]  # Filter ROI based on user input
+    df['profit'] = df.apply(lambda row: row['odds'] - 1
+    if row['status'] == 'win' else -1, axis=1)
+    df['cumulative_profit'] = df['profit'].expanding().sum()
+    df['bet_group'] = df['bet_line'].str.split().str[0]
+    return df
+
+# ----------------- VISUALIZATION FUNCTIONS ----------------- #
 
 def bankroll_plot(df):
     window_size = 10
@@ -79,7 +80,6 @@ def bankroll_plot(df):
     plt.grid(True)
     plt.tight_layout()
     st.pyplot(ax.get_figure())
-
 
 def odds_plot(df):
     bins = [1.4, 1.6, 1.8, 2, 2.2, 2.4, 2.6, 2.8, 3]
@@ -109,7 +109,6 @@ def odds_plot(df):
     plt.xticks(rotation=45)
     plt.tight_layout()
     st.pyplot(ax.get_figure())
-
 
 def bet_groups_plot(df):
     grouped = df.groupby(['bet_group', 'status']).size().unstack().fillna(0)
@@ -154,7 +153,6 @@ def bet_groups_plot(df):
     plt.tight_layout()
     st.pyplot(ax.get_figure())
 
-
 def profit_plot(df):
     plt.figure(figsize=(10, 7))
     
@@ -196,7 +194,6 @@ def scatter_plot(df):
     plt.legend(handles=legend_elements)
     st.pyplot(ax.get_figure())
 
-
 def display_summary(df, roi_value):
     """
     Display a summary of the dataframe for the selected ROI value.
@@ -223,24 +220,26 @@ def display_summary(df, roi_value):
     avg_odd = filtered_df['odds'].mean()
 
     # Display the summary in columns
-    col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
+    col1, col2, col3, col4, col5, col6, col7 = st.columns([1, 1, 1, 1, 1, 1, 1.5])
     col1.metric(label="ROI Chosen", value=f"{roi_value}%")
     col2.metric(label="Total Bets", value=f"{total_bets}")
     col3.metric(label="Wins", value=f"{wins}")
     col4.metric(label="Losses", value=f"{losses}")
     col5.metric(label="Win Rate", value=f"{win_rate*100:.0f}%")  # Display full win rate
     col6.metric(label="Average Odd", value=f"{avg_odd:.2f}")
-    col7.metric(label="Total Profit", value=f"{total_profit:.2f}U")
+    col7.metric(label="Profit", value=f"{total_profit:.2f}U")
 
+
+# ----------------- MAIN APPLICATION LOGIC ----------------- #
 
 def main():
     try:
         df = load_data()
-
         st.title('Betting Statistics Dashboard')
 
         # Extract unique leagues and sort them
         available_leagues = sorted(df['league'].unique())
+        print(available_leagues)
 
         # Streamlit dropdown for selecting a league
         selected_league = st.selectbox('Select a league:', ['All Leagues'] + available_leagues)
@@ -289,6 +288,7 @@ def main():
     except Exception as e:
         st.error(f"An unexpected error occurred: {e}")
 
-# Call the main execution
+# ----------------- ENTRY POINT ----------------- #
+
 if __name__ == "__main__":
     main()
