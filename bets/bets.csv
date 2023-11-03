@@ -34,9 +34,6 @@ date,league,t1,t2,bet_type,bet_line,ROI,fair_odds,odds,House,url,status
 2023-10-13,LOL - World Champs Play-In,GAM Esports,Movistar R7,over,game_duration 29.5,10.34%,1.66,1.83,Bet365,,loss
 2023-10-11,2023 World Championship Play-In,CTBC Flying Oyster,DetonatioN FocusMe,FD,first_dragon DetonatioN FocusMe,19.00%,1.7,2.023,Dafabet,,loss
 2023-10-11,2023 World Championship Play-In,CTBC Flying Oyster,DetonatioN FocusMe,over,game_duration 30.0,9.32%,1.72,1.882,Dafabet,,win
-2023-10-31,Coupe de France,Team GO,Team du Sud,over,total_kills 31.5,5.34%,1.74,1.832,Dafabet,,pending
-2023-10-31,Coupe de France,Team GO,Team du Sud,FD,first_dragon Team du Sud,4.83%,1.82,1.906,Dafabet,,pending
-2023-10-31,Coupe de France,Team GO,Team du Sud,under,game_duration 31.0,22.14%,1.54,1.879,Dafabet,,pending
 2023-10-12,LOL - World Champs Play-In,PSG Talon,LOUD,under,game_duration 31.5,3.34%,1.77,1.83,Bet365,,loss
 2023-10-12,LOL - World Champs Play-In,Team Whales,CTBC Flying Oyster,under,total_towers 12.5,29.52%,1.21,1.57,Bet365,,win
 2023-10-12,LOL - World Champs Play-In,Team Whales,CTBC Flying Oyster,under,total_kills 25.5,4.50%,1.82,1.9,Bet365,,win
@@ -302,11 +299,11 @@ date,league,t1,t2,bet_type,bet_line,ROI,fair_odds,odds,House,url,status
 2023-11-05,2023 World Championship,LNG Esports,T1,FD,first_dragon T1,6.38%,1.67,1.773,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231028200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
 2023-11-05,2023 World Championship,LNG Esports,T1,under,game_duration 31.0,25.52%,1.54,1.931,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231028200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
 2023-11-05,2023 World Championship,LNG Esports,T1,under,total_barons 1.5,21.48%,1.54,1.869,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231028200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
-2023-11-03,LOL - World Champs,Gen.G,Bilibili Gaming,under,total_dragons 4.5,12.70%,1.43,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18221031/F19/,pending
-2023-11-03,LOL - World Champs,Gen.G,Bilibili Gaming,under,total_towers 12.5,12.70%,1.43,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18221031/F19/,pending
-2023-11-03,LOL - World Champs,Gen.G,Bilibili Gaming,under,game_duration 31.5,23.53%,1.48,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18221031/F19/,pending
-2023-11-03,LOL - World Champs,Gen.G,Bilibili Gaming,under,total_inhibitors 1.5,35.00%,1.48,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18221031/F19/,pending
-2023-11-03,LOL - World Champs,Gen.G,Bilibili Gaming,under,total_barons 1.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18221031/F19/,pending
+2023-11-03,LOL - World Champs,Gen.G,Bilibili Gaming,under,total_dragons 4.5,12.70%,1.43,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18221031/F19/,loss
+2023-11-03,LOL - World Champs,Gen.G,Bilibili Gaming,under,total_towers 12.5,12.70%,1.43,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18221031/F19/,win
+2023-11-03,LOL - World Champs,Gen.G,Bilibili Gaming,under,game_duration 31.5,23.53%,1.48,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18221031/F19/,win
+2023-11-03,LOL - World Champs,Gen.G,Bilibili Gaming,under,total_inhibitors 1.5,35.00%,1.48,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18221031/F19/,win
+2023-11-03,LOL - World Champs,Gen.G,Bilibili Gaming,under,total_barons 1.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18221031/F19/,win
 2023-11-04,LOL - World Champs,JD Gaming,KT Rolster,under,total_kills 23.5,23.53%,1.48,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18221033/F19/,pending
 2023-11-04,LOL - World Champs,JD Gaming,KT Rolster,under,total_inhibitors 1.5,5.00%,1.9,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18221033/F19/,pending
 2023-11-04,LOL - World Champs,JD Gaming,KT Rolster,under,total_barons 1.5,7.50%,1.6,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20902720/D19/E18221033/F19/,pending
@@ -324,3 +321,11 @@ date,league,t1,t2,bet_type,bet_line,ROI,fair_odds,odds,House,url,status
 2023-11-04,League of Legends - World Championship,JD Gaming,KT Rolster,under,total_kills 21.5,23.20%,1.82,2.24,Pinnacle,https://www.pinnacle.com/pt/esports/league-of-legends-emea-masters/orbit-anonymo-vs-bisons/1581157132/#all,pending
 2023-11-01,Iberian Cup,Finetwork KOI,UCAM Tokiers,FD,first_dragon UCAM Tokiers,7.40%,2.0,2.148,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231028200000&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,win
 2023-11-04,League of Legends - World Championship,JD Gaming,KT Rolster,under,total_kills 23.5,21.50%,1.48,1.8,Pinnacle,https://www.pinnacle.com/pt/esports/league-of-legends-emea-masters/orbit-anonymo-vs-bisons/1581157132/#all,pending
+2023-11-04,League of Legends - World Championship,JD Gaming,KT Rolster,under,total_dragons 4.5,5.17%,1.48,1.558,Pinnacle,https://www.pinnacle.com/pt/esports/league-of-legends-emea-masters/orbit-anonymo-vs-bisons/1581157132/#all,pending
+2023-11-04,League of Legends - World Championship,JD Gaming,KT Rolster,under,game_duration 30.0,6.05%,1.9,2.02,Pinnacle,https://www.pinnacle.com/pt/esports/league-of-legends-emea-masters/orbit-anonymo-vs-bisons/1581157132/#all,pending
+2023-11-05,League of Legends - World Championship,LNG Esports,T1,under,total_dragons 4.5,26.00%,1.43,1.8,Pinnacle,https://www.pinnacle.com/pt/esports/league-of-legends-emea-masters/orbit-anonymo-vs-bisons/1581157157/#all,pending
+2023-11-05,League of Legends - World Championship,LNG Esports,T1,under,total_towers 12.5,9.89%,1.48,1.628,Pinnacle,https://www.pinnacle.com/pt/esports/league-of-legends-emea-masters/orbit-anonymo-vs-bisons/1581157157/#all,pending
+2023-11-05,League of Legends - World Championship,LNG Esports,T1,under,total_kills 25.5,6.79%,1.38,1.473,Pinnacle,https://www.pinnacle.com/pt/esports/league-of-legends-emea-masters/orbit-anonymo-vs-bisons/1581157157/#all,pending
+2023-11-05,League of Legends - World Championship,LNG Esports,T1,under,game_duration 31.0,40.40%,1.54,2.16,Pinnacle,https://www.pinnacle.com/pt/esports/league-of-legends-emea-masters/orbit-anonymo-vs-bisons/1581157157/#all,pending
+2023-11-05,League of Legends - World Championship,LNG Esports,T1,under,total_barons 1.5,20.05%,1.54,1.847,Pinnacle,https://www.pinnacle.com/pt/esports/league-of-legends-emea-masters/orbit-anonymo-vs-bisons/1581157157/#all,pending
+2023-11-04,League of Legends - World Championship,JD Gaming,KT Rolster,under,total_kills 22.5,30.00%,1.54,2.0,Pinnacle,https://www.pinnacle.com/pt/esports/league-of-legends-emea-masters/orbit-anonymo-vs-bisons/1581157149/#all,pending
