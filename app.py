@@ -39,7 +39,8 @@ def map_league_names(df: pd.DataFrame, league_column: str) -> pd.DataFrame:
         "2023 World Championship Play-In": "Worlds",
         "2023 World Championship": "Worlds",
         "LOL - World Champs": "Worlds",
-        "World Championship": "Worlds"  # This one remains unchanged
+        "World Championship": "Worlds",  # This one remains unchanged
+        "League of Legends - World Championship": "Worlds"
     }
 
     df['league'] = df[league_column].map(lambda x: league_name_mapping.get(x, x))
