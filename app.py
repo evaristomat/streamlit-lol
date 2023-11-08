@@ -26,10 +26,17 @@ PARAMS = {
 plt.rcParams.update(PARAMS)
 
 # ----------------- DATA LOADING & PROCESSING FUNCTIONS ----------------- #
+def ensure_datetime(df, date_column='date'):
+    if not np.issubdtype(df[date_column].dtype, np.datetime64):
+        df[date_column] = pd.to_datetime(df[date_column])
+    return df
+
 @st.cache_data
+
 def load_data():
     try:
         df = pd.read_csv("bets/bets.csv")
+        df = ensure_datetime(df, 'date')  # Replace 'date_column_name' with the actual name of your date column
         df = df[df['status'].isin(['win', 'loss'])]
         data = map_league_names(df, 'league')
         return data
@@ -261,6 +268,26 @@ def main():
         if df.empty:
             st.write("No data available for the selected houses. Adjust your filters.")
             return  # Exit the function
+
+        # Determine available months with bets
+        df['month'] = df['date'].dt.month
+        available_months = sorted(df['month'].unique())
+
+        # Create a mapping of month numbers to names
+        months = {1: 'January', 2: 'February', 3: 'March', 4: 'April', 5: 'May', 6: 'June',
+                  7: 'July', 8: 'August', 9: 'September', 10: 'October', 11: 'November', 12: 'December'}
+        
+        # Filter the mapping to only include available months
+        available_month_names = [months[month] for month in available_months]
+
+        # Month selection
+        selected_month_name = st.selectbox('Select a month:', options=available_month_names)
+
+        # Find the month number from the name
+        selected_month_num = list(months.values()).index(selected_month_name) + 1
+
+        # Filter the dataframe for the selected month
+        df = df[df['month'] == selected_month_num]
 
         # Extract the minimum and maximum ROI from the dataframe
         min_available_roi = df['ROI'].str.rstrip('%').astype('float').min()
