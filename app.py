@@ -60,11 +60,9 @@ def map_league_names(df: pd.DataFrame, league_column: str) -> pd.DataFrame:
     return df
 
 def process_data(df, min_roi, max_roi):
-    df = df.copy()  # Create a copy of the dataframe
     df['ROI'] = df['ROI'].str.rstrip('%').astype('float')
     df = df[(df['ROI'] >= min_roi) & (df['ROI'] <= max_roi)]  # Filter ROI based on user input
-    df['profit'] = df.apply(lambda row: row['odds'] - 1
-    if row['status'] == 'win' else -1, axis=1)
+    df['profit'] = df.apply(lambda row: row['odds'] - 1 if row['status'] == 'win' else -1, axis=1)
     df['cumulative_profit'] = df['profit'].expanding().sum()
     df['bet_group'] = df['bet_line'].str.split().str[0]
     return df
@@ -82,13 +80,7 @@ def display_summary(df, roi_value):
     # Filter the dataframe
     filtered_df = df[df['ROI'] >= roi_value]
 
-    # Calculate profit or loss for each bet and sum it
-    filtered_df['profit'] = np.where(filtered_df['status'] == 'win', 
-                                     (filtered_df['odds'] - 1), 
-                                     -1)
     total_profit = filtered_df['profit'].sum()
-
-    # Calculate the other summary statistics
     total_bets = len(filtered_df)
     wins = filtered_df[filtered_df['status'] == 'win'].shape[0]
     losses = total_bets - wins
@@ -104,6 +96,7 @@ def display_summary(df, roi_value):
     col5.metric(label="Win Rate", value=f"{win_rate*100:.0f}%")  # Display full win rate
     col6.metric(label="Average Odd", value=f"{avg_odd:.2f}")
     col7.metric(label="Profit", value=f"{total_profit:.2f}U")
+
 
 def bankroll_plot(df):
     window_size = 10
@@ -273,21 +266,22 @@ def main():
         df['month'] = df['date'].dt.month
         available_months = sorted(df['month'].unique())
 
-        # Create a mapping of month numbers to names
-        months = {1: 'January', 2: 'February', 3: 'March', 4: 'April', 5: 'May', 6: 'June',
+        # Create a mapping of month numbers to names, including an "All Months" option
+        months = {0: 'All Months', 1: 'January', 2: 'February', 3: 'March', 4: 'April', 5: 'May', 6: 'June',
                   7: 'July', 8: 'August', 9: 'September', 10: 'October', 11: 'November', 12: 'December'}
         
-        # Filter the mapping to only include available months
-        available_month_names = [months[month] for month in available_months]
+        # Create the options list for the selectbox, including "All Months"
+        available_month_names = [months[0]] + [months[month] for month in available_months]
 
         # Month selection
         selected_month_name = st.selectbox('Select a month:', options=available_month_names)
 
-        # Find the month number from the name
-        selected_month_num = list(months.values()).index(selected_month_name) + 1
-
-        # Filter the dataframe for the selected month
-        df = df[df['month'] == selected_month_num]
+        # Apply the month filter only if a specific month is selected
+        if selected_month_name != 'All Months':
+            # Find the month number from the name
+            selected_month_num = list(months.values()).index(selected_month_name)
+            # Filter the dataframe for the selected month
+            df = df[df['month'] == selected_month_num]
 
         # Extract the minimum and maximum ROI from the dataframe
         min_available_roi = df['ROI'].str.rstrip('%').astype('float').min()
