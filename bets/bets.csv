@@ -1,9 +1,4 @@
 date,league,t1,t2,bet_type,bet_line,ROI,fair_odds,odds,House,url,status
-2024-01-18,LOL - LLA Opening,INFINITY,Estral Esports,under,total_dragons 4.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18778760/F19/,pending
-2024-01-18,LOL - LLA Opening,INFINITY,Estral Esports,over,total_towers 11.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18778760/F19/,pending
-2024-01-18,LOL - LLA Opening,INFINITY,Estral Esports,under,total_kills 27.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18778760/F19/,pending
-2024-01-18,LOL - LLA Opening,INFINITY,Estral Esports,under,game_duration 32.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18778760/F19/,pending
-2024-01-18,LOL - LLA Opening,INFINITY,Estral Esports,under,total_barons 1.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18778760/F19/,pending
 2024-01-20,LOL - LCK Spring,Nongshim RedForce,Gen.G,over,total_dragons 4.5,45.83%,1.71,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18727921/F19/,loss
 2024-01-20,LOL - LCK Spring,Nongshim RedForce,Gen.G,over,total_towers 10.5,30.83%,1.2,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18727921/F19/,win
 2024-01-20,LOL - LCK Spring,Nongshim RedForce,Gen.G,over,total_kills 22.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18727921/F19/,loss
@@ -25,40 +20,6 @@ date,league,t1,t2,bet_type,bet_line,ROI,fair_odds,odds,House,url,status
 2024-01-20,LOL - LEC Winter,Team Vitality,Rogue,under,total_dragons 4.5,33.33%,1.5,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801534/F19/,win
 2024-01-20,LOL - LEC Winter,Team Vitality,Rogue,over,game_duration 31.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801534/F19/,loss
 2024-01-20,LOL - LEC Winter,Team Vitality,Rogue,under,total_barons 1.5,33.33%,1.5,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801534/F19/,win
-2024-01-21,LOL - LEC Winter,SK Gaming,Team BDS,over,total_dragons 4.5,33.33%,1.5,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801535/F19/,pending
-2024-01-21,LOL - LEC Winter,SK Gaming,Team BDS,under,total_towers 12.5,50.00%,1.0,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801535/F19/,pending
-2024-01-21,LOL - LEC Winter,SK Gaming,Team BDS,under,total_kills 25.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801535/F19/,pending
-2024-01-21,LOL - LEC Winter,SK Gaming,Team BDS,under,total_inhibitors 1.5,108.33%,1.2,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801535/F19/,pending
-2024-01-21,LOL - LEC Winter,SK Gaming,Team BDS,over,total_barons 1.5,5.00%,2.0,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801535/F19/,pending
-2024-01-21,LOL - LEC Winter,Team Vitality,G2 Esports,over,total_towers 12.5,66.67%,1.5,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801536/F19/,pending
-2024-01-21,LOL - LEC Winter,Team Vitality,G2 Esports,over,total_inhibitors 1.5,25.00%,1.2,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801536/F19/,pending
-2024-01-21,LOL - LEC Winter,Team Vitality,G2 Esports,under,total_barons 1.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801536/F19/,pending
-2024-01-21,LOL - LEC Winter,Team Heretics,Karmine Corp,over,total_dragons 4.5,7.33%,1.5,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801537/F19/,pending
-2024-01-21,LOL - LEC Winter,Team Heretics,Karmine Corp,under,total_towers 12.5,7.33%,1.5,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801537/F19/,pending
-2024-01-21,LOL - LEC Winter,Team Heretics,Karmine Corp,over,total_inhibitors 1.5,25.00%,1.2,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801537/F19/,pending
-2024-01-21,LOL - LEC Winter,Team Heretics,Karmine Corp,over,total_barons 1.5,14.67%,1.5,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801537/F19/,pending
-2024-01-21,LOL - LEC Winter,MAD Lions KOI,Rogue,over,total_dragons 4.5,33.33%,1.5,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801582/F19/,pending
-2024-01-21,LOL - LEC Winter,MAD Lions KOI,Rogue,under,total_towers 12.5,34.17%,1.2,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801582/F19/,pending
-2024-01-21,LOL - LEC Winter,MAD Lions KOI,Rogue,over,game_duration 31.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801582/F19/,pending
-2024-01-21,LOL - LEC Winter,MAD Lions KOI,Rogue,over,total_barons 1.5,40.00%,1.5,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801582/F19/,pending
-2024-01-22,LOL - LEC Winter,MAD Lions KOI,Team BDS,over,total_dragons 4.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801583/F19/,pending
-2024-01-22,LOL - LEC Winter,MAD Lions KOI,Team BDS,under,total_towers 12.5,50.00%,1.0,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801583/F19/,pending
-2024-01-22,LOL - LEC Winter,MAD Lions KOI,Team BDS,under,game_duration 31.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801583/F19/,pending
-2024-01-22,LOL - LEC Winter,MAD Lions KOI,Team BDS,under,total_inhibitors 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801583/F19/,pending
-2024-01-22,LOL - LEC Winter,MAD Lions KOI,Team BDS,over,total_barons 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801583/F19/,pending
-2024-01-22,LOL - LEC Winter,Fnatic,Rogue,over,total_dragons 4.5,7.33%,1.5,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801540/F19/,pending
-2024-01-22,LOL - LEC Winter,Fnatic,Rogue,over,total_towers 12.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801540/F19/,pending
-2024-01-22,LOL - LEC Winter,Fnatic,Rogue,under,total_kills 24.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801540/F19/,pending
-2024-01-22,LOL - LEC Winter,Fnatic,Rogue,under,total_inhibitors 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801540/F19/,pending
-2024-01-22,LOL - LEC Winter,Team Heretics,G2 Esports,under,total_kills 26.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801541/F19/,pending
-2024-01-22,LOL - LEC Winter,Team Heretics,G2 Esports,over,game_duration 30.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801541/F19/,pending
-2024-01-22,LOL - LEC Winter,Team Heretics,G2 Esports,over,total_inhibitors 1.5,50.00%,1.0,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801541/F19/,pending
-2024-01-22,LOL - LEC Winter,Team Heretics,G2 Esports,over,total_barons 1.5,46.67%,1.5,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801541/F19/,pending
-2024-01-22,LOL - LEC Winter,Team Vitality,Karmine Corp,over,total_dragons 4.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801545/F19/,pending
-2024-01-22,LOL - LEC Winter,Team Vitality,Karmine Corp,over,total_towers 12.5,66.67%,1.5,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801545/F19/,pending
-2024-01-22,LOL - LEC Winter,Team Vitality,Karmine Corp,over,total_kills 27.5,52.50%,1.2,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801545/F19/,pending
-2024-01-22,LOL - LEC Winter,Team Vitality,Karmine Corp,over,game_duration 31.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801545/F19/,pending
-2024-01-22,LOL - LEC Winter,Team Vitality,Karmine Corp,under,total_barons 1.5,33.33%,1.5,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18801545/F19/,pending
 2024-01-20,LOL - LCK Spring,OKSavingsBank BRION,FearX,under,total_dragons 4.5,87.50%,1.33,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18727920/F19/,win
 2024-01-20,LOL - LCK Spring,OKSavingsBank BRION,FearX,under,total_towers 11.5,68.75%,1.33,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18727920/F19/,win
 2024-01-20,LOL - LCK Spring,OKSavingsBank BRION,FearX,under,total_kills 24.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18727920/F19/,win
@@ -76,3 +37,1008 @@ date,league,t1,t2,bet_type,bet_line,ROI,fair_odds,odds,House,url,status
 2024-01-21,LOL - LCK Spring,Dplus KIA,KT Rolster,over,game_duration 31.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18727923/F19/,loss
 2024-01-21,LOL - LCK Spring,Dplus KIA,KT Rolster,over,total_inhibitors 1.5,7.10%,1.43,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18727923/F19/,win
 2024-01-21,LOL - LCK Spring,Dplus KIA,KT Rolster,under,total_barons 1.5,57.50%,1.43,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18727923/F19/,win
+2024-01-24,LOL - LCK Spring,FearX,Hanwha Life Esports,over,total_dragons 4.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848041/F19/,loss
+2024-01-24,LOL - LCK Spring,FearX,Hanwha Life Esports,under,total_towers 11.5,37.38%,1.14,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848041/F19/,win
+2024-01-24,LOL - LCK Spring,FearX,Hanwha Life Esports,over,total_inhibitors 1.5,7.50%,1.6,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848041/F19/,loss
+2024-01-24,LOL - LCK Spring,FearX,Hanwha Life Esports,under,total_barons 1.5,19.00%,1.14,1.36,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848041/F19/,win
+2024-01-24,LOL - LCK Spring,Kwangdong Freecs,KT Rolster,over,total_dragons 4.5,30.35%,1.82,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848042/F19/,win
+2024-01-24,LOL - LCK Spring,Kwangdong Freecs,KT Rolster,under,total_towers 11.5,32.80%,1.25,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848042/F19/,win
+2024-01-24,LOL - LCK Spring,Kwangdong Freecs,KT Rolster,over,total_kills 23.5,23.53%,1.48,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848042/F19/,win
+2024-01-24,LOL - LCK Spring,Kwangdong Freecs,KT Rolster,under,total_inhibitors 1.5,15.00%,1.74,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848042/F19/,loss
+2024-01-24,LOL - LCK Spring,Kwangdong Freecs,KT Rolster,under,total_barons 1.5,8.50%,1.29,1.4,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848042/F19/,loss
+2024-01-25,LOL - LCK Spring,Dplus KIA,Nongshim RedForce,over,total_towers 11.5,55.00%,1.29,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848043/F19/,loss
+2024-01-25,LOL - LCK Spring,Dplus KIA,Nongshim RedForce,under,game_duration 31.5,5.22%,1.74,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848043/F19/,win
+2024-01-26,LOL - LCK Spring,KT Rolster,T1,over,total_dragons 4.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848045/F19/,win
+2024-01-26,LOL - LCK Spring,KT Rolster,T1,under,total_towers 11.5,42.20%,1.67,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848045/F19/,win
+2024-01-26,LOL - LCK Spring,KT Rolster,T1,over,total_kills 23.5,28.10%,1.43,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848045/F19/,win
+2024-01-26,LOL - LCK Spring,KT Rolster,T1,under,total_inhibitors 1.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848045/F19/,win
+2024-01-26,LOL - LCK Spring,KT Rolster,T1,under,total_barons 1.5,25.60%,1.25,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848045/F19/,win
+2024-01-26,LOL - LCK Spring,DRX,FearX,under,total_dragons 4.5,7.50%,1.6,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848046/F19/,loss
+2024-01-26,LOL - LCK Spring,DRX,FearX,under,total_towers 12.5,37.38%,1.14,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848046/F19/,win
+2024-01-26,LOL - LCK Spring,DRX,FearX,under,game_duration 31.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848046/F19/,loss
+2024-01-26,LOL - LCK Spring,DRX,FearX,over,total_inhibitors 1.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848046/F19/,loss
+2024-01-26,LOL - LCK Spring,DRX,FearX,under,total_barons 1.5,50.50%,1.14,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848046/F19/,loss
+2024-01-28,LOL - LCK Spring,Hanwha Life Esports,T1,under,total_barons 1.5,28.65%,1.29,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848050/F19/,win
+2024-01-27,LOL - LEC Winter,Team Vitality,SK Gaming,under,total_kills 26.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854569/F19/,win
+2024-01-27,LOL - LEC Winter,Team Vitality,SK Gaming,under,game_duration 31.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854569/F19/,loss
+2024-01-27,LOL - LEC Winter,Team Vitality,SK Gaming,under,total_inhibitors 1.5,66.67%,1.5,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854569/F19/,win
+2024-01-27,LOL - LEC Winter,Team Vitality,SK Gaming,under,total_barons 1.5,14.67%,1.5,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854569/F19/,loss
+2024-01-27,LOL - LEC Winter,Team Heretics,Team BDS,under,total_dragons 4.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854570/F19/,win
+2024-01-27,LOL - LEC Winter,Team Heretics,Team BDS,under,total_towers 12.5,37.50%,1.09,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854570/F19/,win
+2024-01-27,LOL - LEC Winter,Team Heretics,Team BDS,under,total_kills 26.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854570/F19/,loss
+2024-01-27,LOL - LEC Winter,Team Heretics,Team BDS,under,game_duration 31.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854570/F19/,win
+2024-01-27,LOL - LEC Winter,Team Heretics,Team BDS,over,total_barons 1.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854570/F19/,loss
+2024-01-27,LOL - LEC Winter,Fnatic,MAD Lions KOI,under,total_towers 12.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854571/F19/,loss
+2024-01-27,LOL - LEC Winter,Fnatic,MAD Lions KOI,under,game_duration 31.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854571/F19/,loss
+2024-01-27,LOL - LEC Winter,Fnatic,MAD Lions KOI,over,total_barons 1.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854571/F19/,win
+2024-01-27,LOL - LEC Winter,Karmine Corp,Rogue,over,total_dragons 4.5,12.50%,1.33,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854573/F19/,loss
+2024-01-27,LOL - LEC Winter,Karmine Corp,Rogue,under,total_kills 25.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854573/F19/,win
+2024-01-28,LOL - LEC Winter,Team Vitality,Team Heretics,under,total_dragons 4.5,16.67%,1.71,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854574/F19/,loss
+2024-01-28,LOL - LEC Winter,Team Vitality,Team Heretics,under,total_towers 12.5,7.33%,1.5,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854574/F19/,loss
+2024-01-28,LOL - LEC Winter,Team Vitality,Team Heretics,under,total_kills 23.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854574/F19/,loss
+2024-01-28,LOL - LEC Winter,Team Vitality,Team Heretics,under,game_duration 31.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854574/F19/,loss
+2024-01-28,LOL - LEC Winter,Fnatic,G2 Esports,under,total_towers 12.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854576/F19/,win
+2024-01-28,LOL - LEC Winter,Fnatic,G2 Esports,under,total_kills 25.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854576/F19/,loss
+2024-01-28,LOL - LEC Winter,Fnatic,G2 Esports,under,game_duration 32.5,52.50%,1.2,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854576/F19/,loss
+2024-01-28,LOL - LEC Winter,SK Gaming,Karmine Corp,over,total_dragons 4.5,38.33%,1.2,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854577/F19/,loss
+2024-01-28,LOL - LEC Winter,SK Gaming,Karmine Corp,under,total_towers 12.5,10.83%,1.71,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854577/F19/,win
+2024-01-28,LOL - LEC Winter,SK Gaming,Karmine Corp,over,game_duration 31.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854577/F19/,loss
+2024-01-28,LOL - LEC Winter,SK Gaming,Karmine Corp,under,total_inhibitors 1.5,45.83%,1.71,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854577/F19/,win
+2024-01-28,LOL - LEC Winter,SK Gaming,Karmine Corp,over,total_barons 1.5,10.83%,1.71,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854577/F19/,loss
+2024-01-28,LOL - LEC Winter,Team BDS,Rogue,under,total_towers 12.5,20.75%,1.33,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854578/F19/,loss
+2024-01-28,LOL - LEC Winter,Team BDS,Rogue,under,game_duration 31.5,5.00%,1.71,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854578/F19/,loss
+2024-01-28,LOL - LEC Winter,Team BDS,Rogue,under,total_inhibitors 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854578/F19/,loss
+2024-01-29,LOL - LEC Winter,Team Vitality,MAD Lions KOI,under,total_towers 12.5,7.33%,1.5,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854579/F19/,win
+2024-01-29,LOL - LEC Winter,Team Vitality,MAD Lions KOI,over,total_kills 27.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854579/F19/,win
+2024-01-29,LOL - LEC Winter,Team Vitality,MAD Lions KOI,under,game_duration 32.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854579/F19/,win
+2024-01-29,LOL - LEC Winter,Team Vitality,MAD Lions KOI,under,total_inhibitors 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854579/F19/,win
+2024-01-29,LOL - LEC Winter,Team BDS,Karmine Corp,over,total_dragons 4.5,7.33%,1.5,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854582/F19/,loss
+2024-01-29,LOL - LEC Winter,Team BDS,Karmine Corp,under,total_towers 12.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854582/F19/,win
+2024-01-29,LOL - LEC Winter,Team BDS,Karmine Corp,over,total_kills 24.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854582/F19/,loss
+2024-01-29,LOL - LEC Winter,Team BDS,Karmine Corp,over,game_duration 31.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854582/F19/,loss
+2024-01-29,LOL - LEC Winter,Team BDS,Karmine Corp,under,total_inhibitors 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854582/F19/,win
+2024-01-29,LOL - LEC Winter,Fnatic,Team Heretics,under,total_dragons 4.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854582/F19/,loss
+2024-01-29,LOL - LEC Winter,Fnatic,Team Heretics,under,total_towers 12.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854582/F19/,win
+2024-01-29,LOL - LEC Winter,Fnatic,Team Heretics,under,total_kills 24.5,52.50%,1.2,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854582/F19/,loss
+2024-01-29,LOL - LEC Winter,Fnatic,Team Heretics,under,game_duration 31.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854582/F19/,loss
+2024-01-29,LOL - LEC Winter,Fnatic,Team Heretics,over,total_inhibitors 1.5,12.50%,1.33,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854582/F19/,win
+2024-01-29,LOL - LEC Winter,SK Gaming,G2 Esports,over,total_dragons 4.5,28.33%,1.71,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854583/F19/,loss
+2024-01-29,LOL - LEC Winter,SK Gaming,G2 Esports,under,total_towers 12.5,7.33%,1.5,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854583/F19/,win
+2024-01-29,LOL - LEC Winter,SK Gaming,G2 Esports,under,total_kills 25.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854583/F19/,win
+2024-01-29,LOL - LEC Winter,SK Gaming,G2 Esports,under,game_duration 31.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854583/F19/,win
+2024-01-29,LOL - LEC Winter,SK Gaming,G2 Esports,under,total_inhibitors 1.5,45.83%,1.71,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854583/F19/,win
+2024-01-29,LOL - LEC Winter,SK Gaming,G2 Esports,over,total_barons 1.5,45.83%,1.71,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854583/F19/,loss
+2024-01-25,LOL - LLA Opening,INFINITY,All Knights,under,total_dragons 4.5,38.33%,1.2,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18831929/F19/,loss
+2024-01-25,LOL - LLA Opening,INFINITY,All Knights,over,total_towers 12.5,31.25%,1.71,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18831929/F19/,loss
+2024-01-25,LOL - LLA Opening,INFINITY,All Knights,under,total_kills 23.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18831929/F19/,win
+2024-01-25,LOL - LLA Opening,INFINITY,All Knights,under,game_duration 31.5,52.50%,1.2,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18831929/F19/,loss
+2024-01-25,LOL - LLA Opening,INFINITY,All Knights,over,total_inhibitors 1.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18831929/F19/,loss
+2024-01-25,LOL - LLA Opening,INFINITY,All Knights,under,total_barons 1.5,47.58%,1.09,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18831929/F19/,win
+2024-01-25,LOL - LLA Opening,Six Karma,All Knights,under,total_dragons 4.5,66.00%,1.0,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18831930/F19/,loss
+2024-01-25,LOL - LLA Opening,Six Karma,All Knights,under,total_towers 11.5,68.75%,1.33,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18831930/F19/,loss
+2024-01-25,LOL - LLA Opening,Six Karma,All Knights,under,game_duration 31.5,83.00%,1.0,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18831930/F19/,loss
+2024-01-25,LOL - LLA Opening,Six Karma,All Knights,over,total_inhibitors 1.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18831930/F19/,win
+2024-01-25,LOL - LLA Opening,Six Karma,All Knights,under,total_barons 1.5,61.00%,1.0,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18831930/F19/,loss
+2024-01-26,LOL - LLA Opening,Movistar R7,Isurus,under,total_kills 26.5,29.63%,1.41,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18831931/F19/,win
+2024-01-26,LOL - LLA Opening,Movistar R7,Isurus,under,total_barons 1.5,8.00%,1.33,1.44,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18831931/F19/,win
+2024-01-25,LOL - LCK Spring,Dplus KIA,Nongshim RedForce,under,game_duration 30.5,5.22%,1.74,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848043/F19/,win
+2024-01-25,LOL - LCK Spring,OKSavingsBank BRION,Gen.G,over,total_towers 11.5,23.75%,1.82,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848044/F19/,win
+2024-01-25,LOL - LCK Spring,OKSavingsBank BRION,Gen.G,over,game_duration 28.5,23.53%,1.48,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848044/F19/,win
+2024-01-25,LOL - LCK Spring,OKSavingsBank BRION,Gen.G,over,total_inhibitors 1.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848044/F19/,win
+2024-01-26,LOL - LCK Spring,KT Rolster,T1,over,game_duration 30.5,5.22%,1.74,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848045/F19/,win
+2024-01-25,LOL - LFL Spring,Team du Sud,Team GO,over,total_dragons 4.5,83.00%,1.0,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18839712/F19/,loss
+2024-01-25,LOL - LFL Spring,Team du Sud,Team GO,over,total_towers 12.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18839712/F19/,win
+2024-01-25,LOL - LFL Spring,Team du Sud,Team GO,over,total_kills 28.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18839712/F19/,win
+2024-01-25,LOL - LFL Spring,Team du Sud,Team GO,over,game_duration 32.5,83.00%,1.0,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18839712/F19/,loss
+2024-01-25,LOL - LFL Spring,Team du Sud,Team GO,over,total_inhibitors 1.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18839712/F19/,win
+2024-01-25,LOL - LFL Spring,Team du Sud,Team GO,over,total_barons 1.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18839712/F19/,loss
+2024-01-25,LOL - LFL Spring,Vitality.Bee,Aegis,over,total_dragons 4.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18839713/F19/,loss
+2024-01-25,LOL - LFL Spring,Vitality.Bee,Aegis,over,total_towers 11.5,125.00%,1.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18839713/F19/,loss
+2024-01-25,LOL - LFL Spring,Vitality.Bee,Aegis,under,total_kills 24.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18839713/F19/,win
+2024-01-25,LOL - LFL Spring,Vitality.Bee,Aegis,over,game_duration 29.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18839713/F19/,win
+2024-01-25,LOL - LFL Spring,Vitality.Bee,Aegis,under,total_barons 1.5,40.00%,1.0,1.4,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18839713/F19/,win
+2024-01-27,LOL - LEC Winter,GiantX,G2 Esports,over,total_dragons 4.5,31.00%,2.0,2.62,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854572/F19/,loss
+2024-01-27,LOL - LEC Winter,GiantX,G2 Esports,under,total_kills 24.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854572/F19/,win
+2024-01-27,LOL - LEC Winter,GiantX,G2 Esports,over,game_duration 31.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854572/F19/,loss
+2024-01-27,LOL - LEC Winter,GiantX,G2 Esports,over,total_barons 1.5,75.00%,1.71,3.0,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854572/F19/,loss
+2024-01-28,LOL - LEC Winter,MAD Lions KOI,GiantX,over,total_dragons 4.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854575/F19/,loss
+2024-01-28,LOL - LEC Winter,MAD Lions KOI,GiantX,over,total_barons 1.5,45.83%,1.71,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854575/F19/,loss
+2024-01-29,LOL - LEC Winter,GiantX,Rogue,over,total_towers 12.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854580/F19/,win
+2024-01-29,LOL - LEC Winter,GiantX,Rogue,under,total_kills 23.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854580/F19/,loss
+2024-01-29,LOL - LEC Winter,Team BDS,Karmine Corp,over,total_kills 27.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854581/F19/,loss
+2024-01-29,LOL - LEC Winter,Team BDS,Karmine Corp,over,total_barons 1.5,5.00%,2.0,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854581/F19/,loss
+2024-01-27,LOL - LCK Spring,Gen.G,Dplus KIA,under,total_inhibitors 1.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848047/F19/,win
+2024-01-27,LOL - LCK Spring,Gen.G,Dplus KIA,under,total_barons 1.5,12.14%,1.4,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848047/F19/,loss
+2024-01-27,LOL - LCK Spring,Nongshim RedForce,Kwangdong Freecs,under,total_towers 12.5,45.79%,1.08,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848048/F19/,win
+2024-01-27,LOL - LCK Spring,Nongshim RedForce,Kwangdong Freecs,over,total_kills 22.5,8.93%,1.68,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848048/F19/,loss
+2024-01-27,LOL - LCK Spring,Nongshim RedForce,Kwangdong Freecs,under,game_duration 31.5,28.54%,1.42,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848048/F19/,loss
+2024-01-27,LOL - LCK Spring,Nongshim RedForce,Kwangdong Freecs,under,total_inhibitors 1.5,33.45%,1.42,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848048/F19/,win
+2024-01-27,LOL - LCK Spring,Nongshim RedForce,Kwangdong Freecs,under,total_barons 1.5,10.27%,1.42,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848048/F19/,win
+2024-01-28,LOL - LCK Spring,DRX,OKSavingsBank BRION,under,total_towers 12.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848049/F19/,loss
+2024-01-28,LOL - LCK Spring,DRX,OKSavingsBank BRION,over,total_inhibitors 1.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848049/F19/,win
+2024-01-28,LOL - LCK Spring,Hanwha Life Esports,T1,under,total_towers 12.5,24.29%,1.26,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848050/F19/,win
+2024-01-28,LOL - LCK Spring,Hanwha Life Esports,T1,under,total_inhibitors 1.5,40.62%,1.6,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848050/F19/,win
+2024-01-31,LOL - LFL Spring,GameWard,Team GO,over,total_dragons 4.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892685/F19/,win
+2024-01-31,LOL - LFL Spring,GameWard,Team GO,over,total_towers 12.5,40.88%,1.14,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892685/F19/,win
+2024-01-31,LOL - LFL Spring,GameWard,Team GO,over,game_duration 33.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892685/F19/,win
+2024-01-31,LOL - LFL Spring,GameWard,Team GO,over,total_inhibitors 1.5,31.25%,1.14,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892685/F19/,win
+2024-01-31,LOL - LFL Spring,Solary,Team BDS Academy,over,total_dragons 4.5,29.00%,1.33,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892684/F19/,win
+2024-01-31,LOL - LFL Spring,Solary,Team BDS Academy,over,total_towers 12.5,41.67%,1.41,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892684/F19/,win
+2024-01-31,LOL - LFL Spring,Solary,Team BDS Academy,under,total_kills 24.5,29.63%,1.41,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892684/F19/,win
+2024-01-31,LOL - LFL Spring,Solary,Team BDS Academy,over,game_duration 32.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892684/F19/,loss
+2024-01-31,LOL - LFL Spring,Solary,Team BDS Academy,under,total_inhibitors 1.5,14.58%,2.18,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892684/F19/,win
+2024-01-28,LOL - LCK Spring,DRX,OKSavingsBank BRION,under,total_dragons 4.5,6.48%,1.62,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848049/F19/,loss
+2024-01-28,LOL - LCK Spring,DRX,OKSavingsBank BRION,under,total_barons 1.5,6.48%,1.62,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18848049/F19/,loss
+2024-01-28,LOL - LEC Winter,Team Vitality,Team Heretics,under,game_duration 33.5,56.86%,1.17,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854574/F19/,loss
+2024-01-28,LOL - LEC Winter,Team Vitality,Team Heretics,under,total_inhibitors 1.5,7.14%,2.33,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854574/F19/,loss
+2024-01-29,LOL - LEC Winter,Team Vitality,MAD Lions KOI,over,total_barons 1.5,5.00%,2.0,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854579/F19/,win
+2024-01-29,LOL - LEC Winter,Fnatic,Team Heretics,over,total_dragons 4.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854583/F19/,win
+2024-01-29,LOL - LEC Winter,Fnatic,Team Heretics,under,total_kills 25.5,30.71%,1.4,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854583/F19/,loss
+2024-01-29,LOL - LEC Winter,Fnatic,Team Heretics,over,total_barons 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854583/F19/,loss
+2024-01-30,LOL - LLA Opening,INFINITY,Six Karma,under,total_dragons 4.5,28.57%,1.56,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892630/F19/,loss
+2024-01-30,LOL - LLA Opening,INFINITY,Six Karma,under,total_towers 12.5,5.00%,2.0,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892630/F19/,loss
+2024-01-30,LOL - LLA Opening,INFINITY,Six Karma,under,total_kills 25.5,30.71%,1.4,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892630/F19/,win
+2024-01-30,LOL - LLA Opening,INFINITY,Six Karma,under,total_barons 1.5,35.14%,1.27,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892630/F19/,loss
+2024-01-31,LOL - LLA Opening,Isurus,Estral Esports,under,total_dragons 4.5,20.75%,1.33,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892631/F19/,win
+2024-01-31,LOL - LLA Opening,Isurus,Estral Esports,under,total_kills 24.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892631/F19/,loss
+2024-01-31,LOL - LLA Opening,Isurus,Estral Esports,under,game_duration 30.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892631/F19/,win
+2024-01-31,LOL - LLA Opening,Isurus,Estral Esports,under,total_barons 1.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892631/F19/,win
+2024-01-31,LOL - LLA Opening,Estral Esports,All Knights,under,total_dragons 4.5,31.15%,1.4,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892632/F19/,loss
+2024-01-31,LOL - LLA Opening,Estral Esports,All Knights,over,total_towers 12.5,26.67%,1.58,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892632/F19/,win
+2024-01-31,LOL - LLA Opening,Estral Esports,All Knights,under,game_duration 32.5,31.15%,1.4,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892632/F19/,loss
+2024-01-31,LOL - LLA Opening,Estral Esports,All Knights,over,total_inhibitors 1.5,10.00%,1.36,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892632/F19/,win
+2024-01-31,LOL - LLA Opening,Estral Esports,All Knights,under,total_barons 1.5,31.48%,1.22,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892632/F19/,loss
+2024-01-31,LOL - LCK Spring,Kwangdong Freecs,Dplus KIA,over,total_dragons 4.5,34.17%,1.57,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901485/F19/,win
+2024-01-31,LOL - LCK Spring,KT Rolster,OKSavingsBank BRION,over,total_dragons 4.5,25.15%,1.68,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901486/F19/,win
+2024-01-31,LOL - LCK Spring,KT Rolster,OKSavingsBank BRION,under,total_kills 23.5,6.29%,1.72,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901486/F19/,win
+2024-02-01,LOL - LCK Spring,T1,DRX,under,total_dragons 4.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901488/F19/,win
+2024-02-01,LOL - LCK Spring,T1,DRX,under,total_towers 12.5,32.80%,1.25,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901488/F19/,win
+2024-02-01,LOL - LCK Spring,T1,DRX,under,game_duration 33.5,18.95%,1.54,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901488/F19/,win
+2024-02-01,LOL - LCK Spring,T1,DRX,under,total_inhibitors 1.5,50.00%,1.67,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901488/F19/,win
+2024-02-01,LOL - LCK Spring,T1,DRX,under,total_barons 1.5,23.50%,1.54,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901488/F19/,loss
+2024-02-01,LOL - LCK Spring,FearX,Nongshim RedForce,under,total_dragons 4.5,66.23%,1.43,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901488/F19/,loss
+2024-02-01,LOL - LCK Spring,FearX,Nongshim RedForce,under,total_towers 12.5,55.62%,1.07,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901488/F19/,loss
+2024-02-01,LOL - LCK Spring,FearX,Nongshim RedForce,under,game_duration 33.5,28.35%,1.43,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901488/F19/,loss
+2024-02-01,LOL - LCK Spring,FearX,Nongshim RedForce,under,total_inhibitors 1.5,63.19%,1.53,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901488/F19/,loss
+2024-02-01,LOL - LCK Spring,FearX,Nongshim RedForce,under,total_barons 1.5,45.14%,1.31,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901488/F19/,loss
+2024-02-02,LOL - LCK Spring,Gen.G,Kwangdong Freecs,over,total_dragons 4.5,59.72%,1.57,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901489/F19/,win
+2024-02-02,LOL - LCK Spring,Gen.G,Kwangdong Freecs,over,total_towers 11.5,41.67%,1.76,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901489/F19/,loss
+2024-02-02,LOL - LCK Spring,Gen.G,Kwangdong Freecs,over,game_duration 30.5,16.92%,1.57,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901489/F19/,win
+2024-02-02,LOL - LCK Spring,Gen.G,Kwangdong Freecs,over,total_barons 1.5,43.56%,2.37,3.4,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901489/F19/,loss
+2024-02-02,LOL - LCK Spring,Dplus KIA,Hanwha Life Esports,under,total_dragons 4.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901490/F19/,win
+2024-02-02,LOL - LCK Spring,Dplus KIA,Hanwha Life Esports,under,total_kills 20.5,8.00%,1.67,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901490/F19/,loss
+2024-02-02,LOL - LCK Spring,Dplus KIA,Hanwha Life Esports,under,game_duration 33.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901490/F19/,win
+2024-02-02,LOL - LCK Spring,Dplus KIA,Hanwha Life Esports,under,total_inhibitors 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901490/F19/,loss
+2024-02-02,LOL - LCK Spring,Dplus KIA,Hanwha Life Esports,under,total_barons 1.5,74.79%,1.36,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901490/F19/,win
+2024-02-03,LOL - LCK Spring,DRX,KT Rolster,under,total_towers 11.5,5.55%,1.63,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901491/F19/,loss
+2024-02-03,LOL - LCK Spring,DRX,KT Rolster,under,total_inhibitors 1.5,17.61%,1.91,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901491/F19/,loss
+2024-02-03,LOL - LCK Spring,DRX,KT Rolster,under,total_barons 1.5,13.64%,1.76,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901491/F19/,loss
+2024-02-03,LOL - LCK Spring,OKSavingsBank BRION,T1,over,total_dragons 4.5,13.23%,2.09,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901492/F19/,loss
+2024-02-03,LOL - LCK Spring,OKSavingsBank BRION,T1,over,total_towers 11.5,8.33%,2.31,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901492/F19/,loss
+2024-02-03,LOL - LCK Spring,OKSavingsBank BRION,T1,over,total_inhibitors 1.5,18.89%,1.68,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901492/F19/,loss
+2024-02-03,LOL - LCK Spring,OKSavingsBank BRION,T1,over,total_barons 1.5,9.56%,3.1,3.4,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901492/F19/,loss
+2024-02-04,LOL - LCK Spring,Nongshim RedForce,Hanwha Life Esports,under,total_inhibitors 1.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901493/F19/,win
+2024-02-04,LOL - LCK Spring,Nongshim RedForce,Hanwha Life Esports,under,total_barons 1.5,10.50%,1.23,1.36,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901493/F19/,win
+2024-02-04,LOL - LCK Spring,FearX,Gen.G,under,total_kills 23.5,9.78%,1.73,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901494/F19/,loss
+2024-02-04,LOL - LCK Spring,FearX,Gen.G,over,game_duration 29.5,5.73%,1.73,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901494/F19/,win
+2024-01-29,LOL - LPL Spring,FunPlus Phoenix,Team WE,over,total_towers 12.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871682/F19/,win
+2024-01-29,LOL - LPL Spring,FunPlus Phoenix,Team WE,under,total_kills 24.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871682/F19/,win
+2024-01-29,LOL - LPL Spring,FunPlus Phoenix,Team WE,over,total_inhibitors 1.5,33.88%,1.14,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871682/F19/,win
+2024-01-29,LOL - LPL Spring,FunPlus Phoenix,Team WE,over,total_barons 1.5,37.50%,1.6,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871682/F19/,loss
+2024-01-29,LOL - LPL Spring,Bilibili Gaming,Anyone's Legend,under,total_barons 1.5,12.82%,1.21,1.36,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871683/F19/,win
+2024-01-30,LOL - LPL Spring,Royal Never Give Up,Ultra Prime,over,total_dragons 4.5,125.00%,1.11,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871684/F19/,loss
+2024-01-30,LOL - LPL Spring,Royal Never Give Up,Ultra Prime,over,total_towers 11.5,46.40%,1.25,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871684/F19/,win
+2024-01-30,LOL - LPL Spring,Royal Never Give Up,Ultra Prime,under,total_kills 26.5,46.40%,1.25,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871684/F19/,win
+2024-01-30,LOL - LPL Spring,Royal Never Give Up,Ultra Prime,over,game_duration 29.5,64.70%,1.11,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871684/F19/,loss
+2024-01-30,LOL - LPL Spring,Royal Never Give Up,Ultra Prime,under,total_inhibitors 1.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871684/F19/,loss
+2024-01-30,LOL - LPL Spring,Royal Never Give Up,Ultra Prime,over,total_barons 1.5,65.00%,1.67,2.75,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871684/F19/,loss
+2024-01-30,LOL - LPL Spring,LGD Gaming,EDward Gaming,over,total_dragons 4.5,35.00%,1.67,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871685/F19/,win
+2024-01-30,LOL - LPL Spring,LGD Gaming,EDward Gaming,over,total_towers 11.5,9.90%,1.43,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871685/F19/,win
+2024-01-30,LOL - LPL Spring,LGD Gaming,EDward Gaming,under,total_kills 26.5,46.40%,1.25,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871685/F19/,loss
+2024-01-30,LOL - LPL Spring,LGD Gaming,EDward Gaming,over,game_duration 30.5,28.10%,1.43,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871685/F19/,win
+2024-01-30,LOL - LPL Spring,LGD Gaming,EDward Gaming,over,total_barons 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871685/F19/,loss
+2024-01-31,LOL - LPL Spring,Rare Atom,Invictus Gaming,under,total_towers 12.5,23.10%,1.28,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871686/F19/,win
+2024-01-31,LOL - LPL Spring,Rare Atom,Invictus Gaming,under,total_kills 27.5,51.81%,1.21,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871686/F19/,win
+2024-01-31,LOL - LPL Spring,Rare Atom,Invictus Gaming,over,game_duration 30.5,12.30%,1.63,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871686/F19/,loss
+2024-01-31,LOL - LPL Spring,Rare Atom,Invictus Gaming,under,total_barons 1.5,11.60%,1.44,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871686/F19/,win
+2024-01-31,LOL - LPL Spring,Ninjas in Pyjamas,JD Gaming,under,total_dragons 4.5,22.22%,1.36,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871687/F19/,loss
+2024-01-31,LOL - LPL Spring,Ninjas in Pyjamas,JD Gaming,under,total_towers 12.5,39.75%,1.12,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871687/F19/,loss
+2024-01-31,LOL - LPL Spring,Ninjas in Pyjamas,JD Gaming,under,game_duration 31.5,14.63%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871687/F19/,loss
+2024-01-31,LOL - LPL Spring,Ninjas in Pyjamas,JD Gaming,under,total_inhibitors 1.5,6.78%,2.22,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871687/F19/,loss
+2024-01-31,LOL - LPL Spring,Ninjas in Pyjamas,JD Gaming,under,total_barons 1.5,24.73%,1.29,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871687/F19/,loss
+2024-02-01,LOL - LPL Spring,ThunderTalk Gaming,Oh My God,over,total_dragons 4.5,31.25%,1.6,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871688/F19/,loss
+2024-02-01,LOL - LPL Spring,ThunderTalk Gaming,Oh My God,under,total_kills 25.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871688/F19/,win
+2024-02-01,LOL - LPL Spring,ThunderTalk Gaming,Oh My God,over,game_duration 30.5,52.50%,1.2,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871688/F19/,loss
+2024-02-01,LOL - LPL Spring,ThunderTalk Gaming,Oh My God,over,total_barons 1.5,55.83%,1.41,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871688/F19/,loss
+2024-02-01,LOL - LPL Spring,LNG Esports,Weibo Gaming,over,total_dragons 4.5,5.00%,2.0,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871689/F19/,win
+2024-02-01,LOL - LPL Spring,LNG Esports,Weibo Gaming,under,total_kills 25.5,32.17%,1.38,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871689/F19/,loss
+2024-02-01,LOL - LPL Spring,LNG Esports,Weibo Gaming,over,game_duration 31.5,11.83%,1.64,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871689/F19/,win
+2024-02-01,LOL - LPL Spring,LNG Esports,Weibo Gaming,under,total_inhibitors 1.5,84.33%,1.29,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871689/F19/,loss
+2024-02-01,LOL - LPL Spring,LNG Esports,Weibo Gaming,over,total_barons 1.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871689/F19/,win
+2024-02-02,LOL - LPL Spring,Ninjas in Pyjamas,Team WE,under,total_dragons 4.5,21.79%,1.81,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871690/F19/,loss
+2024-02-02,LOL - LPL Spring,Ninjas in Pyjamas,Team WE,under,total_towers 12.5,6.54%,1.47,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871690/F19/,loss
+2024-02-02,LOL - LPL Spring,Ninjas in Pyjamas,Team WE,under,game_duration 33.5,24.18%,1.47,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871690/F19/,loss
+2024-02-02,LOL - LPL Spring,Ninjas in Pyjamas,Team WE,over,total_inhibitors 1.5,12.02%,1.37,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871690/F19/,win
+2024-02-02,LOL - LPL Spring,Ultra Prime,FunPlus Phoenix,over,total_dragons 4.5,7.50%,1.6,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871691/F19/,loss
+2024-02-02,LOL - LPL Spring,Ultra Prime,FunPlus Phoenix,over,total_towers 11.5,16.25%,1.29,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871691/F19/,win
+2024-02-02,LOL - LPL Spring,Ultra Prime,FunPlus Phoenix,over,total_inhibitors 1.5,7.10%,1.43,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871691/F19/,win
+2024-02-02,LOL - LPL Spring,Ultra Prime,FunPlus Phoenix,over,total_barons 1.5,10.00%,1.82,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871691/F19/,loss
+2024-02-02,LOL - LPL Spring,Anyone's Legend,LGD Gaming,over,total_dragons 4.5,7.90%,1.54,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871692/F19/,win
+2024-02-03,LOL - LPL Spring,Top Esports,Rare Atom,under,total_inhibitors 1.5,15.00%,1.91,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871693/F19/,win
+2024-02-03,LOL - LPL Spring,Top Esports,Rare Atom,under,total_barons 1.5,7.73%,1.39,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871693/F19/,win
+2024-02-03,LOL - LPL Spring,Invictus Gaming,ThunderTalk Gaming,under,total_towers 11.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871694/F19/,win
+2024-02-04,LOL - LPL Spring,Oh My God,Ninjas in Pyjamas,under,total_dragons 4.5,35.71%,1.47,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871696/F19/,loss
+2024-02-04,LOL - LPL Spring,Oh My God,Ninjas in Pyjamas,under,total_towers 11.5,20.54%,1.87,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871696/F19/,win
+2024-02-04,LOL - LPL Spring,Oh My God,Ninjas in Pyjamas,under,game_duration 33.5,39.43%,1.31,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871696/F19/,win
+2024-02-04,LOL - LPL Spring,Oh My God,Ninjas in Pyjamas,over,total_inhibitors 1.5,11.17%,1.45,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871696/F19/,loss
+2024-02-04,LOL - LPL Spring,Oh My God,Ninjas in Pyjamas,under,total_barons 1.5,8.93%,1.68,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871696/F19/,win
+2024-02-04,LOL - LPL Spring,JD Gaming,LNG Esports,under,total_towers 11.5,42.81%,1.66,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871697/F19/,loss
+2024-02-04,LOL - LPL Spring,JD Gaming,LNG Esports,under,game_duration 33.5,7.14%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871697/F19/,win
+2024-02-04,LOL - LPL Spring,JD Gaming,LNG Esports,under,total_inhibitors 1.5,28.80%,1.71,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871697/F19/,win
+2024-02-04,LOL - LPL Spring,JD Gaming,LNG Esports,under,total_barons 1.5,22.31%,1.47,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871697/F19/,win
+2024-02-04,LOL - LPL Spring,Royal Never Give Up,Weibo Gaming,under,total_towers 12.5,30.83%,1.2,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871698/F19/,loss
+2024-02-04,LOL - LPL Spring,Royal Never Give Up,Weibo Gaming,under,total_kills 25.5,15.90%,1.58,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871698/F19/,win
+2024-02-04,LOL - LPL Spring,Royal Never Give Up,Weibo Gaming,over,game_duration 33.5,15.90%,1.58,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871698/F19/,win
+2024-02-04,LOL - LPL Spring,Royal Never Give Up,Weibo Gaming,under,total_inhibitors 1.5,65.90%,1.43,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871698/F19/,loss
+2024-02-04,LOL - LPL Spring,Royal Never Give Up,Weibo Gaming,over,total_barons 1.5,15.90%,1.58,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18871698/F19/,win
+2024-01-29,LOL - LEC Winter,GiantX,Rogue,under,total_dragons 4.5,14.29%,1.75,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932079/D19/E18854580/F19/,loss
+2024-01-30,LOL - Ultraliga,Back2TheGame,Forsaken,over,total_dragons 4.5,60.13%,1.14,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885694/F19/,win
+2024-01-30,LOL - Ultraliga,Back2TheGame,Forsaken,over,total_towers 11.5,14.75%,1.33,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885694/F19/,loss
+2024-01-30,LOL - Ultraliga,Back2TheGame,Forsaken,over,game_duration 32.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885694/F19/,loss
+2024-01-30,LOL - Ultraliga,Back2TheGame,Forsaken,over,total_barons 1.5,5.00%,2.0,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885694/F19/,loss
+2024-01-30,LOL - Ultraliga,devils.one,Zero Tenacity,under,total_kills 24.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885695/F19/,win
+2024-01-31,LOL - Ultraliga,Forsaken,Team ESCA Gaming,over,total_dragons 4.5,25.00%,1.6,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885701/F19/,win
+2024-01-31,LOL - Ultraliga,Forsaken,Team ESCA Gaming,over,total_towers 11.5,20.75%,1.33,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885701/F19/,win
+2024-01-31,LOL - Ultraliga,Forsaken,Team ESCA Gaming,under,total_inhibitors 1.5,5.00%,2.0,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885701/F19/,win
+2024-01-31,LOL - Ultraliga,Forsaken,Team ESCA Gaming,over,total_barons 1.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885701/F19/,loss
+2024-01-31,LOL - Ultraliga,GRP Esports,Zero Tenacity,under,total_kills 24.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885702/F19/,win
+2024-01-31,LOL - Ultraliga,Orbit Anonymo Esports,devils.one,over,total_dragons 4.5,59.37%,1.41,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885703/F19/,win
+2024-01-31,LOL - Ultraliga,Orbit Anonymo Esports,devils.one,over,total_towers 11.5,10.83%,1.71,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885703/F19/,win
+2024-01-31,LOL - Ultraliga,Orbit Anonymo Esports,devils.one,over,total_kills 24.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885703/F19/,win
+2024-01-31,LOL - Ultraliga,Orbit Anonymo Esports,devils.one,over,game_duration 29.5,29.62%,1.41,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885703/F19/,win
+2024-01-31,LOL - Ultraliga,Orbit Anonymo Esports,devils.one,over,total_inhibitors 1.5,38.33%,1.2,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18885703/F19/,win
+2024-02-01,LOL - LCK Spring,T1,DRX,over,total_dragons 4.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901487/F19/,loss
+2024-02-01,LOL - LCK Spring,T1,DRX,over,total_barons 1.5,22.50%,2.86,3.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18901487/F19/,win
+2024-01-31,LOL - LFL Spring,Team du Sud,Gentle Mates,over,total_dragons 4.5,12.50%,1.33,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892682/F19/,win
+2024-01-31,LOL - LFL Spring,Team du Sud,Gentle Mates,over,total_towers 12.5,20.75%,1.33,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892682/F19/,loss
+2024-01-31,LOL - LFL Spring,Team du Sud,Gentle Mates,over,game_duration 33.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892682/F19/,win
+2024-01-31,LOL - LFL Spring,Team du Sud,Gentle Mates,over,total_inhibitors 1.5,31.25%,1.14,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892682/F19/,loss
+2024-01-31,LOL - LFL Spring,Team du Sud,Gentle Mates,over,total_barons 1.5,12.50%,1.33,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892682/F19/,win
+2024-01-31,LOL - LVP Superliga Spring,Guasones,Barça eSports,over,total_dragons 4.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892543/F19/,loss
+2024-01-31,LOL - LVP Superliga Spring,Guasones,Barça eSports,over,total_towers 12.5,65.00%,1.33,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892543/F19/,loss
+2024-01-31,LOL - LVP Superliga Spring,Guasones,Barça eSports,under,total_inhibitors 1.5,31.00%,2.0,2.62,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892543/F19/,win
+2024-01-31,LOL - LVP Superliga Spring,ZETA,GIANTX Pride,under,total_kills 28.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892545/F19/,win
+2024-01-31,LOL - LVP Superliga Spring,ZETA,GIANTX Pride,over,game_duration 32.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892545/F19/,loss
+2024-01-31,LOL - LVP Superliga Spring,ZETA,GIANTX Pride,over,total_barons 1.5,18.75%,1.6,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892545/F19/,loss
+2024-01-31,LOL - LVP Superliga Spring,Movistar KOI,Ramboot Club,under,total_dragons 4.5,68.75%,1.33,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892546/F19/,loss
+2024-01-31,LOL - LVP Superliga Spring,Movistar KOI,Ramboot Club,under,total_towers 12.5,65.00%,1.33,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892546/F19/,loss
+2024-01-31,LOL - LVP Superliga Spring,Movistar KOI,Ramboot Club,under,total_kills 28.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892546/F19/,loss
+2024-01-31,LOL - LVP Superliga Spring,Movistar KOI,Ramboot Club,under,game_duration 31.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892546/F19/,loss
+2024-01-31,LOL - LVP Superliga Spring,Movistar KOI,Ramboot Club,under,total_barons 1.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892546/F19/,win
+2024-01-31,LOL - LVP Superliga Spring,Rebels Gaming,Case Esports,over,total_dragons 4.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892547/F19/,win
+2024-02-02,LOL - PCS Spring,HELL PIGS,Deep Cross Gaming,over,total_dragons 3.5,49.50%,1.08,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20938551/D19/E18901503/F19/,win
+2024-02-02,LOL - PCS Spring,HELL PIGS,Deep Cross Gaming,over,total_towers 11.5,62.86%,1.17,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20938551/D19/E18901503/F19/,loss
+2024-02-02,LOL - PCS Spring,HELL PIGS,Deep Cross Gaming,over,game_duration 29.5,33.98%,1.37,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938551/D19/E18901503/F19/,loss
+2024-02-02,LOL - PCS Spring,HELL PIGS,Deep Cross Gaming,over,total_barons 1.5,33.48%,2.43,3.25,Bet365,https://www.bet365.com/#/AC/B151/C20938551/D19/E18901503/F19/,loss
+2024-02-02,LOL - PCS Spring,J Team,CTBC Flying Oyster,over,total_dragons 4.5,15.36%,1.65,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20938551/D19/E18901504/F19/,loss
+2024-02-02,LOL - PCS Spring,J Team,CTBC Flying Oyster,under,total_towers 11.5,10.04%,2.15,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20938551/D19/E18901504/F19/,win
+2024-02-02,LOL - PCS Spring,J Team,CTBC Flying Oyster,over,total_inhibitors 1.5,21.49%,1.29,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20938551/D19/E18901504/F19/,loss
+2024-02-02,LOL - PCS Spring,J Team,CTBC Flying Oyster,under,total_barons 1.5,14.29%,1.31,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20938551/D19/E18901504/F19/,win
+2024-02-04,LOL - PCS Spring,HELL PIGS,CTBC Flying Oyster,under,total_kills 25.5,11.11%,1.65,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938551/D19/E18901507/F19/,loss
+2024-02-04,LOL - PCS Spring,J Team,Deep Cross Gaming,over,total_dragons 4.5,9.29%,1.65,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20938551/D19/E18901508/F19/,win
+2024-02-04,LOL - PCS Spring,J Team,Deep Cross Gaming,under,total_towers 12.5,10.27%,1.42,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20938551/D19/E18901508/F19/,win
+2024-02-04,LOL - PCS Spring,J Team,Deep Cross Gaming,over,total_kills 27.5,13.29%,1.62,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938551/D19/E18901508/F19/,loss
+2024-02-04,LOL - PCS Spring,J Team,Deep Cross Gaming,over,game_duration 32.5,11.11%,1.65,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938551/D19/E18901508/F19/,win
+2024-02-04,LOL - PCS Spring,J Team,Deep Cross Gaming,over,total_inhibitors 1.5,10.27%,1.42,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20938551/D19/E18901508/F19/,win
+2024-02-02,LOL - TCL Winter,Dark Passage,BoostGate Esports,over,total_dragons 4.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894679/F19/,win
+2024-02-02,LOL - TCL Winter,Dark Passage,BoostGate Esports,over,total_towers 12.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894679/F19/,win
+2024-02-02,LOL - TCL Winter,Dark Passage,BoostGate Esports,under,total_kills 27.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894679/F19/,win
+2024-02-02,LOL - TCL Winter,Dark Passage,BoostGate Esports,over,total_inhibitors 1.5,14.75%,1.33,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894679/F19/,loss
+2024-02-02,LOL - TCL Winter,FUT Esports,Papara SuperMassive,over,total_dragons 4.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894681/F19/,win
+2024-02-02,LOL - TCL Winter,FUT Esports,Papara SuperMassive,under,total_towers 11.5,87.50%,1.33,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894681/F19/,loss
+2024-02-02,LOL - TCL Winter,FUT Esports,Papara SuperMassive,over,total_kills 26.5,83.00%,1.0,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894681/F19/,win
+2024-02-02,LOL - TCL Winter,FUT Esports,Papara SuperMassive,over,game_duration 31.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894681/F19/,loss
+2024-02-02,LOL - TCL Winter,FUT Esports,Papara SuperMassive,under,total_inhibitors 1.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894681/F19/,loss
+2024-02-02,LOL - TCL Winter,FUT Esports,Papara SuperMassive,under,total_barons 1.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894681/F19/,win
+2024-02-02,LOL - TCL Winter,Galakticos,NASR eSports Turkey,over,total_dragons 4.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894682/F19/,win
+2024-02-02,LOL - TCL Winter,Galakticos,NASR eSports Turkey,over,total_towers 11.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894682/F19/,win
+2024-02-02,LOL - TCL Winter,Galakticos,NASR eSports Turkey,over,total_barons 1.5,50.00%,2.0,3.0,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894682/F19/,win
+2024-02-03,LOL - LJL Spring,Burning Core Toyama,V3 Esports,over,total_towers 12.5,18.13%,1.78,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901495/F19/,loss
+2024-02-03,LOL - LJL Spring,Burning Core Toyama,V3 Esports,over,total_kills 28.5,25.81%,1.45,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901495/F19/,loss
+2024-02-03,LOL - LJL Spring,Burning Core Toyama,V3 Esports,over,total_inhibitors 1.5,21.88%,1.23,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901495/F19/,loss
+2024-02-03,LOL - LJL Spring,Sengoku Gaming,DetonatioN FocusMe,over,total_dragons 4.5,65.00%,1.33,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901497/F19/,loss
+2024-02-03,LOL - LJL Spring,Sengoku Gaming,DetonatioN FocusMe,over,total_towers 11.5,82.81%,1.23,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901497/F19/,loss
+2024-02-03,LOL - LJL Spring,Sengoku Gaming,DetonatioN FocusMe,over,game_duration 31.5,25.81%,1.45,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901497/F19/,loss
+2024-02-03,LOL - LJL Spring,Sengoku Gaming,DetonatioN FocusMe,over,total_inhibitors 1.5,7.94%,1.45,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901497/F19/,loss
+2024-02-03,LOL - LJL Spring,Sengoku Gaming,DetonatioN FocusMe,over,total_barons 1.5,37.50%,2.0,2.75,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901497/F19/,loss
+2024-02-04,LOL - LJL Spring,Sengoku Gaming,Burning Core Toyama,over,total_dragons 4.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901499/F19/,loss
+2024-02-04,LOL - LJL Spring,Sengoku Gaming,Burning Core Toyama,over,total_towers 12.5,42.50%,1.33,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901499/F19/,win
+2024-02-04,LOL - LJL Spring,Sengoku Gaming,Burning Core Toyama,over,total_kills 28.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901499/F19/,win
+2024-02-04,LOL - LJL Spring,Sengoku Gaming,Burning Core Toyama,over,total_inhibitors 1.5,21.88%,1.23,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901499/F19/,win
+2024-02-04,LOL - LJL Spring,V3 Esports,AXIZ CREST,over,total_dragons 4.5,29.00%,1.33,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901500/F19/,win
+2024-02-04,LOL - LJL Spring,V3 Esports,AXIZ CREST,over,total_towers 12.5,37.50%,1.6,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901500/F19/,loss
+2024-02-04,LOL - LJL Spring,V3 Esports,AXIZ CREST,over,total_kills 27.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901500/F19/,loss
+2024-02-04,LOL - LJL Spring,V3 Esports,AXIZ CREST,over,total_inhibitors 1.5,12.50%,1.33,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20939232/D19/E18901500/F19/,loss
+2024-01-29,LOL - LCK CL Spring,T1 Esports Academy,DRX Challengers,over,total_dragons 4.5,5.33%,2.25,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18875923/F19/,win
+2024-01-29,LOL - LCK CL Spring,T1 Esports Academy,DRX Challengers,under,total_towers 12.5,5.11%,1.64,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18875923/F19/,loss
+2024-01-30,LOL - LCK CL Spring,Nongshim Esports Academy,Dplus KIA Challengers,over,total_dragons 4.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18875925/F19/,win
+2024-01-30,LOL - LCK CL Spring,Nongshim Esports Academy,Dplus KIA Challengers,under,total_towers 12.5,18.97%,1.4,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18875925/F19/,win
+2024-01-30,LOL - LCK CL Spring,Nongshim Esports Academy,Dplus KIA Challengers,over,game_duration 33.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18875925/F19/,loss
+2024-01-30,LOL - LCK CL Spring,Nongshim Esports Academy,Dplus KIA Challengers,under,total_inhibitors 1.5,42.20%,1.67,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18875925/F19/,win
+2024-01-30,LOL - LCK CL Spring,Nongshim Esports Academy,Dplus KIA Challengers,over,total_barons 1.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18875925/F19/,loss
+2024-02-01,LOL - LCK CL Spring,OKSavingsBank BRION Challengers,DRX Challengers,over,total_dragons 4.5,16.58%,1.48,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18892553/F19/,win
+2024-02-01,LOL - LCK CL Spring,OKSavingsBank BRION Challengers,DRX Challengers,under,total_towers 12.5,5.73%,1.73,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18892553/F19/,win
+2024-02-01,LOL - LCK CL Spring,OKSavingsBank BRION Challengers,DRX Challengers,over,game_duration 33.5,5.73%,1.73,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18892553/F19/,win
+2024-02-01,LOL - LCK CL Spring,OKSavingsBank BRION Challengers,DRX Challengers,under,total_inhibitors 1.5,13.23%,2.09,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18892553/F19/,win
+2024-02-02,LOL - LCS Spring,Immortals,Cloud9,over,total_dragons 4.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907510/F19/,win
+2024-02-02,LOL - LCS Spring,Immortals,Cloud9,over,total_towers 11.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907510/F19/,win
+2024-02-02,LOL - LCS Spring,Immortals,Cloud9,over,game_duration 29.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907510/F19/,win
+2024-02-02,LOL - LCS Spring,Immortals,Cloud9,under,total_inhibitors 1.5,40.62%,1.6,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907510/F19/,win
+2024-02-02,LOL - LCS Spring,Immortals,Cloud9,over,total_barons 1.5,31.25%,2.67,3.5,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907510/F19/,loss
+2024-02-02,LOL - LCS Spring,Team Liquid,NRG,over,total_dragons 4.5,7.50%,1.6,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907511/F19/,win
+2024-02-02,LOL - LCS Spring,Team Liquid,NRG,over,total_towers 12.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907511/F19/,win
+2024-02-02,LOL - LCS Spring,Team Liquid,NRG,over,game_duration 32.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907511/F19/,win
+2024-02-02,LOL - LCS Spring,Team Liquid,NRG,over,total_inhibitors 1.5,57.00%,1.0,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907511/F19/,win
+2024-02-02,LOL - LCS Spring,Dignitas,Shopify Rebellion,under,total_towers 12.5,20.75%,1.33,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907512/F19/,win
+2024-02-02,LOL - LCS Spring,Dignitas,Shopify Rebellion,over,total_kills 25.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907512/F19/,win
+2024-02-02,LOL - LCS Spring,Dignitas,Shopify Rebellion,under,game_duration 32.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907512/F19/,win
+2024-02-02,LOL - LCS Spring,Dignitas,Shopify Rebellion,under,total_inhibitors 1.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907512/F19/,win
+2024-02-02,LOL - LCS Spring,Dignitas,Shopify Rebellion,under,total_barons 1.5,31.25%,1.14,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907512/F19/,win
+2024-02-03,LOL - LCS Spring,FlyQuest,100 Thieves,over,total_dragons 4.5,7.50%,1.6,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907513/F19/,pending
+2024-02-03,LOL - LCS Spring,FlyQuest,100 Thieves,under,total_kills 24.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907513/F19/,pending
+2024-02-03,LOL - LCS Spring,FlyQuest,100 Thieves,under,total_barons 1.5,31.25%,1.14,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907513/F19/,pending
+2024-02-03,LOL - LCS Spring,Team Liquid,Dignitas,over,total_dragons 4.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907514/F19/,loss
+2024-02-03,LOL - LCS Spring,Team Liquid,Dignitas,over,total_towers 12.5,48.13%,1.6,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907514/F19/,win
+2024-02-03,LOL - LCS Spring,Team Liquid,Dignitas,over,game_duration 31.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907514/F19/,win
+2024-02-03,LOL - LCS Spring,Team Liquid,Dignitas,over,total_inhibitors 1.5,37.38%,1.14,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907514/F19/,win
+2024-02-03,LOL - LCS Spring,Team Liquid,Dignitas,under,total_barons 1.5,8.00%,1.33,1.44,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907514/F19/,win
+2024-02-03,LOL - LCS Spring,FlyQuest,Cloud9,under,total_dragons 4.5,50.00%,1.33,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907515/F19/,loss
+2024-02-03,LOL - LCS Spring,FlyQuest,Cloud9,under,total_towers 12.5,20.75%,1.33,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907515/F19/,loss
+2024-02-03,LOL - LCS Spring,FlyQuest,Cloud9,under,total_kills 24.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907515/F19/,win
+2024-02-03,LOL - LCS Spring,FlyQuest,Cloud9,under,game_duration 32.5,60.13%,1.14,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907515/F19/,win
+2024-02-03,LOL - LCS Spring,FlyQuest,Cloud9,under,total_inhibitors 1.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907515/F19/,loss
+2024-02-03,LOL - LCS Spring,FlyQuest,Cloud9,under,total_barons 1.5,12.50%,1.33,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907515/F19/,win
+2024-02-03,LOL - LCS Spring,Immortals,100 Thieves,over,total_dragons 4.5,50.50%,1.14,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907516/F19/,loss
+2024-02-03,LOL - LCS Spring,Immortals,100 Thieves,over,total_towers 12.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907516/F19/,loss
+2024-02-03,LOL - LCS Spring,Immortals,100 Thieves,over,total_kills 24.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907516/F19/,win
+2024-02-03,LOL - LCS Spring,Immortals,100 Thieves,over,game_duration 32.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907516/F19/,win
+2024-02-03,LOL - LCS Spring,Immortals,100 Thieves,under,total_inhibitors 1.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907516/F19/,win
+2024-02-03,LOL - LCS Spring,Immortals,100 Thieves,under,total_barons 1.5,12.50%,1.33,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907516/F19/,win
+2024-01-31,LOL - Prime League Spring,FC Schalke 04 Esports,Eintracht Spandau,under,total_towers 12.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892672/F19/,win
+2024-01-31,LOL - Prime League Spring,FC Schalke 04 Esports,Eintracht Spandau,over,total_kills 26.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892672/F19/,loss
+2024-01-31,LOL - Prime League Spring,FC Schalke 04 Esports,Eintracht Spandau,over,game_duration 33.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892672/F19/,loss
+2024-01-31,LOL - Prime League Spring,FC Schalke 04 Esports,Eintracht Spandau,under,total_inhibitors 1.5,40.62%,1.6,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892672/F19/,loss
+2024-01-31,LOL - Prime League Spring,FC Schalke 04 Esports,Eintracht Spandau,over,total_barons 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892672/F19/,loss
+2024-01-31,LOL - Prime League Spring,Unicorns of Love Sexy Edition,E WIE EINFACH E-SPORTS,over,total_dragons 4.5,12.50%,1.6,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892673/F19/,win
+2024-01-31,LOL - Prime League Spring,Unicorns of Love Sexy Edition,E WIE EINFACH E-SPORTS,over,total_towers 12.5,57.50%,1.33,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892673/F19/,win
+2024-01-31,LOL - Prime League Spring,Unicorns of Love Sexy Edition,E WIE EINFACH E-SPORTS,over,total_kills 30.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892673/F19/,win
+2024-01-31,LOL - Prime League Spring,Unicorns of Love Sexy Edition,E WIE EINFACH E-SPORTS,under,game_duration 32.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892673/F19/,loss
+2024-01-31,LOL - Prime League Spring,Unicorns of Love Sexy Edition,E WIE EINFACH E-SPORTS,over,total_barons 1.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892673/F19/,win
+2024-01-31,LOL - Prime League Spring,SK Gaming Prime,Eintracht Frankfurt,under,game_duration 32.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892670/F19/,loss
+2024-01-31,LOL - Prime League Spring,SK Gaming Prime,Eintracht Frankfurt,over,total_inhibitors 1.5,37.38%,1.14,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892670/F19/,loss
+2024-01-31,LOL - Prime League Spring,SK Gaming Prime,Eintracht Frankfurt,over,total_barons 1.5,48.13%,1.6,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892670/F19/,loss
+2024-01-31,LOL - Prime League Spring,Berlin International Gaming,NNO Prime,over,total_dragons 4.5,20.75%,1.33,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892671/F19/,loss
+2024-01-31,LOL - Prime League Spring,Berlin International Gaming,NNO Prime,over,total_towers 12.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892671/F19/,loss
+2024-01-31,LOL - Prime League Spring,Berlin International Gaming,NNO Prime,under,total_kills 28.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892671/F19/,loss
+2024-01-31,LOL - Prime League Spring,Berlin International Gaming,NNO Prime,under,game_duration 33.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892671/F19/,win
+2024-01-31,LOL - Prime League Spring,Berlin International Gaming,NNO Prime,over,total_inhibitors 1.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892671/F19/,loss
+2024-01-31,LOL - Prime League Spring,Berlin International Gaming,NNO Prime,over,total_barons 1.5,35.00%,1.33,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892671/F19/,loss
+2024-02-01,LOL - TCL Winter,Dark Passage,NASR eSports Turkey,over,total_dragons 4.5,29.00%,1.33,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894675/F19/,win
+2024-02-01,LOL - TCL Winter,Dark Passage,NASR eSports Turkey,over,total_towers 11.5,20.75%,1.33,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894675/F19/,win
+2024-02-01,LOL - TCL Winter,Dark Passage,NASR eSports Turkey,under,total_kills 27.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894675/F19/,loss
+2024-02-01,LOL - TCL Winter,Dark Passage,NASR eSports Turkey,under,game_duration 33.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894675/F19/,loss
+2024-02-01,LOL - TCL Winter,Dark Passage,NASR eSports Turkey,under,total_inhibitors 1.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894675/F19/,loss
+2024-02-01,LOL - TCL Winter,Dark Passage,NASR eSports Turkey,over,total_barons 1.5,5.00%,2.0,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894675/F19/,win
+2024-02-01,LOL - TCL Winter,BoostGate Esports,FUT Esports,over,total_dragons 4.5,29.00%,1.33,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894677/F19/,win
+2024-02-01,LOL - TCL Winter,BoostGate Esports,FUT Esports,under,total_towers 12.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894677/F19/,loss
+2024-02-01,LOL - TCL Winter,BoostGate Esports,FUT Esports,over,total_kills 26.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894677/F19/,win
+2024-02-01,LOL - TCL Winter,BoostGate Esports,FUT Esports,over,total_inhibitors 1.5,61.00%,1.0,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894677/F19/,win
+2024-02-01,LOL - TCL Winter,BoostGate Esports,FUT Esports,over,total_barons 1.5,5.00%,2.0,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894677/F19/,loss
+2024-02-01,LOL - TCL Winter,Misa Esports,Galakticos,under,total_towers 11.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894678/F19/,loss
+2024-02-01,LOL - TCL Winter,Misa Esports,Galakticos,over,total_kills 29.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894678/F19/,loss
+2024-02-01,LOL - TCL Winter,Misa Esports,Galakticos,under,game_duration 33.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894678/F19/,win
+2024-02-01,LOL - TCL Winter,Misa Esports,Galakticos,under,total_inhibitors 1.5,65.00%,1.33,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894678/F19/,loss
+2024-02-01,LOL - TCL Winter,Misa Esports,Galakticos,over,total_barons 1.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894678/F19/,loss
+2024-02-02,LOL - TCL Winter,FUT Esports,Papara SuperMassive,under,total_towers 12.5,14.75%,1.33,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894680/F19/,loss
+2024-02-02,LOL - TCL Winter,FUT Esports,Papara SuperMassive,under,game_duration 33.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18894680/F19/,win
+2024-02-01,LOL - Prime League Spring,SK Gaming Prime,FC Schalke 04 Esports,over,game_duration 33.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892678/F19/,loss
+2024-02-01,LOL - Prime League Spring,E WIE EINFACH E-SPORTS,Eintracht Frankfurt,over,total_kills 29.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892674/F19/,win
+2024-02-01,LOL - Prime League Spring,E WIE EINFACH E-SPORTS,Eintracht Frankfurt,under,game_duration 32.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892674/F19/,win
+2024-02-01,LOL - Prime League Spring,E WIE EINFACH E-SPORTS,Eintracht Frankfurt,over,total_barons 1.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892674/F19/,win
+2024-02-01,LOL - Prime League Spring,MOUZ NXT,Unicorns of Love Sexy Edition,over,total_dragons 4.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892676/F19/,win
+2024-02-01,LOL - Prime League Spring,MOUZ NXT,Unicorns of Love Sexy Edition,over,total_kills 29.5,28.10%,1.43,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892676/F19/,win
+2024-02-01,LOL - Prime League Spring,MOUZ NXT,Unicorns of Love Sexy Edition,under,game_duration 32.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892676/F19/,loss
+2024-02-01,LOL - Prime League Spring,MOUZ NXT,Unicorns of Love Sexy Edition,under,total_inhibitors 1.5,35.00%,1.67,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892676/F19/,loss
+2024-02-01,LOL - Prime League Spring,MOUZ NXT,Unicorns of Love Sexy Edition,over,total_barons 1.5,50.00%,2.0,3.0,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18892676/F19/,win
+2024-02-01,LOL - LPLOL Spring,Odivelas Sports Club,White Dragons,under,total_dragons 4.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894746/F19/,win
+2024-02-01,LOL - LPLOL Spring,Odivelas Sports Club,White Dragons,under,total_towers 11.5,87.50%,1.33,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894746/F19/,win
+2024-02-01,LOL - LPLOL Spring,Odivelas Sports Club,White Dragons,under,total_kills 24.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894746/F19/,win
+2024-02-01,LOL - LPLOL Spring,Odivelas Sports Club,White Dragons,under,total_inhibitors 1.5,68.75%,1.33,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894746/F19/,win
+2024-02-01,LOL - LPLOL Spring,Odivelas Sports Club,White Dragons,under,total_barons 1.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894746/F19/,win
+2024-02-01,LOL - LPLOL Spring,BWE Esports,SAW,over,total_dragons 4.5,83.00%,1.0,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894747/F19/,loss
+2024-02-01,LOL - LPLOL Spring,BWE Esports,SAW,over,total_towers 11.5,12.50%,1.33,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894747/F19/,loss
+2024-02-01,LOL - LPLOL Spring,BWE Esports,SAW,under,total_inhibitors 1.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894747/F19/,loss
+2024-02-01,LOL - LPLOL Spring,BWE Esports,SAW,over,total_barons 1.5,155.00%,1.33,3.4,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894747/F19/,loss
+2024-02-01,LOL - LPLOL Spring,Keypulse Esports,Hurricane of Feathers,over,total_dragons 4.5,137.00%,1.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894748/F19/,win
+2024-02-01,LOL - LPLOL Spring,Keypulse Esports,Hurricane of Feathers,over,game_duration 33.5,83.00%,1.0,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894748/F19/,win
+2024-02-01,LOL - LPLOL Spring,Keypulse Esports,Hurricane of Feathers,under,total_inhibitors 1.5,65.00%,1.33,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894748/F19/,loss
+2024-02-01,LOL - LPLOL Spring,GTZ Esports,EGN Esports,over,total_dragons 4.5,68.75%,1.33,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894749/F19/,loss
+2024-02-01,LOL - LPLOL Spring,GTZ Esports,EGN Esports,over,total_towers 11.5,12.50%,1.33,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894749/F19/,win
+2024-02-01,LOL - LPLOL Spring,GTZ Esports,EGN Esports,over,game_duration 30.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894749/F19/,loss
+2024-02-01,LOL - LPLOL Spring,GTZ Esports,EGN Esports,under,total_inhibitors 1.5,83.00%,1.0,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894749/F19/,loss
+2024-02-01,LOL - LPLOL Spring,GTZ Esports,EGN Esports,under,total_barons 1.5,5.00%,1.33,1.4,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894749/F19/,win
+2024-02-02,LOL - LPLOL Spring,EGN Esports,Keypulse Esports,over,total_dragons 4.5,87.50%,1.33,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894750/F19/,win
+2024-02-02,LOL - LPLOL Spring,EGN Esports,Keypulse Esports,over,total_towers 11.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894750/F19/,loss
+2024-02-02,LOL - LPLOL Spring,EGN Esports,Keypulse Esports,over,game_duration 28.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894750/F19/,win
+2024-02-02,LOL - LPLOL Spring,EGN Esports,Keypulse Esports,under,total_inhibitors 1.5,80.00%,1.0,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894750/F19/,loss
+2024-02-02,LOL - LPLOL Spring,Odivelas Sports Club,GTZ Esports,over,total_dragons 4.5,137.00%,1.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894751/F19/,loss
+2024-02-02,LOL - LPLOL Spring,Odivelas Sports Club,GTZ Esports,over,total_towers 11.5,68.75%,1.33,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894751/F19/,win
+2024-02-02,LOL - LPLOL Spring,Odivelas Sports Club,GTZ Esports,over,game_duration 33.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894751/F19/,loss
+2024-02-02,LOL - LPLOL Spring,Odivelas Sports Club,GTZ Esports,under,total_inhibitors 1.5,29.00%,1.33,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894751/F19/,win
+2024-02-02,LOL - LPLOL Spring,Odivelas Sports Club,GTZ Esports,under,total_barons 1.5,12.50%,1.33,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894751/F19/,win
+2024-02-02,LOL - LPLOL Spring,BWE Esports,White Dragons,under,total_dragons 4.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894752/F19/,loss
+2024-02-02,LOL - LPLOL Spring,BWE Esports,White Dragons,under,total_towers 11.5,87.50%,1.33,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894752/F19/,loss
+2024-02-02,LOL - LPLOL Spring,BWE Esports,White Dragons,under,total_inhibitors 1.5,77.75%,1.33,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894752/F19/,loss
+2024-02-02,LOL - LPLOL Spring,BWE Esports,White Dragons,under,total_barons 1.5,87.50%,1.33,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894752/F19/,loss
+2024-02-02,LOL - LPLOL Spring,Hurricane of Feathers,SAW,over,total_dragons 4.5,50.00%,1.0,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894753/F19/,win
+2024-02-02,LOL - LPLOL Spring,Hurricane of Feathers,SAW,under,total_towers 12.5,12.50%,1.33,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894753/F19/,win
+2024-02-02,LOL - LPLOL Spring,Hurricane of Feathers,SAW,under,total_kills 28.5,42.50%,1.33,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894753/F19/,win
+2024-02-02,LOL - LPLOL Spring,Hurricane of Feathers,SAW,under,total_inhibitors 1.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894753/F19/,loss
+2024-02-02,LOL - LPLOL Spring,Hurricane of Feathers,SAW,over,total_barons 1.5,12.50%,1.33,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20940156/D19/E18894753/F19/,win
+2024-02-01,LOL - LLA Opening,Movistar R7,All Knights,under,total_dragons 4.5,9.52%,1.37,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892634/F19/,win
+2024-02-01,LOL - LLA Opening,Movistar R7,All Knights,over,total_towers 11.5,5.40%,1.58,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892634/F19/,win
+2024-02-01,LOL - LLA Opening,Movistar R7,All Knights,under,total_kills 26.5,13.29%,1.62,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892634/F19/,loss
+2024-02-01,LOL - LLA Opening,Movistar R7,All Knights,under,game_duration 31.5,33.62%,1.37,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892634/F19/,win
+2024-02-01,LOL - LLA Opening,Movistar R7,All Knights,under,total_barons 1.5,23.43%,1.17,1.44,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18892634/F19/,win
+2024-02-01,LOL - LFL Spring,GameWard,Solary,over,total_dragons 4.5,35.00%,1.11,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892686/F19/,win
+2024-02-01,LOL - LFL Spring,GameWard,Solary,over,total_towers 12.5,45.25%,1.14,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892686/F19/,loss
+2024-02-01,LOL - LFL Spring,GameWard,Solary,under,total_kills 26.5,5.22%,1.74,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892686/F19/,loss
+2024-02-01,LOL - LFL Spring,GameWard,Solary,over,game_duration 33.5,23.53%,1.48,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892686/F19/,win
+2024-02-01,LOL - LFL Spring,Gentle Mates,Vitality.Bee,under,total_kills 28.5,28.10%,1.43,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892689/F19/,win
+2024-02-01,LOL - LFL Spring,Gentle Mates,Vitality.Bee,over,game_duration 32.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892689/F19/,loss
+2024-02-01,LOL - LFL Spring,Gentle Mates,Vitality.Bee,over,total_inhibitors 1.5,5.00%,1.43,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892689/F19/,loss
+2024-02-01,LOL - LVP Superliga Spring,Guasones,Rebels Gaming,over,total_dragons 4.5,31.00%,2.0,2.62,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892551/F19/,win
+2024-02-01,LOL - LVP Superliga Spring,Guasones,Rebels Gaming,under,total_inhibitors 1.5,31.00%,2.0,2.62,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892551/F19/,win
+2024-02-01,LOL - LVP Superliga Spring,Guasones,Rebels Gaming,over,total_barons 1.5,20.00%,2.5,3.0,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892551/F19/,win
+2024-02-01,LOL - LVP Superliga Spring,Ramboot Club,Case Esports,over,total_dragons 4.5,5.00%,2.0,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892552/F19/,win
+2024-02-01,LOL - LVP Superliga Spring,Ramboot Club,Case Esports,over,total_towers 12.5,14.00%,1.67,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892552/F19/,win
+2024-02-01,LOL - LVP Superliga Spring,Ramboot Club,Case Esports,under,total_kills 27.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892552/F19/,win
+2024-02-01,LOL - LVP Superliga Spring,Ramboot Club,Case Esports,under,total_barons 1.5,7.10%,1.43,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892552/F19/,loss
+2024-02-01,LOL - LFL Spring,Aegis,Team du Sud,over,total_towers 12.5,5.00%,2.0,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892687/F19/,loss
+2024-02-01,LOL - LFL Spring,Aegis,Team du Sud,under,total_kills 26.5,26.00%,1.43,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892687/F19/,win
+2024-02-01,LOL - LFL Spring,Aegis,Team du Sud,under,total_inhibitors 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892687/F19/,win
+2024-02-01,LOL - LFL Spring,Aegis,Team du Sud,under,total_barons 1.5,12.70%,1.43,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892687/F19/,win
+2024-02-01,LOL - LFL Spring,Karmine Corp Blue,Team GO,over,total_towers 12.5,28.65%,1.29,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892688/F19/,loss
+2024-02-01,LOL - LFL Spring,Karmine Corp Blue,Team GO,over,total_kills 28.5,23.53%,1.48,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892688/F19/,loss
+2024-02-01,LOL - LFL Spring,Karmine Corp Blue,Team GO,over,total_inhibitors 1.5,16.25%,1.29,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892688/F19/,loss
+2024-02-01,LOL - LFL Spring,Karmine Corp Blue,Team GO,under,total_barons 1.5,15.00%,1.74,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892688/F19/,win
+2024-02-01,LOL - LFL Spring,Team BDS Academy,BK ROG Esports,over,total_towers 12.5,35.00%,1.67,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892690/F19/,win
+2024-02-01,LOL - LFL Spring,Team BDS Academy,BK ROG Esports,under,total_kills 27.5,28.10%,1.43,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892690/F19/,loss
+2024-02-01,LOL - LFL Spring,Team BDS Academy,BK ROG Esports,under,game_duration 32.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892690/F19/,loss
+2024-02-01,LOL - LFL Spring,Team BDS Academy,BK ROG Esports,over,total_inhibitors 1.5,5.00%,1.43,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892690/F19/,win
+2024-02-01,LOL - LFL Spring,Team BDS Academy,BK ROG Esports,under,total_barons 1.5,20.40%,1.43,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18892690/F19/,win
+2024-02-01,LOL - LVP Superliga Spring,GIANTX Pride,Movistar KOI,under,total_dragons 4.5,35.00%,1.67,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892548/F19/,win
+2024-02-01,LOL - LVP Superliga Spring,GIANTX Pride,Movistar KOI,over,total_towers 12.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892548/F19/,loss
+2024-02-01,LOL - LVP Superliga Spring,GIANTX Pride,Movistar KOI,over,total_kills 29.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892548/F19/,loss
+2024-02-01,LOL - LVP Superliga Spring,GIANTX Pride,Movistar KOI,under,total_inhibitors 1.5,31.00%,2.0,2.62,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18892548/F19/,win
+2024-02-06,LOL - Ultraliga,Back2TheGame,Team ESCA Gaming,under,total_towers 12.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18938620/F19/,win
+2024-02-06,LOL - Ultraliga,Back2TheGame,Team ESCA Gaming,under,game_duration 32.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18938620/F19/,win
+2024-02-06,LOL - Ultraliga,Back2TheGame,Team ESCA Gaming,under,total_barons 1.5,35.00%,1.33,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18938620/F19/,win
+2024-02-06,LOL - Ultraliga,Forsaken,devils.one,over,total_dragons 4.5,32.80%,1.25,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18938621/F19/,win
+2024-02-06,LOL - Ultraliga,Forsaken,devils.one,under,total_barons 1.5,17.00%,1.54,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18938621/F19/,loss
+2024-02-07,LOL - Ultraliga,GRP Esports,Forsaken,over,total_dragons 4.5,24.50%,1.33,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18938623/F19/,pending
+2024-02-07,LOL - Ultraliga,GRP Esports,Forsaken,under,total_towers 12.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18938623/F19/,pending
+2024-02-07,LOL - Ultraliga,GRP Esports,Forsaken,over,total_barons 1.5,10.83%,1.71,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18938623/F19/,pending
+2024-02-07,LOL - Ultraliga,devils.one,Team ESCA Gaming,under,total_dragons 4.5,12.00%,1.87,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18938624/F19/,pending
+2024-02-07,LOL - Ultraliga,devils.one,Team ESCA Gaming,under,game_duration 32.5,31.15%,1.4,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18938624/F19/,pending
+2024-02-07,LOL - Ultraliga,devils.one,Team ESCA Gaming,under,total_barons 1.5,47.00%,1.22,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18938624/F19/,pending
+2024-02-06,LOL - Ultraliga,GRP Esports,Orbit Anonymo Esports,over,total_kills 27.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938574/D19/E18938622/F19/,win
+2024-02-02,LOL - LCS Spring,Immortals,Cloud9,over,game_duration 28.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907510/F19/,win
+2024-02-03,LOL - LCS Spring,Dignitas,Shopify Rebellion,under,total_towers 12.5,20.75%,1.33,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907512/F19/,pending
+2024-02-03,LOL - LCS Spring,Dignitas,Shopify Rebellion,over,total_kills 25.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907512/F19/,pending
+2024-02-03,LOL - LCS Spring,Dignitas,Shopify Rebellion,under,game_duration 32.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907512/F19/,pending
+2024-02-03,LOL - LCS Spring,Dignitas,Shopify Rebellion,under,total_inhibitors 1.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907512/F19/,pending
+2024-02-03,LOL - LCS Spring,Dignitas,Shopify Rebellion,under,total_barons 1.5,31.25%,1.14,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907512/F19/,pending
+2024-02-03,LOL - CBLOL Split 1,INTZ,FURIA,under,total_towers 12.5,5.00%,2.0,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907500/F19/,win
+2024-02-03,LOL - CBLOL Split 1,INTZ,FURIA,over,total_inhibitors 1.5,33.88%,1.14,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907500/F19/,loss
+2024-02-03,LOL - CBLOL Split 1,INTZ,FURIA,over,total_barons 1.5,12.50%,1.6,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907500/F19/,loss
+2024-02-03,LOL - CBLOL Split 1,LOUD,Fluxo,over,total_towers 12.5,31.25%,1.6,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907501/F19/,loss
+2024-02-03,LOL - CBLOL Split 1,LOUD,Fluxo,under,total_kills 28.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907501/F19/,win
+2024-02-03,LOL - CBLOL Split 1,LOUD,Fluxo,under,game_duration 30.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907501/F19/,win
+2024-02-03,LOL - CBLOL Split 1,LOUD,Fluxo,over,total_inhibitors 1.5,14.75%,1.33,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907501/F19/,win
+2024-02-03,LOL - CBLOL Split 1,paiN Gaming,Los Grandes,under,total_towers 12.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907502/F19/,win
+2024-02-03,LOL - CBLOL Split 1,paiN Gaming,Los Grandes,under,total_kills 27.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907502/F19/,loss
+2024-02-03,LOL - CBLOL Split 1,paiN Gaming,Los Grandes,under,game_duration 31.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907502/F19/,loss
+2024-02-03,LOL - CBLOL Split 1,paiN Gaming,Los Grandes,under,total_inhibitors 1.5,38.25%,1.71,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907502/F19/,loss
+2024-02-03,LOL - CBLOL Split 1,Vivo Keyd Stars,RED Canids,over,total_dragons 4.5,7.50%,1.6,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907503/F19/,loss
+2024-02-03,LOL - CBLOL Split 1,Vivo Keyd Stars,RED Canids,under,total_towers 12.5,13.75%,1.85,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907503/F19/,win
+2024-02-03,LOL - CBLOL Split 1,Vivo Keyd Stars,RED Canids,over,total_kills 27.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907503/F19/,loss
+2024-02-03,LOL - CBLOL Split 1,Vivo Keyd Stars,RED Canids,over,total_inhibitors 1.5,8.37%,1.41,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907503/F19/,loss
+2024-02-03,LOL - CBLOL Split 1,Vivo Keyd Stars,RED Canids,over,total_barons 1.5,5.00%,1.71,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907503/F19/,loss
+2024-02-03,LOL - CBLOL Split 1,Liberty,KaBuM! Esports,under,game_duration 31.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907504/F19/,win
+2024-02-03,LOL - CBLOL Split 1,Liberty,KaBuM! Esports,over,total_barons 1.5,21.88%,2.67,3.25,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907504/F19/,loss
+2024-02-05,LOL - LCK CL Spring,Kwangdong Freecs Challengers,Nongshim Esports Academy,under,total_towers 12.5,34.96%,1.36,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940752/F19/,pending
+2024-02-05,LOL - LCK CL Spring,Kwangdong Freecs Challengers,Nongshim Esports Academy,under,total_kills 24.5,16.38%,1.63,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940752/F19/,pending
+2024-02-05,LOL - LCK CL Spring,Kwangdong Freecs Challengers,Nongshim Esports Academy,under,total_barons 1.5,37.81%,1.63,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940752/F19/,pending
+2024-02-05,LOL - LCK CL Spring,OKSavingsBank BRION Challengers,Dplus KIA Challengers,under,total_towers 12.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940752/F19/,win
+2024-02-05,LOL - LCK CL Spring,OKSavingsBank BRION Challengers,Dplus KIA Challengers,under,total_inhibitors 1.5,5.00%,2.0,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940752/F19/,win
+2024-02-05,LOL - LCK CL Spring,OKSavingsBank BRION Challengers,Dplus KIA Challengers,under,total_barons 1.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940752/F19/,loss
+2024-02-05,LOL - LCK CL Spring,Gen.G Global Academy,T1 Esports Academy,under,total_kills 24.5,10.83%,1.71,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940753/F19/,pending
+2024-02-05,LOL - LCK CL Spring,Gen.G Global Academy,T1 Esports Academy,under,game_duration 33.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940753/F19/,pending
+2024-02-05,LOL - LCK CL Spring,Gen.G Global Academy,T1 Esports Academy,under,total_barons 1.5,87.50%,1.33,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940753/F19/,pending
+2024-02-06,LOL - LCK CL Spring,FearX Youth,Hanwha Life Esports Challengers,under,total_towers 11.5,45.83%,1.71,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940755/F19/,pending
+2024-02-06,LOL - LCK CL Spring,FearX Youth,Hanwha Life Esports Challengers,under,total_kills 24.5,10.83%,1.71,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940755/F19/,pending
+2024-02-06,LOL - LCK CL Spring,FearX Youth,Hanwha Life Esports Challengers,over,game_duration 32.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940755/F19/,pending
+2024-02-06,LOL - LCK CL Spring,FearX Youth,Hanwha Life Esports Challengers,under,total_inhibitors 1.5,10.83%,1.71,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940755/F19/,pending
+2024-02-06,LOL - LCK CL Spring,FearX Youth,Hanwha Life Esports Challengers,over,total_barons 1.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940755/F19/,pending
+2024-02-15,LOL - LCK CL Spring,Dplus KIA Challengers,FearX Youth,under,total_dragons 4.5,29.17%,1.94,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940756/F19/,pending
+2024-02-15,LOL - LCK CL Spring,Dplus KIA Challengers,FearX Youth,under,total_towers 11.5,12.50%,2.22,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940756/F19/,pending
+2024-02-15,LOL - LCK CL Spring,Dplus KIA Challengers,FearX Youth,under,total_inhibitors 1.5,38.25%,1.71,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940756/F19/,pending
+2024-02-15,LOL - LCK CL Spring,Dplus KIA Challengers,FearX Youth,under,total_barons 1.5,14.55%,2.07,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940756/F19/,pending
+2024-02-05,LOL - LCK CL Spring,Kwangdong Freecs Challengers,Nongshim Esports Academy,over,total_dragons 4.5,51.09%,1.57,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940751/F19/,pending
+2024-02-05,LOL - LCK CL Spring,Kwangdong Freecs Challengers,Nongshim Esports Academy,over,game_duration 32.5,16.66%,1.57,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940751/F19/,pending
+2024-02-15,LOL - LCK CL Spring,T1 Esports Academy,Nongshim Esports Academy,over,total_dragons 4.5,82.69%,1.3,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940757/F19/,pending
+2024-02-15,LOL - LCK CL Spring,T1 Esports Academy,Nongshim Esports Academy,over,total_towers 11.5,57.50%,1.33,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940757/F19/,pending
+2024-02-15,LOL - LCK CL Spring,T1 Esports Academy,Nongshim Esports Academy,under,total_kills 23.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940757/F19/,pending
+2024-02-15,LOL - LCK CL Spring,T1 Esports Academy,Nongshim Esports Academy,over,game_duration 30.5,67.75%,1.09,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940757/F19/,pending
+2024-02-16,LOL - LCK CL Spring,Gen.G Global Academy,KT Rolster Challengers,under,total_dragons 4.5,16.67%,1.71,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940760/F19/,pending
+2024-02-16,LOL - LCK CL Spring,Gen.G Global Academy,KT Rolster Challengers,under,game_duration 32.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940760/F19/,pending
+2024-02-16,LOL - LCK CL Spring,Gen.G Global Academy,KT Rolster Challengers,under,total_barons 1.5,28.33%,1.71,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940760/F19/,pending
+2024-02-16,LOL - LCK CL Spring,Hanwha Life Esports Challengers,OKSavingsBank BRION Challengers,over,total_dragons 4.5,5.00%,1.43,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940759/F19/,pending
+2024-02-16,LOL - LCK CL Spring,Hanwha Life Esports Challengers,OKSavingsBank BRION Challengers,under,total_towers 11.5,16.67%,2.14,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940759/F19/,pending
+2024-02-16,LOL - LCK CL Spring,Hanwha Life Esports Challengers,OKSavingsBank BRION Challengers,under,total_kills 22.5,7.67%,1.76,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940759/F19/,pending
+2024-02-16,LOL - LCK CL Spring,Hanwha Life Esports Challengers,OKSavingsBank BRION Challengers,over,game_duration 33.5,15.90%,1.58,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940759/F19/,pending
+2024-02-16,LOL - LCK CL Spring,Hanwha Life Esports Challengers,OKSavingsBank BRION Challengers,under,total_inhibitors 1.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940759/F19/,pending
+2024-02-16,LOL - LCK CL Spring,Hanwha Life Esports Challengers,OKSavingsBank BRION Challengers,over,total_barons 1.5,15.13%,1.36,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20938448/D19/E18940759/F19/,pending
+2024-02-03,LOL - LEC Winter - Playoffs,Team BDS,Team Heretics,under,total_dragons 4.5,11.11%,1.8,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916677/F19/,loss
+2024-02-03,LOL - LEC Winter - Playoffs,Team BDS,Team Heretics,under,total_towers 12.5,27.50%,1.2,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916677/F19/,loss
+2024-02-03,LOL - LEC Winter - Playoffs,Team BDS,Team Heretics,under,game_duration 32.5,32.17%,1.38,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916677/F19/,win
+2024-02-03,LOL - LEC Winter - Playoffs,Team BDS,Team Heretics,under,total_inhibitors 1.5,16.44%,2.25,2.62,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916677/F19/,loss
+2024-02-03,LOL - LEC Winter - Playoffs,Team BDS,Team Heretics,under,total_barons 1.5,11.11%,1.8,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916677/F19/,loss
+2024-02-03,LOL - LEC Winter - Playoffs,G2 Esports,GiantX,over,total_dragons 4.5,11.11%,2.25,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916678/F19/,win
+2024-02-03,LOL - LEC Winter - Playoffs,G2 Esports,GiantX,under,total_kills 25.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916678/F19/,loss
+2024-02-03,LOL - LEC Winter - Playoffs,G2 Esports,GiantX,over,game_duration 29.5,11.83%,1.64,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916678/F19/,win
+2024-02-03,LOL - LEC Winter - Playoffs,G2 Esports,GiantX,under,total_inhibitors 1.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916678/F19/,win
+2024-02-03,LOL - LEC Winter - Playoffs,G2 Esports,GiantX,over,total_barons 1.5,16.44%,2.25,2.62,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916678/F19/,win
+2024-02-04,LOL - LEC Winter - Playoffs,SK Gaming,Team Vitality,under,total_dragons 4.5,16.67%,1.8,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916679/F19/,win
+2024-02-04,LOL - LEC Winter - Playoffs,SK Gaming,Team Vitality,under,total_towers 12.5,33.33%,1.5,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916679/F19/,win
+2024-02-04,LOL - LEC Winter - Playoffs,SK Gaming,Team Vitality,under,total_kills 27.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916679/F19/,win
+2024-02-04,LOL - LEC Winter - Playoffs,SK Gaming,Team Vitality,under,game_duration 32.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916679/F19/,win
+2024-02-04,LOL - LEC Winter - Playoffs,SK Gaming,Team Vitality,under,total_inhibitors 1.5,58.89%,1.38,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916679/F19/,loss
+2024-02-04,LOL - LEC Winter - Playoffs,SK Gaming,Team Vitality,under,total_barons 1.5,5.56%,1.8,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916679/F19/,win
+2024-02-04,LOL - LEC Winter - Playoffs,MAD Lions KOI,Fnatic,under,total_towers 12.5,28.33%,1.64,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916680/F19/,win
+2024-02-04,LOL - LEC Winter - Playoffs,MAD Lions KOI,Fnatic,under,total_kills 29.5,11.83%,1.64,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916680/F19/,win
+2024-02-04,LOL - LEC Winter - Playoffs,MAD Lions KOI,Fnatic,under,game_duration 32.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916680/F19/,win
+2024-02-04,LOL - LEC Winter - Playoffs,MAD Lions KOI,Fnatic,under,total_inhibitors 1.5,16.44%,2.25,2.62,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18916680/F19/,win
+2024-02-02,LOL - LCS Spring,Immortals,Cloud9,under,total_kills 24.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907510/F19/,win
+2024-02-02,LOL - LCS Spring,Team Liquid,NRG,over,total_kills 24.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907511/F19/,win
+2024-02-03,LOL - LCS Spring,Dignitas,Shopify Rebellion,under,total_dragons 4.5,33.33%,1.5,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907512/F19/,pending
+2024-02-03,LOL - LCS Spring,FlyQuest,100 Thieves,under,total_towers 12.5,7.33%,1.5,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907513/F19/,pending
+2024-02-03,LOL - LCS Spring,FlyQuest,100 Thieves,under,game_duration 32.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907513/F19/,pending
+2024-02-03,LOL - LCS Spring,FlyQuest,100 Thieves,under,total_inhibitors 1.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907513/F19/,pending
+2024-02-04,LOL - LCS Spring,Immortals,100 Thieves,over,total_dragons 4.5,14.67%,1.5,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907516/F19/,pending
+2024-02-04,LOL - LCS Spring,Immortals,100 Thieves,over,total_kills 24.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907516/F19/,pending
+2024-02-04,LOL - LCS Spring,Immortals,100 Thieves,over,game_duration 32.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907516/F19/,pending
+2024-02-04,LOL - LCS Spring,Immortals,100 Thieves,under,total_inhibitors 1.5,50.00%,1.5,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907516/F19/,pending
+2024-02-04,LOL - LCS Spring,Immortals,100 Thieves,under,total_barons 1.5,25.00%,1.2,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907516/F19/,pending
+2024-02-04,LOL - LCS Spring,NRG,Shopify Rebellion,under,total_dragons 4.5,10.67%,1.5,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907517/F19/,pending
+2024-02-04,LOL - LCS Spring,NRG,Shopify Rebellion,under,total_towers 11.5,38.25%,1.71,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907517/F19/,pending
+2024-02-04,LOL - LCS Spring,NRG,Shopify Rebellion,over,game_duration 30.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907517/F19/,pending
+2024-02-04,LOL - LCS Spring,NRG,Shopify Rebellion,under,total_barons 1.5,5.00%,1.33,1.4,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907517/F19/,pending
+2024-02-05,LOL - LCS Spring,100 Thieves,Shopify Rebellion,under,total_dragons 4.5,16.67%,1.71,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907520/F19/,pending
+2024-02-05,LOL - LCS Spring,100 Thieves,Shopify Rebellion,under,game_duration 32.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907520/F19/,pending
+2024-02-03,LOL - CBLOL Split 1,INTZ,FURIA,under,total_dragons 4.5,20.00%,1.67,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907500/F19/,win
+2024-02-03,LOL - CBLOL Split 1,INTZ,FURIA,under,total_kills 28.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907500/F19/,win
+2024-02-03,LOL - CBLOL Split 1,INTZ,FURIA,under,game_duration 32.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907500/F19/,win
+2024-02-03,LOL - CBLOL Split 1,LOUD,Fluxo,under,total_dragons 4.5,16.20%,1.43,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907501/F19/,win
+2024-02-03,LOL - CBLOL Split 1,LOUD,Fluxo,under,total_barons 1.5,12.70%,1.43,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907501/F19/,win
+2024-02-03,LOL - CBLOL Split 1,paiN Gaming,Los Grandes,over,total_dragons 4.5,18.95%,1.54,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907502/F19/,win
+2024-02-03,LOL - CBLOL Split 1,paiN Gaming,Los Grandes,over,total_barons 1.5,10.00%,1.82,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907502/F19/,win
+2024-02-03,LOL - CBLOL Split 1,Vivo Keyd Stars,RED Canids,under,total_dragons 4.5,5.00%,1.9,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907503/F19/,win
+2024-02-03,LOL - CBLOL Split 1,Vivo Keyd Stars,RED Canids,under,game_duration 33.5,18.95%,1.54,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907503/F19/,win
+2024-02-03,LOL - CBLOL Split 1,Vivo Keyd Stars,RED Canids,under,total_inhibitors 1.5,6.65%,2.22,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907503/F19/,win
+2024-02-03,LOL - CBLOL Split 1,Liberty,KaBuM! Esports,over,total_dragons 4.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907504/F19/,win
+2024-02-03,LOL - CBLOL Split 1,Liberty,KaBuM! Esports,over,total_towers 11.5,16.20%,1.43,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907504/F19/,win
+2024-02-03,LOL - CBLOL Split 1,Liberty,KaBuM! Esports,over,total_kills 27.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907504/F19/,win
+2024-02-03,LOL - CBLOL Split 1,Liberty,KaBuM! Esports,over,total_inhibitors 1.5,7.10%,1.43,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907504/F19/,win
+2024-02-04,LOL - CBLOL Split 1,RED Canids,Fluxo,over,total_dragons 4.5,20.75%,1.74,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907505/F19/,win
+2024-02-04,LOL - CBLOL Split 1,RED Canids,Fluxo,over,game_duration 30.5,5.22%,1.74,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907505/F19/,win
+2024-02-04,LOL - CBLOL Split 1,KaBuM! Esports,paiN Gaming,over,total_kills 27.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907506/F19/,loss
+2024-02-04,LOL - CBLOL Split 1,KaBuM! Esports,paiN Gaming,under,game_duration 32.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907506/F19/,win
+2024-02-04,LOL - CBLOL Split 1,KaBuM! Esports,paiN Gaming,over,total_inhibitors 1.5,7.10%,1.43,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907506/F19/,loss
+2024-02-04,LOL - CBLOL Split 1,KaBuM! Esports,paiN Gaming,under,total_barons 1.5,14.00%,1.67,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907506/F19/,win
+2024-02-04,LOL - CBLOL Split 1,INTZ,LOUD,under,total_dragons 4.5,28.10%,1.43,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907507/F19/,loss
+2024-02-04,LOL - CBLOL Split 1,INTZ,LOUD,under,total_kills 28.5,9.80%,1.67,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907507/F19/,loss
+2024-02-04,LOL - CBLOL Split 1,INTZ,LOUD,under,game_duration 31.5,28.10%,1.43,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907507/F19/,loss
+2024-02-04,LOL - CBLOL Split 1,INTZ,LOUD,over,total_inhibitors 1.5,7.10%,1.43,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907507/F19/,win
+2024-02-04,LOL - CBLOL Split 1,Los Grandes,FURIA,under,total_dragons 4.5,10.00%,1.82,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907508/F19/,loss
+2024-02-04,LOL - CBLOL Split 1,Los Grandes,FURIA,under,total_towers 12.5,68.00%,1.25,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907508/F19/,win
+2024-02-04,LOL - CBLOL Split 1,Los Grandes,FURIA,under,total_kills 27.5,23.53%,1.48,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907508/F19/,win
+2024-02-04,LOL - CBLOL Split 1,Los Grandes,FURIA,under,game_duration 32.5,23.53%,1.48,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907508/F19/,win
+2024-02-04,LOL - CBLOL Split 1,Vivo Keyd Stars,Liberty,under,total_towers 12.5,16.20%,1.43,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18907509/F19/,win
+2024-02-05,LOL - LCS Spring,100 Thieves,Shopify Rebellion,under,game_duration 33.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907520/F19/,pending
+2024-02-04,LOL - LCS Spring,FlyQuest,Dignitas,under,total_dragons 4.5,16.67%,1.71,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907518/F19/,win
+2024-02-04,LOL - LCS Spring,FlyQuest,Dignitas,over,total_towers 12.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907518/F19/,win
+2024-02-04,LOL - LCS Spring,FlyQuest,Dignitas,under,total_kills 24.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907518/F19/,win
+2024-02-04,LOL - LCS Spring,FlyQuest,Dignitas,under,game_duration 32.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907518/F19/,win
+2024-02-04,LOL - LCS Spring,FlyQuest,Dignitas,under,total_barons 1.5,25.00%,1.2,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907518/F19/,win
+2024-02-04,LOL - LCS Spring,Team Liquid,Cloud9,over,total_dragons 4.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907519/F19/,loss
+2024-02-04,LOL - LCS Spring,Team Liquid,Cloud9,over,total_towers 12.5,38.25%,1.71,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907519/F19/,loss
+2024-02-04,LOL - LCS Spring,Team Liquid,Cloud9,under,total_kills 24.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907519/F19/,win
+2024-02-04,LOL - LCS Spring,Team Liquid,Cloud9,over,game_duration 31.5,6.75%,1.71,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907519/F19/,loss
+2024-02-04,LOL - LCS Spring,Team Liquid,Cloud9,over,total_inhibitors 1.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907519/F19/,loss
+2024-02-04,LOL - LCS Spring,Team Liquid,Cloud9,under,total_barons 1.5,8.00%,1.33,1.44,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907519/F19/,win
+2024-02-05,LOL - LCS Spring,100 Thieves,Shopify Rebellion,under,total_towers 12.5,47.58%,1.09,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907520/F19/,pending
+2024-02-05,LOL - LCS Spring,100 Thieves,Shopify Rebellion,under,total_inhibitors 1.5,31.25%,1.71,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907520/F19/,pending
+2024-02-05,LOL - LCS Spring,100 Thieves,Shopify Rebellion,under,total_barons 1.5,50.00%,1.0,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907520/F19/,pending
+2024-02-05,LOL - LCS Spring,NRG,Immortals,over,total_dragons 4.5,22.50%,1.71,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907521/F19/,pending
+2024-02-05,LOL - LCS Spring,NRG,Immortals,over,total_towers 11.5,14.75%,1.33,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907521/F19/,pending
+2024-02-05,LOL - LCS Spring,NRG,Immortals,over,total_kills 24.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907521/F19/,pending
+2024-02-05,LOL - LCS Spring,NRG,Immortals,over,game_duration 30.5,52.50%,1.2,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907521/F19/,pending
+2024-02-05,LOL - LCS Spring,NRG,Immortals,over,total_barons 1.5,14.58%,2.4,2.75,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18907521/F19/,pending
+2024-02-05,LOL - LEC Winter - Playoffs,Team BDS,Team Vitality,under,total_dragons 4.5,24.09%,1.69,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961262/F19/,win
+2024-02-05,LOL - LEC Winter - Playoffs,Team BDS,Team Vitality,under,total_towers 12.5,22.73%,1.47,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961262/F19/,loss
+2024-02-05,LOL - LEC Winter - Playoffs,Team BDS,Team Vitality,under,game_duration 32.5,24.77%,1.47,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961262/F19/,win
+2024-02-05,LOL - LEC Winter - Playoffs,Team BDS,Team Vitality,under,total_inhibitors 1.5,22.73%,1.83,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961262/F19/,win
+2024-02-05,LOL - LEC Winter - Playoffs,Team BDS,Team Vitality,under,total_barons 1.5,16.45%,1.57,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961262/F19/,win
+2024-02-05,LOL - LEC Winter - Playoffs,G2 Esports,Fnatic,under,total_dragons 4.5,13.64%,2.2,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961263/F19/,loss
+2024-02-05,LOL - LEC Winter - Playoffs,G2 Esports,Fnatic,under,total_towers 12.5,16.45%,1.57,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961263/F19/,win
+2024-02-05,LOL - LEC Winter - Playoffs,G2 Esports,Fnatic,under,game_duration 32.5,33.09%,1.38,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961263/F19/,win
+2024-02-05,LOL - LEC Winter - Playoffs,G2 Esports,Fnatic,under,total_inhibitors 1.5,19.09%,2.2,2.62,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961263/F19/,win
+2024-02-10,LOL - LEC Winter - Playoffs,GiantX,MAD Lions KOI,under,total_inhibitors 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961264/F19/,pending
+2024-02-10,LOL - LEC Winter - Playoffs,Team Heretics,SK Gaming,under,total_dragons 4.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961265/F19/,pending
+2024-02-10,LOL - LEC Winter - Playoffs,Team Heretics,SK Gaming,under,total_towers 12.5,17.09%,1.38,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961265/F19/,pending
+2024-02-10,LOL - LEC Winter - Playoffs,Team Heretics,SK Gaming,under,total_kills 25.5,16.45%,1.57,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961265/F19/,pending
+2024-02-10,LOL - LEC Winter - Playoffs,Team Heretics,SK Gaming,under,game_duration 32.5,49.73%,1.22,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961265/F19/,pending
+2024-02-10,LOL - LEC Winter - Playoffs,Team Heretics,SK Gaming,under,total_inhibitors 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18961265/F19/,pending
+2024-02-05,LOL - LPL Spring,Team WE,LGD Gaming,over,total_towers 12.5,35.00%,1.67,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930709/F19/,loss
+2024-02-05,LOL - LPL Spring,Team WE,LGD Gaming,over,total_barons 1.5,18.95%,1.54,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930709/F19/,win
+2024-02-05,LOL - LPL Spring,Ultra Prime,Anyone's Legend,over,total_towers 11.5,11.35%,1.37,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930710/F19/,loss
+2024-02-05,LOL - LPL Spring,Ultra Prime,Anyone's Legend,under,total_kills 24.5,24.03%,1.48,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930710/F19/,win
+2024-02-05,LOL - LPL Spring,Ultra Prime,Anyone's Legend,over,total_inhibitors 1.5,13.05%,1.35,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930710/F19/,loss
+2024-02-05,LOL - LPL Spring,Ultra Prime,Anyone's Legend,under,total_barons 1.5,15.90%,1.58,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930710/F19/,win
+2024-02-06,LOL - LPL Spring,EDward Gaming,FunPlus Phoenix,under,total_dragons 4.5,65.00%,1.36,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930711/F19/,win
+2024-02-06,LOL - LPL Spring,EDward Gaming,FunPlus Phoenix,under,total_kills 25.5,14.00%,1.58,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930711/F19/,win
+2024-02-06,LOL - LPL Spring,EDward Gaming,FunPlus Phoenix,under,game_duration 32.5,24.03%,1.48,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930711/F19/,win
+2024-02-06,LOL - LPL Spring,EDward Gaming,FunPlus Phoenix,over,total_inhibitors 1.5,11.35%,1.37,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930711/F19/,win
+2024-02-06,LOL - LPL Spring,EDward Gaming,FunPlus Phoenix,under,total_barons 1.5,15.90%,1.58,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930711/F19/,win
+2024-02-06,LOL - LPL Spring,LNG Esports,Bilibili Gaming,under,total_towers 12.5,17.30%,1.3,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930712/F19/,win
+2024-02-06,LOL - LPL Spring,LNG Esports,Bilibili Gaming,under,game_duration 32.5,28.10%,1.43,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930712/F19/,loss
+2024-02-06,LOL - LPL Spring,LNG Esports,Bilibili Gaming,under,total_inhibitors 1.5,10.60%,2.14,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930712/F19/,win
+2024-02-06,LOL - LPL Spring,LNG Esports,Bilibili Gaming,under,total_barons 1.5,27.27%,1.3,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930712/F19/,win
+2024-02-07,LOL - LPL Spring,Invictus Gaming,Royal Never Give Up,under,total_towers 12.5,19.00%,1.29,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930713/F19/,win
+2024-02-07,LOL - LPL Spring,Invictus Gaming,Royal Never Give Up,over,game_duration 31.5,11.83%,1.64,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930713/F19/,loss
+2024-02-07,LOL - LPL Spring,Invictus Gaming,Royal Never Give Up,over,total_inhibitors 1.5,10.50%,1.38,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930713/F19/,loss
+2024-02-07,LOL - LPL Spring,Invictus Gaming,Royal Never Give Up,over,total_barons 1.5,11.11%,1.8,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930713/F19/,loss
+2024-02-07,LOL - LPL Spring,Weibo Gaming,Top Esports,under,total_dragons 4.5,21.88%,1.85,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930714/F19/,pending
+2024-02-07,LOL - LPL Spring,Weibo Gaming,Top Esports,under,total_inhibitors 1.5,21.79%,1.95,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18930714/F19/,pending
+2024-02-18,LOL - LPL Spring,Ninjas in Pyjamas,Ultra Prime,over,total_towers 11.5,74.36%,1.36,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953738/F19/,pending
+2024-02-18,LOL - LPL Spring,Ninjas in Pyjamas,Ultra Prime,over,total_barons 1.5,13.57%,2.64,3.0,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953738/F19/,pending
+2024-02-18,LOL - LPL Spring,Anyone's Legend,Oh My God,under,total_dragons 4.5,11.92%,2.12,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953739/F19/,pending
+2024-02-18,LOL - LPL Spring,Anyone's Legend,Oh My God,under,total_kills 23.5,14.88%,1.59,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953739/F19/,pending
+2024-02-18,LOL - LPL Spring,ThunderTalk Gaming,Rare Atom,under,total_dragons 4.5,16.67%,2.14,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953740/F19/,pending
+2024-02-18,LOL - LPL Spring,ThunderTalk Gaming,Rare Atom,under,total_towers 12.5,15.13%,1.36,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953740/F19/,pending
+2024-02-18,LOL - LPL Spring,ThunderTalk Gaming,Rare Atom,under,total_kills 23.5,12.85%,1.62,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953740/F19/,pending
+2024-02-18,LOL - LPL Spring,ThunderTalk Gaming,Rare Atom,under,total_inhibitors 1.5,22.45%,1.94,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953740/F19/,pending
+2024-02-19,LOL - LPL Spring,JD Gaming,LGD Gaming,over,total_dragons 4.5,35.62%,1.75,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953741/F19/,pending
+2024-02-19,LOL - LPL Spring,JD Gaming,LGD Gaming,over,total_towers 11.5,60.63%,1.48,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953741/F19/,pending
+2024-02-19,LOL - LPL Spring,JD Gaming,LGD Gaming,over,game_duration 30.5,38.27%,1.32,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953741/F19/,pending
+2024-02-19,LOL - LPL Spring,JD Gaming,LGD Gaming,over,total_barons 1.5,68.11%,2.02,3.4,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953741/F19/,pending
+2024-02-20,LOL - LPL Spring,FunPlus Phoenix,LNG Esports,over,total_towers 11.5,43.50%,1.46,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953743/F19/,pending
+2024-02-20,LOL - LPL Spring,FunPlus Phoenix,LNG Esports,over,total_inhibitors 1.5,17.53%,1.46,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953743/F19/,pending
+2024-02-20,LOL - LPL Spring,FunPlus Phoenix,LNG Esports,over,total_barons 1.5,36.00%,2.5,3.4,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953743/F19/,pending
+2024-02-20,LOL - LPL Spring,Invictus Gaming,Bilibili Gaming,over,total_dragons 4.5,13.06%,2.43,2.75,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953744/F19/,pending
+2024-02-21,LOL - LPL Spring,Ultra Prime,Weibo Gaming,over,total_dragons 4.5,39.33%,1.58,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953745/F19/,pending
+2024-02-21,LOL - LPL Spring,Ultra Prime,Weibo Gaming,over,total_towers 11.5,64.50%,1.28,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953745/F19/,pending
+2024-02-21,LOL - LPL Spring,Ultra Prime,Weibo Gaming,over,game_duration 30.5,26.07%,1.45,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953745/F19/,pending
+2024-02-21,LOL - LPL Spring,Ultra Prime,Weibo Gaming,over,total_barons 1.5,76.67%,1.7,3.0,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953745/F19/,pending
+2024-02-21,LOL - LPL Spring,Royal Never Give Up,Top Esports,under,total_towers 12.5,19.93%,1.31,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953746/F19/,pending
+2024-02-22,LOL - LPL Spring,Rare Atom,Oh My God,under,total_dragons 4.5,29.50%,1.62,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953748/F19/,pending
+2024-02-22,LOL - LPL Spring,Rare Atom,Oh My God,under,total_towers 12.5,27.50%,1.2,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953748/F19/,pending
+2024-02-22,LOL - LPL Spring,Rare Atom,Oh My God,under,total_kills 22.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953748/F19/,pending
+2024-02-22,LOL - LPL Spring,Rare Atom,Oh My God,under,game_duration 32.5,25.05%,1.46,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953748/F19/,pending
+2024-02-22,LOL - LPL Spring,Rare Atom,Oh My God,under,total_inhibitors 1.5,16.25%,1.94,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953748/F19/,pending
+2024-02-22,LOL - LPL Spring,EDward Gaming,Ninjas in Pyjamas,over,total_towers 11.5,39.29%,1.62,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932178/D19/E18953749/F19/,pending
+2024-02-14,LOL - LCK Spring,KT Rolster,Gen.G,under,total_towers 11.5,16.38%,2.04,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953727/F19/,pending
+2024-02-14,LOL - LCK Spring,KT Rolster,Gen.G,under,total_inhibitors 1.5,35.60%,1.66,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953727/F19/,pending
+2024-02-14,LOL - LCK Spring,DRX,Kwangdong Freecs,under,total_towers 12.5,23.99%,1.27,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953728/F19/,pending
+2024-02-14,LOL - LCK Spring,DRX,Kwangdong Freecs,under,total_inhibitors 1.5,44.87%,1.73,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953728/F19/,pending
+2024-02-14,LOL - LCK Spring,DRX,Kwangdong Freecs,under,total_barons 1.5,21.69%,1.73,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953728/F19/,pending
+2024-02-15,LOL - LCK Spring,T1,Dplus KIA,under,total_dragons 4.5,28.57%,1.75,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953729/F19/,pending
+2024-02-15,LOL - LCK Spring,T1,Dplus KIA,under,total_towers 11.5,42.86%,1.75,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953729/F19/,pending
+2024-02-15,LOL - LCK Spring,T1,Dplus KIA,under,game_duration 32.5,17.64%,1.56,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953729/F19/,pending
+2024-02-15,LOL - LCK Spring,T1,Dplus KIA,under,total_inhibitors 1.5,35.43%,1.75,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953729/F19/,pending
+2024-02-15,LOL - LCK Spring,T1,Dplus KIA,under,total_barons 1.5,15.00%,1.4,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953729/F19/,pending
+2024-02-15,LOL - LCK Spring,Hanwha Life Esports,OKSavingsBank BRION,over,total_dragons 4.5,15.38%,2.17,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953730/F19/,pending
+2024-02-15,LOL - LCK Spring,Hanwha Life Esports,OKSavingsBank BRION,over,game_duration 28.5,19.65%,1.53,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953730/F19/,pending
+2024-02-15,LOL - LCK Spring,Hanwha Life Esports,OKSavingsBank BRION,over,total_inhibitors 1.5,12.62%,1.62,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953730/F19/,pending
+2024-02-16,LOL - LCK Spring,Nongshim RedForce,KT Rolster,under,total_towers 11.5,22.77%,2.04,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953731/F19/,pending
+2024-02-16,LOL - LCK Spring,Nongshim RedForce,KT Rolster,under,total_inhibitors 1.5,27.57%,1.76,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953731/F19/,pending
+2024-02-17,LOL - LCK Spring,Gen.G,Hanwha Life Esports,under,total_dragons 4.5,29.81%,1.93,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953733/F19/,pending
+2024-02-17,LOL - LCK Spring,Gen.G,Hanwha Life Esports,under,total_towers 12.5,14.82%,1.5,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953733/F19/,pending
+2024-02-17,LOL - LCK Spring,Gen.G,Hanwha Life Esports,under,game_duration 32.5,22.17%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953733/F19/,pending
+2024-02-17,LOL - LCK Spring,Gen.G,Hanwha Life Esports,under,total_inhibitors 1.5,38.05%,1.81,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953733/F19/,pending
+2024-02-17,LOL - LCK Spring,Gen.G,Hanwha Life Esports,under,total_barons 1.5,49.82%,1.22,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953733/F19/,pending
+2024-02-17,LOL - LCK Spring,Dplus KIA,DRX,over,total_dragons 4.5,16.00%,1.81,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953734/F19/,pending
+2024-02-17,LOL - LCK Spring,Dplus KIA,DRX,under,total_kills 20.5,20.26%,1.52,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953734/F19/,pending
+2024-02-18,LOL - LCK Spring,FearX,T1,under,total_dragons 4.5,12.64%,1.47,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953735/F19/,pending
+2024-02-18,LOL - LCK Spring,FearX,T1,under,total_towers 11.5,12.50%,1.33,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953735/F19/,pending
+2024-02-18,LOL - LCK Spring,FearX,T1,over,game_duration 27.5,24.18%,1.47,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953735/F19/,pending
+2024-02-18,LOL - LCK Spring,Nongshim RedForce,OKSavingsBank BRION,under,total_dragons 4.5,38.74%,1.8,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953736/F19/,pending
+2024-02-18,LOL - LCK Spring,Nongshim RedForce,OKSavingsBank BRION,under,game_duration 33.5,22.67%,1.49,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953736/F19/,pending
+2024-02-18,LOL - LCK Spring,Nongshim RedForce,OKSavingsBank BRION,under,total_barons 1.5,49.10%,1.59,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20930782/D19/E18953736/F19/,pending
+2024-02-10,LOL - CBLOL Split 1,Liberty,Los Grandes,under,total_towers 12.5,43.33%,1.2,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960341/F19/,pending
+2024-02-10,LOL - CBLOL Split 1,Liberty,Los Grandes,under,game_duration 33.5,34.20%,1.36,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960341/F19/,pending
+2024-02-10,LOL - CBLOL Split 1,Liberty,Los Grandes,under,total_inhibitors 1.5,21.00%,1.82,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960341/F19/,pending
+2024-02-10,LOL - CBLOL Split 1,Liberty,Los Grandes,under,total_barons 1.5,26.67%,1.58,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960341/F19/,pending
+2024-02-10,LOL - CBLOL Split 1,Fluxo,paiN Gaming,over,total_towers 12.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960343/F19/,pending
+2024-02-10,LOL - CBLOL Split 1,LOUD,RED Canids,over,total_towers 12.5,50.10%,1.58,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960343/F19/,pending
+2024-02-10,LOL - CBLOL Split 1,LOUD,RED Canids,over,total_inhibitors 1.5,15.38%,1.4,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960343/F19/,pending
+2024-02-10,LOL - CBLOL Split 1,FURIA,Vivo Keyd Stars,under,total_dragons 4.5,40.00%,1.5,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960344/F19/,pending
+2024-02-10,LOL - CBLOL Split 1,FURIA,Vivo Keyd Stars,under,total_towers 12.5,24.50%,1.33,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960344/F19/,pending
+2024-02-10,LOL - CBLOL Split 1,FURIA,Vivo Keyd Stars,under,game_duration 32.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960344/F19/,pending
+2024-02-10,LOL - CBLOL Split 1,FURIA,Vivo Keyd Stars,under,total_barons 1.5,14.67%,1.5,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960344/F19/,pending
+2024-02-11,LOL - CBLOL Split 1,paiN Gaming,Vivo Keyd Stars,under,total_dragons 4.5,16.67%,1.71,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960346/F19/,pending
+2024-02-11,LOL - CBLOL Split 1,paiN Gaming,Vivo Keyd Stars,under,game_duration 32.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960346/F19/,pending
+2024-02-11,LOL - CBLOL Split 1,paiN Gaming,Vivo Keyd Stars,under,total_inhibitors 1.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960346/F19/,pending
+2024-02-11,LOL - CBLOL Split 1,FURIA,KaBuM! Esports,under,total_dragons 4.5,10.83%,1.71,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960347/F19/,pending
+2024-02-11,LOL - CBLOL Split 1,FURIA,KaBuM! Esports,under,game_duration 32.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960347/F19/,pending
+2024-02-11,LOL - CBLOL Split 1,FURIA,KaBuM! Esports,under,total_barons 1.5,29.00%,1.33,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960347/F19/,pending
+2024-02-11,LOL - CBLOL Split 1,RED Canids,Liberty,over,total_dragons 4.5,43.00%,1.54,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960348/F19/,pending
+2024-02-11,LOL - CBLOL Split 1,RED Canids,Liberty,over,total_towers 11.5,18.95%,1.54,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960348/F19/,pending
+2024-02-11,LOL - CBLOL Split 1,RED Canids,Liberty,over,total_barons 1.5,28.33%,2.14,2.75,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960348/F19/,pending
+2024-02-11,LOL - CBLOL Split 1,Fluxo,INTZ,under,total_dragons 4.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960349/F19/,pending
+2024-02-11,LOL - CBLOL Split 1,Fluxo,INTZ,over,total_inhibitors 1.5,20.75%,1.33,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960349/F19/,pending
+2024-02-11,LOL - CBLOL Split 1,Los Grandes,LOUD,under,total_towers 11.5,13.33%,1.76,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960350/F19/,pending
+2024-02-11,LOL - CBLOL Split 1,Los Grandes,LOUD,under,game_duration 31.5,34.20%,1.36,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933014/D19/E18960350/F19/,pending
+2024-02-10,LOL - LCS Spring,FlyQuest,Shopify Rebellion,under,total_barons 1.5,26.29%,1.08,1.36,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960333/F19/,pending
+2024-02-10,LOL - LCS Spring,Team Liquid,100 Thieves,over,total_kills 23.5,30.71%,1.4,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960334/F19/,pending
+2024-02-10,LOL - LCS Spring,Team Liquid,100 Thieves,over,total_inhibitors 1.5,18.57%,1.4,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960334/F19/,pending
+2024-02-10,LOL - LCS Spring,Team Liquid,100 Thieves,under,total_barons 1.5,23.43%,1.17,1.44,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960334/F19/,pending
+2024-02-11,LOL - LCS Spring,NRG,Cloud9,under,total_dragons 4.5,15.71%,1.56,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960335/F19/,pending
+2024-02-11,LOL - LCS Spring,NRG,Cloud9,under,total_towers 12.5,18.57%,1.4,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960335/F19/,pending
+2024-02-11,LOL - LCS Spring,NRG,Cloud9,under,game_duration 32.5,30.71%,1.4,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960335/F19/,pending
+2024-02-11,LOL - LCS Spring,Immortals,Dignitas,over,total_towers 12.5,20.00%,1.75,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960336/F19/,pending
+2024-02-11,LOL - LCS Spring,Immortals,Dignitas,over,total_kills 22.5,17.64%,1.56,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960336/F19/,pending
+2024-02-11,LOL - LCS Spring,Immortals,Dignitas,under,total_inhibitors 1.5,20.00%,1.75,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960336/F19/,pending
+2024-02-11,LOL - LCS Spring,Immortals,Dignitas,under,total_barons 1.5,13.14%,1.27,1.44,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960336/F19/,pending
+2024-02-11,LOL - LCS Spring,Team Liquid,Shopify Rebellion,over,total_dragons 4.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960338/F19/,pending
+2024-02-11,LOL - LCS Spring,Team Liquid,Shopify Rebellion,over,total_kills 22.5,17.64%,1.56,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960338/F19/,pending
+2024-02-11,LOL - LCS Spring,Team Liquid,Shopify Rebellion,under,total_barons 1.5,16.57%,1.17,1.36,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960338/F19/,pending
+2024-02-11,LOL - LCS Spring,Immortals,FlyQuest,over,total_dragons 4.5,35.00%,1.56,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960339/F19/,pending
+2024-02-11,LOL - LCS Spring,Immortals,FlyQuest,over,total_towers 12.5,28.57%,1.75,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960339/F19/,pending
+2024-02-11,LOL - LCS Spring,Immortals,FlyQuest,under,total_inhibitors 1.5,35.00%,1.56,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960339/F19/,pending
+2024-02-11,LOL - LCS Spring,Immortals,FlyQuest,under,total_barons 1.5,10.00%,1.27,1.4,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960339/F19/,pending
+2024-02-12,LOL - LCS Spring,Cloud9,100 Thieves,under,total_towers 12.5,23.36%,1.27,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960339/F19/,pending
+2024-02-12,LOL - LCS Spring,Cloud9,100 Thieves,over,total_kills 23.5,17.64%,1.56,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960339/F19/,pending
+2024-02-12,LOL - LCS Spring,Cloud9,100 Thieves,under,game_duration 31.5,17.64%,1.56,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960339/F19/,pending
+2024-02-12,LOL - LCS Spring,Cloud9,100 Thieves,under,total_barons 1.5,30.00%,1.08,1.4,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960339/F19/,pending
+2024-02-12,LOL - LCS Spring,NRG,Dignitas,under,game_duration 32.5,17.64%,1.56,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960340/F19/,pending
+2024-02-12,LOL - LCS Spring,NRG,Dignitas,over,total_inhibitors 1.5,30.43%,1.27,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20932177/D19/E18960340/F19/,pending
+2024-02-05,CBLOL Academy,FURIA,Liberty,FD,first_dragon FURIA,19.80%,1.5,1.797,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-08,EBL 2024 Spring,Ankora Gaming,Diamant Esports,FD,first_dragon Diamant Esports,87.40%,1.0,1.874,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-08,EBL 2024 Spring,Crvena zvezda Esports,Partizan Esports,FD,first_dragon Crvena zvezda Esports,13.87%,1.5,1.708,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-08,EBL 2024 Spring,BeFive,Lupus Esports,FD,first_dragon BeFive,80.70%,1.0,1.807,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-09,EBL 2024 Spring,Diamant Esports,SPIKE Syndicate,FD,first_dragon Diamant Esports,82.90%,1.0,1.829,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-09,EBL 2024 Spring,Ankora Gaming,Partizan Esports,FD,first_dragon Ankora Gaming,11.33%,1.5,1.67,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-09,EBL 2024 Spring,BeFive,Crvena zvezda Esports,FD,first_dragon BeFive,67.00%,1.0,1.67,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-09,EBL 2024 Spring,Lupus Esports,Cyber Wolves,FD,first_dragon Lupus Esports,16.13%,1.5,1.742,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-06,Elite Series 2024 Spring,Once Upon A Team,Myth Esports,FD,first_dragon Myth Esports,44.15%,1.33,1.922,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,loss
+2024-02-08,Elite Series 2024 Spring,Myth Esports,ZennIT,FD,first_dragon ZennIT,90.40%,1.0,1.904,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-13,Greek Legends League 2024 Spring,WLGaming Esports,Team Mythic,FD,first_dragon Team Mythic,113.10%,1.0,2.131,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-13,Greek Legends League 2024 Spring,Gamespace Mediterranean College Esports,Team Phantasma,FD,first_dragon Team Phantasma,51.57%,1.33,2.021,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-14,Greek Legends League 2024 Spring,Gamespace Mediterranean College Esports,Team Refuse,FD,first_dragon Gamespace Mediterranean College Esports,24.65%,1.33,1.662,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-14,Greek Legends League 2024 Spring,Team Phantasma,Team Mythic,FD,first_dragon Team Mythic,97.50%,1.0,1.975,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-06,Hitpoint Masters 2024 Spring,GLORE,BRUTE,FD,first_dragon BRUTE,44.98%,1.33,1.933,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,loss
+2024-02-06,Hitpoint Masters 2024 Spring,Entropiq,Europe Saviors Club,FD,first_dragon Europe Saviors Club,66.20%,1.33,2.216,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-06,Hitpoint Masters 2024 Spring,eSuba,Team UNiTY,FD,first_dragon Team UNiTY,51.57%,1.33,2.021,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,loss
+2024-02-09,Hitpoint Masters 2024 Spring,BRUTE,Team UNiTY,FD,first_dragon Team UNiTY,44.98%,1.33,1.933,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-09,Hitpoint Masters 2024 Spring,Entropiq,eSuba,FD,first_dragon Entropiq,67.00%,1.0,1.67,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-09,Hitpoint Masters 2024 Spring,OGC Sigma Esports,Europe Saviors Club,FD,first_dragon Europe Saviors Club,47.23%,1.33,1.963,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-15,LCK 2024 Spring Season,T1,Dplus KIA,FD,first_dragon Dplus KIA,29.79%,1.56,2.019,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-15,LCK 2024 Spring Season,T1,Dplus KIA,over,game_duration 29.0,21.24%,1.56,1.886,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-15,LCK 2024 Spring Season,T1,Dplus KIA,under,total_barons 1.5,13.00%,1.4,1.582,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-15,LCK 2024 Spring Season,Hanwha Life Esports,OKSavingsBank BRION,over,game_duration 28.0,30.95%,1.37,1.792,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-16,LCK 2024 Spring Season,Kwangdong Freecs,FearX,over,total_kills 23.5,10.59%,1.68,1.855,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-16,LCK 2024 Spring Season,Kwangdong Freecs,FearX,under,game_duration 33.0,10.88%,1.7,1.886,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-16,LCK 2024 Spring Season,Kwangdong Freecs,FearX,under,total_barons 1.5,35.12%,1.5,2.024,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-17,LCK 2024 Spring Season,Dplus KIA,DRX,under,total_kills 20.5,23.94%,1.52,1.886,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-17,LCK 2024 Spring Season,Dplus KIA,DRX,FD,first_dragon DRX,10.93%,1.88,2.08,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-17,LCK 2024 Spring Season,Dplus KIA,DRX,over,game_duration 31.0,10.47%,1.71,1.886,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-18,LCK 2024 Spring Season,T1,FearX,over,total_kills 21.5,34.71%,1.4,1.886,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-18,LCK 2024 Spring Season,T1,FearX,FD,first_dragon FearX,14.40%,2.0,2.288,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-18,LCK 2024 Spring Season,T1,FearX,over,game_duration 28.0,27.98%,1.47,1.886,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-18,LCK 2024 Spring Season,Nongshim RedForce,OKSavingsBank BRION,under,total_kills 23.5,41.53%,1.35,1.908,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-18,LCK 2024 Spring Season,Nongshim RedForce,OKSavingsBank BRION,under,game_duration 33.0,19.17%,1.58,1.886,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-18,LCK 2024 Spring Season,Nongshim RedForce,OKSavingsBank BRION,under,total_barons 1.5,27.33%,1.59,2.024,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-05,LCK Challengers League 2024 Spring,Nongshim Esports Academy,Kwangdong Freecs Challengers,FD,first_dragon Kwangdong Freecs Challengers,19.52%,1.67,1.992,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-05,LCK Challengers League 2024 Spring,Nongshim Esports Academy,Kwangdong Freecs Challengers,over,game_duration 31.0,14.11%,1.57,1.79,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-05,LCK Challengers League 2024 Spring,Dplus KIA Challengers,OKSavingsBank BRION Challengers,FD,first_dragon OKSavingsBank BRION Challengers,24.88%,1.55,1.93,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,win
+2024-02-05,LCK Challengers League 2024 Spring,Gen.G Global Academy,T1 Esports Academy,under,total_kills 26.5,15.73%,1.5,1.736,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-05,LCK Challengers League 2024 Spring,Gen.G Global Academy,T1 Esports Academy,FD,first_dragon T1 Esports Academy,88.90%,1.0,1.889,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-05,LCK Challengers League 2024 Spring,Gen.G Global Academy,T1 Esports Academy,under,total_barons 1.5,38.82%,1.33,1.851,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,pending
+2024-02-06,LCK Challengers League 2024 Spring,KT Rolster Challengers,DRX Challengers,FD,first_dragon KT Rolster Challengers,18.00%,1.5,1.77,Dafabet,https://esports.e1q1j0ov.com/esportsite/index.html?v=231219200001&id=1032&token=&languageCode=0&liveStream=1&theme=default&streamer=1&streamerLiveStream=1#/,win
+2024-02-06,LOL - LCO Split 1,ION Global Esports,Team Bliss,over,total_dragons 4.5,35.42%,1.85,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914243/F19/,loss
+2024-02-06,LOL - LCO Split 1,ION Global Esports,Team Bliss,over,total_towers 12.5,35.42%,1.85,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914243/F19/,loss
+2024-02-06,LOL - LCO Split 1,ION Global Esports,Team Bliss,over,total_kills 29.5,29.62%,1.41,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914243/F19/,loss
+2024-02-06,LOL - LCO Split 1,ION Global Esports,Team Bliss,over,game_duration 29.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914243/F19/,loss
+2024-02-06,LOL - LCO Split 1,ION Global Esports,Team Bliss,over,total_barons 1.5,14.58%,2.4,2.75,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914243/F19/,loss
+2024-02-06,LOL - LCO Split 1,Antic Esports,FURY Global,over,total_dragons 4.5,108.33%,1.2,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914243/F19/,loss
+2024-02-06,LOL - LCO Split 1,Antic Esports,FURY Global,over,total_towers 12.5,87.50%,1.33,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914243/F19/,win
+2024-02-06,LOL - LCO Split 1,Antic Esports,FURY Global,over,total_kills 29.5,52.50%,1.2,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914243/F19/,loss
+2024-02-06,LOL - LCO Split 1,Antic Esports,FURY Global,over,game_duration 29.5,52.50%,1.2,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914243/F19/,loss
+2024-02-06,LOL - LCO Split 1,Antic Esports,FURY Global,under,total_inhibitors 1.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914243/F19/,loss
+2024-02-06,LOL - LCO Split 1,Antic Esports,FURY Global,over,total_barons 1.5,14.58%,2.4,2.75,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914243/F19/,loss
+2024-02-07,LOL - LCO Split 1,ION Global Esports,Ground Zero Gaming,over,total_dragons 4.5,25.00%,1.6,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914574/F19/,loss
+2024-02-07,LOL - LCO Split 1,FURY Global,Dire Wolves,over,total_dragons 4.5,16.67%,1.71,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914574/F19/,pending
+2024-02-07,LOL - LCO Split 1,FURY Global,Dire Wolves,over,total_kills 31.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914574/F19/,pending
+2024-02-07,LOL - LCO Split 1,FURY Global,Dire Wolves,under,total_inhibitors 1.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20938039/D19/E18914574/F19/,pending
+2024-02-06,LOL - LLA Opening,Isurus,All Knights,under,total_dragons 4.5,17.58%,1.41,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940694/F19/,win
+2024-02-06,LOL - LLA Opening,Isurus,All Knights,under,game_duration 31.5,29.63%,1.41,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940694/F19/,win
+2024-02-06,LOL - LLA Opening,Isurus,All Knights,under,total_barons 1.5,22.99%,1.31,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940694/F19/,win
+2024-02-07,LOL - LLA Opening,Estral Esports,Six Karma,over,total_inhibitors 1.5,10.91%,1.45,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940695/F19/,pending
+2024-02-07,LOL - LLA Opening,Isurus,Six Karma,under,total_dragons 4.5,19.46%,1.53,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18951965/F19/,pending
+2024-02-07,LOL - LLA Opening,Isurus,Six Karma,under,total_towers 12.5,24.03%,1.53,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18951965/F19/,pending
+2024-02-07,LOL - LLA Opening,Isurus,Six Karma,under,total_kills 27.5,29.63%,1.41,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18951965/F19/,pending
+2024-02-07,LOL - LLA Opening,Isurus,Six Karma,under,game_duration 32.5,19.46%,1.53,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18951965/F19/,pending
+2024-02-07,LOL - LLA Opening,Isurus,Six Karma,under,total_barons 1.5,17.58%,1.41,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18951965/F19/,pending
+2024-02-07,LOL - LLA Opening,Leviatan,INFINITY,under,total_kills 22.5,36.23%,1.34,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940696/F19/,pending
+2024-02-07,LOL - LLA Opening,Leviatan,INFINITY,under,total_barons 1.5,27.09%,1.35,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940696/F19/,pending
+2024-02-08,LOL - LLA Opening,Movistar R7,Estral Esports,under,total_dragons 4.5,37.58%,1.17,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940697/F19/,pending
+2024-02-08,LOL - LLA Opening,Movistar R7,Estral Esports,over,total_kills 23.5,13.13%,1.62,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940697/F19/,pending
+2024-02-08,LOL - LLA Opening,Movistar R7,Estral Esports,under,game_duration 30.5,38.91%,1.32,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940697/F19/,pending
+2024-02-08,LOL - LLA Opening,Movistar R7,Estral Esports,under,total_barons 1.5,49.40%,1.11,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940697/F19/,pending
+2024-02-08,LOL - LLA Opening,Isurus,INFINITY,under,total_kills 24.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940698/F19/,pending
+2024-02-08,LOL - LLA Opening,Isurus,INFINITY,under,game_duration 31.5,19.46%,1.53,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940698/F19/,pending
+2024-02-08,LOL - LLA Opening,Isurus,INFINITY,under,total_barons 1.5,22.99%,1.31,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940698/F19/,pending
+2024-02-09,LOL - LLA Opening,Leviatan,All Knights,under,total_dragons 4.5,17.53%,1.46,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940699/F19/,pending
+2024-02-09,LOL - LLA Opening,Leviatan,All Knights,over,total_inhibitors 1.5,19.85%,1.28,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940699/F19/,pending
+2024-02-09,LOL - LLA Opening,Leviatan,All Knights,under,total_barons 1.5,27.09%,1.35,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20933562/D19/E18940699/F19/,pending
+2024-02-11,LOL - LEC Winter - Playoffs,G2 Esports,Team BDS,under,total_towers 12.5,29.90%,1.32,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18969888/F19/,pending
+2024-02-11,LOL - LEC Winter - Playoffs,G2 Esports,Team BDS,under,total_kills 27.5,14.53%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18969888/F19/,pending
+2024-02-11,LOL - LEC Winter - Playoffs,G2 Esports,Team BDS,under,total_inhibitors 1.5,45.10%,1.72,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20942938/D19/E18969888/F19/,pending
+2024-02-07,LOL - LFL Spring,Team GO,Vitality.Bee,under,total_dragons 4.5,22.50%,1.71,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940766/F19/,pending
+2024-02-07,LOL - LFL Spring,Team GO,Vitality.Bee,under,total_barons 1.5,29.00%,1.33,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940766/F19/,pending
+2024-02-07,LOL - LFL Spring,Aegis,Gentle Mates,under,total_kills 24.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940767/F19/,pending
+2024-02-07,LOL - LFL Spring,Aegis,Gentle Mates,under,total_inhibitors 1.5,46.67%,1.5,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940767/F19/,pending
+2024-02-07,LOL - LFL Spring,Karmine Corp Blue,Team BDS Academy,over,total_towers 12.5,23.27%,1.4,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940768/F19/,pending
+2024-02-07,LOL - LFL Spring,Karmine Corp Blue,Team BDS Academy,under,total_kills 26.5,12.85%,1.62,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940768/F19/,pending
+2024-02-07,LOL - LFL Spring,Karmine Corp Blue,Team BDS Academy,under,total_barons 1.5,47.00%,1.22,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940768/F19/,pending
+2024-02-07,LOL - LFL Spring,Team du Sud,Solary,over,total_dragons 4.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940769/F19/,pending
+2024-02-07,LOL - LFL Spring,Team du Sud,Solary,over,total_towers 12.5,10.00%,1.82,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940769/F19/,pending
+2024-02-07,LOL - LFL Spring,Team du Sud,Solary,over,game_duration 33.5,18.95%,1.54,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940769/F19/,pending
+2024-02-07,LOL - LFL Spring,Team du Sud,Solary,under,total_inhibitors 1.5,27.50%,1.76,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940769/F19/,pending
+2024-02-08,LOL - LFL Spring,Team BDS Academy,Team GO,over,total_towers 12.5,24.50%,1.33,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940771/F19/,pending
+2024-02-08,LOL - LFL Spring,Team BDS Academy,Team GO,under,total_barons 1.5,20.00%,1.5,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940771/F19/,pending
+2024-02-08,LOL - LFL Spring,Aegis,GameWard,under,total_kills 24.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940771/F19/,pending
+2024-02-08,LOL - LFL Spring,Aegis,GameWard,under,total_inhibitors 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940771/F19/,pending
+2024-02-08,LOL - LFL Spring,Aegis,GameWard,under,total_barons 1.5,20.00%,1.5,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940771/F19/,pending
+2024-02-08,LOL - LFL Spring,Team du Sud,Vitality.Bee,under,total_dragons 4.5,14.67%,1.5,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940773/F19/,pending
+2024-02-08,LOL - LFL Spring,Team du Sud,Vitality.Bee,over,total_towers 12.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940773/F19/,pending
+2024-02-08,LOL - LFL Spring,Team du Sud,Vitality.Bee,under,game_duration 31.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940773/F19/,pending
+2024-02-08,LOL - LFL Spring,Team du Sud,Vitality.Bee,under,total_barons 1.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940773/F19/,pending
+2024-02-08,LOL - LFL Spring,Gentle Mates,Karmine Corp Blue,under,total_inhibitors 1.5,12.50%,2.22,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940774/F19/,pending
+2024-02-07,LOL - NLC Spring,Ruddy Esports,Lundqvist Lightside,over,total_dragons 4.5,10.83%,1.71,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940703/F19/,pending
+2024-02-07,LOL - NLC Spring,Ruddy Esports,Lundqvist Lightside,over,total_towers 12.5,28.37%,1.85,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940703/F19/,pending
+2024-02-07,LOL - NLC Spring,Ruddy Esports,Lundqvist Lightside,under,total_kills 33.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940703/F19/,pending
+2024-02-07,LOL - NLC Spring,Ruddy Esports,Lundqvist Lightside,under,total_inhibitors 1.5,31.25%,1.71,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940703/F19/,pending
+2024-02-07,LOL - NLC Spring,Ruddy Esports,Lundqvist Lightside,over,total_barons 1.5,41.67%,1.41,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940703/F19/,pending
+2024-02-07,LOL - NLC Spring,Venomcrest Esports,NORD Esports,under,total_kills 34.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940704/F19/,pending
+2024-02-07,LOL - NLC Spring,Venomcrest Esports,NORD Esports,under,total_inhibitors 1.5,37.50%,1.6,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940704/F19/,pending
+2024-02-08,LOL - NLC Spring,Nativz,Lionscreed,under,total_dragons 4.5,29.00%,1.33,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940705/F19/,pending
+2024-02-08,LOL - NLC Spring,Nativz,Lionscreed,over,total_towers 12.5,35.42%,1.85,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940705/F19/,pending
+2024-02-08,LOL - NLC Spring,NORD Esports,Lundqvist Lightside,over,total_dragons 4.5,48.75%,1.41,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940706/F19/,pending
+2024-02-08,LOL - NLC Spring,NORD Esports,Lundqvist Lightside,over,total_towers 11.5,11.21%,1.41,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940706/F19/,pending
+2024-02-08,LOL - NLC Spring,NORD Esports,Lundqvist Lightside,under,total_kills 31.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940706/F19/,pending
+2024-02-08,LOL - NLC Spring,NORD Esports,Lundqvist Lightside,over,total_barons 1.5,55.83%,1.41,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940706/F19/,pending
+2024-02-08,LOL - NLC Spring,Ruddy Esports,DMG Esports,over,total_dragons 4.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940707/F19/,pending
+2024-02-08,LOL - NLC Spring,Ruddy Esports,DMG Esports,over,total_towers 11.5,14.75%,1.33,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940707/F19/,pending
+2024-02-08,LOL - NLC Spring,Ruddy Esports,DMG Esports,over,game_duration 29.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940707/F19/,pending
+2024-02-08,LOL - NLC Spring,Ruddy Esports,DMG Esports,over,total_barons 1.5,37.50%,2.0,2.75,Bet365,https://www.bet365.com/#/AC/B151/C20938042/D19/E18940707/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,Movistar KOI,Los Heretics,under,total_dragons 4.5,87.50%,1.33,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940731/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,Movistar KOI,Los Heretics,under,total_inhibitors 1.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940731/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,Movistar KOI,Los Heretics,under,total_barons 1.5,87.50%,1.33,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940731/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,ZETA,Guasones,under,total_dragons 4.5,38.25%,1.71,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940732/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,ZETA,Guasones,under,total_barons 1.5,58.00%,1.5,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940732/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,GIANTX Pride,Case Esports,under,total_dragons 4.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940733/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,GIANTX Pride,Case Esports,under,total_barons 1.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940733/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,UCAM Tokiers,Ramboot Club,over,total_dragons 4.5,68.75%,1.33,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940734/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,UCAM Tokiers,Ramboot Club,over,total_towers 12.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940734/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,UCAM Tokiers,Ramboot Club,over,total_kills 26.5,35.00%,1.33,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940734/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,UCAM Tokiers,Ramboot Club,over,game_duration 31.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940734/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,UCAM Tokiers,Ramboot Club,over,total_inhibitors 1.5,52.50%,1.2,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940734/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,UCAM Tokiers,Ramboot Club,over,total_barons 1.5,66.67%,1.5,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940734/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,Barça eSports,Rebels Gaming,over,total_kills 26.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940735/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,Barça eSports,Rebels Gaming,under,total_inhibitors 1.5,16.67%,1.71,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940735/F19/,pending
+2024-02-07,LOL - LVP Superliga Spring,Barça eSports,Rebels Gaming,over,total_barons 1.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940735/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Movistar KOI,Barça eSports,over,total_towers 11.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940736/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Movistar KOI,Barça eSports,over,total_kills 26.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940736/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Movistar KOI,Barça eSports,under,total_inhibitors 1.5,20.00%,1.5,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940736/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Rebels Gaming,UCAM Tokiers,over,total_dragons 4.5,52.50%,1.2,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940737/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Rebels Gaming,UCAM Tokiers,over,total_towers 12.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940737/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Rebels Gaming,UCAM Tokiers,over,total_kills 27.5,50.00%,1.2,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940737/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Rebels Gaming,UCAM Tokiers,over,game_duration 32.5,52.50%,1.2,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940737/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Rebels Gaming,UCAM Tokiers,over,total_inhibitors 1.5,29.00%,1.33,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940737/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Rebels Gaming,UCAM Tokiers,over,total_barons 1.5,75.00%,1.2,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940737/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Ramboot Club,GIANTX Pride,under,total_dragons 4.5,22.50%,1.71,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940738/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Case Esports,ZETA,over,total_dragons 4.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940739/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Case Esports,ZETA,over,game_duration 29.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940739/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Case Esports,ZETA,over,total_inhibitors 1.5,38.33%,1.2,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940739/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Los Heretics,Guasones,over,total_towers 11.5,66.67%,1.5,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940740/F19/,pending
+2024-02-08,LOL - LVP Superliga Spring,Los Heretics,Guasones,over,total_barons 1.5,13.33%,3.0,3.4,Bet365,https://www.bet365.com/#/AC/B151/C20934858/D19/E18940740/F19/,pending
+2024-02-08,LOL - TCL Winter,BoostGate Esports,NASR eSports Turkey,over,total_dragons 4.5,29.00%,1.33,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947091/F19/,pending
+2024-02-08,LOL - TCL Winter,BoostGate Esports,NASR eSports Turkey,over,total_towers 12.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947091/F19/,pending
+2024-02-08,LOL - TCL Winter,BoostGate Esports,NASR eSports Turkey,over,total_inhibitors 1.5,17.75%,1.33,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947091/F19/,pending
+2024-02-08,LOL - TCL Winter,Dark Passage,Papara SuperMassive,over,total_dragons 4.5,33.88%,1.14,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947092/F19/,pending
+2024-02-08,LOL - TCL Winter,Dark Passage,Papara SuperMassive,over,total_towers 12.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947092/F19/,pending
+2024-02-08,LOL - TCL Winter,Dark Passage,Papara SuperMassive,under,total_inhibitors 1.5,40.62%,1.6,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947092/F19/,pending
+2024-02-08,LOL - TCL Winter,Misa Esports,FUT Esports,over,total_dragons 4.5,40.62%,1.6,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947093/F19/,pending
+2024-02-08,LOL - TCL Winter,Misa Esports,FUT Esports,over,total_towers 12.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947093/F19/,pending
+2024-02-08,LOL - TCL Winter,Misa Esports,FUT Esports,under,total_kills 29.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947093/F19/,pending
+2024-02-08,LOL - TCL Winter,Misa Esports,FUT Esports,under,game_duration 32.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947093/F19/,pending
+2024-02-08,LOL - TCL Winter,Misa Esports,FUT Esports,over,total_inhibitors 1.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947093/F19/,pending
+2024-02-08,LOL - TCL Winter,Misa Esports,FUT Esports,under,total_barons 1.5,12.50%,1.33,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947093/F19/,pending
+2024-02-09,LOL - TCL Winter,Dark Passage,Misa Esports,under,total_kills 29.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947094/F19/,pending
+2024-02-09,LOL - TCL Winter,Dark Passage,Misa Esports,under,game_duration 33.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947094/F19/,pending
+2024-02-09,LOL - TCL Winter,Dark Passage,Misa Esports,under,total_inhibitors 1.5,48.13%,1.6,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947094/F19/,pending
+2024-02-09,LOL - TCL Winter,Dark Passage,Misa Esports,under,total_barons 1.5,25.00%,1.6,2.0,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947094/F19/,pending
+2024-02-09,LOL - TCL Winter,Galakticos,FUT Esports,over,total_dragons 4.5,68.75%,1.33,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947096/F19/,pending
+2024-02-09,LOL - TCL Winter,Galakticos,FUT Esports,over,total_towers 11.5,42.50%,1.33,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947096/F19/,pending
+2024-02-09,LOL - TCL Winter,Galakticos,FUT Esports,over,total_kills 28.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947096/F19/,pending
+2024-02-09,LOL - TCL Winter,Galakticos,FUT Esports,over,game_duration 30.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947096/F19/,pending
+2024-02-09,LOL - TCL Winter,Galakticos,FUT Esports,over,total_inhibitors 1.5,60.13%,1.14,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947096/F19/,pending
+2024-02-09,LOL - TCL Winter,Galakticos,FUT Esports,over,total_barons 1.5,12.50%,2.67,3.0,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947096/F19/,pending
+2024-02-09,LOL - TCL Winter,BoostGate Esports,Papara SuperMassive,over,total_dragons 4.5,35.00%,1.33,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947097/F19/,pending
+2024-02-09,LOL - TCL Winter,BoostGate Esports,Papara SuperMassive,over,total_kills 26.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947097/F19/,pending
+2024-02-09,LOL - TCL Winter,BoostGate Esports,Papara SuperMassive,under,total_inhibitors 1.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947097/F19/,pending
+2024-02-09,LOL - TCL Winter,BoostGate Esports,Papara SuperMassive,under,total_barons 1.5,14.75%,1.33,1.53,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947097/F19/,pending
+2024-02-07,LOL - LFL Spring,GameWard,BK ROG Esports,over,total_dragons 4.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940765/F19/,pending
+2024-02-07,LOL - LFL Spring,GameWard,BK ROG Esports,over,total_towers 12.5,10.67%,1.5,1.66,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940765/F19/,pending
+2024-02-07,LOL - LFL Spring,GameWard,BK ROG Esports,over,game_duration 32.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940765/F19/,pending
+2024-02-07,LOL - LFL Spring,GameWard,BK ROG Esports,over,total_inhibitors 1.5,34.17%,1.2,1.61,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940765/F19/,pending
+2024-02-07,LOL - LFL Spring,GameWard,BK ROG Esports,over,total_barons 1.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940765/F19/,pending
+2024-02-08,LOL - LFL Spring,BK ROG Esports,Solary,over,total_dragons 4.5,29.00%,1.33,1.72,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940772/F19/,pending
+2024-02-08,LOL - LFL Spring,BK ROG Esports,Solary,over,game_duration 32.5,18.95%,1.54,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20932761/D19/E18940772/F19/,pending
+2024-02-08,LOL - TCL Winter,Galakticos,Beşiktaş Esports,over,total_dragons 4.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947090/F19/,pending
+2024-02-08,LOL - TCL Winter,Galakticos,Beşiktaş Esports,over,total_towers 11.5,68.75%,1.33,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947090/F19/,pending
+2024-02-09,LOL - TCL Winter,Beşiktaş Esports,NASR eSports Turkey,under,total_towers 12.5,31.25%,1.6,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947095/F19/,pending
+2024-02-09,LOL - TCL Winter,Beşiktaş Esports,NASR eSports Turkey,under,total_kills 29.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947095/F19/,pending
+2024-02-09,LOL - TCL Winter,Beşiktaş Esports,NASR eSports Turkey,under,game_duration 33.5,14.38%,1.6,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947095/F19/,pending
+2024-02-09,LOL - TCL Winter,Beşiktaş Esports,NASR eSports Turkey,under,total_inhibitors 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947095/F19/,pending
+2024-02-09,LOL - TCL Winter,Beşiktaş Esports,NASR eSports Turkey,under,total_barons 1.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20938561/D19/E18947095/F19/,pending
+2024-02-07,LOL - Prime League Spring,Unicorns of Love Sexy Edition,Eintracht Frankfurt,under,total_dragons 4.5,18.50%,2.0,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940718/F19/,pending
+2024-02-07,LOL - Prime League Spring,Unicorns of Love Sexy Edition,Eintracht Frankfurt,under,total_towers 11.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940718/F19/,pending
+2024-02-07,LOL - Prime League Spring,Unicorns of Love Sexy Edition,Eintracht Frankfurt,over,total_barons 1.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940718/F19/,pending
+2024-02-07,LOL - Prime League Spring,MOUZ NXT,NNO Prime,under,total_dragons 4.5,38.25%,1.71,2.37,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940719/F19/,pending
+2024-02-07,LOL - Prime League Spring,MOUZ NXT,NNO Prime,over,total_kills 28.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940719/F19/,pending
+2024-02-07,LOL - Prime League Spring,MOUZ NXT,NNO Prime,under,game_duration 32.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940719/F19/,pending
+2024-02-07,LOL - Prime League Spring,FC Schalke 04 Esports,E WIE EINFACH E-SPORTS,under,total_dragons 4.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940721/F19/,pending
+2024-02-07,LOL - Prime League Spring,FC Schalke 04 Esports,E WIE EINFACH E-SPORTS,over,total_towers 12.5,12.50%,2.0,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940721/F19/,pending
+2024-02-07,LOL - Prime League Spring,FC Schalke 04 Esports,E WIE EINFACH E-SPORTS,over,total_kills 29.5,20.00%,1.5,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940721/F19/,pending
+2024-02-07,LOL - Prime League Spring,FC Schalke 04 Esports,E WIE EINFACH E-SPORTS,under,total_barons 1.5,45.83%,1.71,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940721/F19/,pending
+2024-02-08,LOL - Prime League Spring,FC Schalke 04 Esports,Eintracht Frankfurt,under,total_dragons 4.5,66.67%,1.5,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940722/F19/,pending
+2024-02-08,LOL - Prime League Spring,FC Schalke 04 Esports,Eintracht Frankfurt,under,total_towers 12.5,43.92%,1.09,1.57,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940722/F19/,pending
+2024-02-08,LOL - Prime League Spring,FC Schalke 04 Esports,Eintracht Frankfurt,under,total_barons 1.5,31.00%,2.0,2.62,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940722/F19/,pending
+2024-02-08,LOL - Prime League Spring,Unicorns of Love Sexy Edition,NNO Prime,over,total_towers 12.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940724/F19/,pending
+2024-02-08,LOL - Prime League Spring,Unicorns of Love Sexy Edition,NNO Prime,over,total_barons 1.5,40.00%,1.5,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940724/F19/,pending
+2024-02-08,LOL - Prime League Spring,MOUZ NXT,Eintracht Spandau,over,total_towers 11.5,45.83%,1.71,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940726/F19/,pending
+2024-02-08,LOL - Prime League Spring,MOUZ NXT,Eintracht Spandau,over,total_kills 27.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940726/F19/,pending
+2024-02-08,LOL - Prime League Spring,MOUZ NXT,Eintracht Spandau,over,game_duration 28.5,67.75%,1.09,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940726/F19/,pending
+2024-02-08,LOL - Prime League Spring,MOUZ NXT,Eintracht Spandau,over,total_barons 1.5,41.67%,2.4,3.4,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940726/F19/,pending
+2024-02-07,LOL - Prime League Spring,Austrian Force willhaben,Eintracht Spandau,under,total_dragons 4.5,45.83%,1.71,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940717/F19/,pending
+2024-02-07,LOL - Prime League Spring,Austrian Force willhaben,Eintracht Spandau,under,total_towers 12.5,25.00%,1.2,1.5,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940717/F19/,pending
+2024-02-07,LOL - Prime League Spring,Austrian Force willhaben,Eintracht Spandau,under,game_duration 33.5,26.67%,1.5,1.9,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940717/F19/,pending
+2024-02-07,LOL - Prime League Spring,Austrian Force willhaben,Eintracht Spandau,under,total_inhibitors 1.5,45.83%,1.71,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940717/F19/,pending
+2024-02-07,LOL - Prime League Spring,Austrian Force willhaben,Eintracht Spandau,under,total_barons 1.5,22.50%,1.71,2.1,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940717/F19/,pending
+2024-02-07,LOL - Prime League Spring,SK Gaming Prime,Berlin International Gaming,over,total_dragons 4.5,25.00%,2.0,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940720/F19/,pending
+2024-02-07,LOL - Prime League Spring,SK Gaming Prime,Berlin International Gaming,over,total_towers 11.5,45.83%,1.71,2.5,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940720/F19/,pending
+2024-02-07,LOL - Prime League Spring,SK Gaming Prime,Berlin International Gaming,over,total_kills 27.5,20.00%,1.5,1.8,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940720/F19/,pending
+2024-02-07,LOL - Prime League Spring,SK Gaming Prime,Berlin International Gaming,over,game_duration 28.5,37.25%,1.33,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940720/F19/,pending
+2024-02-07,LOL - Prime League Spring,SK Gaming Prime,Berlin International Gaming,over,total_inhibitors 1.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940720/F19/,pending
+2024-02-07,LOL - Prime League Spring,SK Gaming Prime,Berlin International Gaming,over,total_barons 1.5,87.50%,2.0,3.75,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940720/F19/,pending
+2024-02-08,LOL - Prime League Spring,SK Gaming Prime,Austrian Force willhaben,under,total_dragons 4.5,50.00%,1.5,2.25,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940723/F19/,pending
+2024-02-08,LOL - Prime League Spring,SK Gaming Prime,Austrian Force willhaben,under,game_duration 32.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940723/F19/,pending
+2024-02-08,LOL - Prime League Spring,SK Gaming Prime,Austrian Force willhaben,under,total_inhibitors 1.5,10.00%,2.0,2.2,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940723/F19/,pending
+2024-02-08,LOL - Prime League Spring,SK Gaming Prime,Austrian Force willhaben,under,total_barons 1.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940723/F19/,pending
+2024-02-08,LOL - Prime League Spring,E WIE EINFACH E-SPORTS,Berlin International Gaming,over,total_towers 12.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940725/F19/,pending
+2024-02-08,LOL - Prime League Spring,E WIE EINFACH E-SPORTS,Berlin International Gaming,under,game_duration 33.5,22.00%,1.5,1.83,Bet365,https://www.bet365.com/#/AC/B151/C20933012/D19/E18940725/F19/,pending
